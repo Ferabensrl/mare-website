@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "titulo": "Cómo combinar cinturones con diferentes outfits",
+    "descripcion": "Descubre las reglas básicas para elegir el cinturón perfecto según tu look y ocasión.",
+    "imagen": "tip-cinturones.jpg",
+    "fecha": "2025-01-15",
+    "tags": ["Cinturones", "Styling", "Básicos"],
+    "contenido": "El cinturón es uno de los accesorios más versátiles que puedes tener en tu guardarropa. No solo tiene una función práctica, sino que puede transformar completamente un outfit...",
+    "activo": true
+  },
+  {
+    "id": "2", 
+    "titulo": "Tendencias en bijouterie para esta temporada",
+    "descripcion": "Las joyas que están marcando tendencia y cómo incorporarlas a tu estilo personal.",
+    "imagen": "tip-bijouterie.jpg",
+    "fecha": "2025-01-10", 
+    "tags": ["Bijouterie", "Tendencias", "Temporada"],
+    "contenido": "Esta temporada se caracteriza por la vuelta a los clásicos con un toque moderno. Las piezas doradas vuelven a ser protagonistas...",
+    "activo": true
+  },
+  {
+    "id": "3",
+    "titulo": "El arte de elegir la cartera perfecta", 
+    "descripcion": "Guía completa para seleccionar carteras que complementen tu figura y estilo de vida.",
+    "imagen": "tip-carteras.jpg",
+    "fecha": "2025-01-05",
+    "tags": ["Carteras", "Guía", "Estilo Personal"],
+    "contenido": "La cartera ideal debe equilibrar funcionalidad y estilo. Considera tu rutina diaria, tu tipo de cuerpo y tus preferencias personales...",
+    "activo": true
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "sobre": {
+    "titulo": "Sobre MARÉ",
+    "subtitulo": "Tu estilo en cada detalle",
+    "historia": "MARÉ nació como parte de la visión de Feraben SRL, una empresa uruguaya especializada en la importación y distribución de accesorios de calidad premium. Desde nuestros inicios, hemos creído que los accesorios no son solo complementos, sino expresiones de personalidad que definen y realzan el estilo único de cada persona.",
+    "mision": "Ofrecer accesorios de calidad excepcional que permitan a cada mujer expresar su estilo único con elegancia y confianza, mientras construimos relaciones duraderas con nuestros clientes y distribuidores.",
+    "vision": "Ser la marca de accesorios de referencia en Uruguay, reconocida por nuestra calidad, diseño y servicio excepcional, expandiendo nuestra presencia a nivel regional.",
+    "valores": [
+      "Calidad en cada producto",
+      "Elegancia en el diseño", 
+      "Confianza en las relaciones",
+      "Innovación constante",
+      "Compromiso con el cliente"
+    ]
+  },
+  "destacados": [
+    {
+      "titulo": "Nueva Colección",
+      "descripcion": "Descubre los últimos diseños que complementarán tu estilo único con elegancia y sofisticación.",
+      "imagen": "destacado-nueva-coleccion.jpg",
+      "activo": true
+    },
+    {
+      "titulo": "Tips de Estilo",
+      "descripcion": "Consejos profesionales para combinar accesorios y crear looks únicos para cada ocasión.",
+      "imagen": "destacado-tips-estilo.jpg", 
+      "activo": true
+    },
+    {
+      "titulo": "Distribuidores",
+      "descripcion": "¿Quieres vender MARÉ en tu comercio? Únete a nuestra red de distribuidores.",
+      "imagen": "destacado-distribuidores.jpg",
+      "activo": true
+    }
+  ],
+  "contacto": {
+    "whatsapp": "+59899123456",
+    "instagram": "https://instagram.com/mare.uy",
+    "email": "contacto@mareuy.com",
+    "mensaje_cta": "¿Querés vender MARÉ en tu comercio? ¿Querés saber dónde encontrar nuestros productos? ¡Contactanos!"
+  }
+}
