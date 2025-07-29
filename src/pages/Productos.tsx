@@ -122,7 +122,7 @@ const Productos: React.FC = () => {
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                         onError={(e) => {
                           e.currentTarget.style.display = 'none';
-                          e.currentTarget.nextElementSibling.style.display = 'flex';
+                          (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex';
                         }}
                       />
                     ) : null}
