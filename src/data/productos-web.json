@@ -3625,6 +3625,66 @@
     "whatsappMessage": "Hola, me interesa este producto: FN24242"
   },
   {
+    "codigo": "252408",
+    "nombre": "Aros acero",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "252408 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 252408"
+  },
+  {
+    "codigo": "252407",
+    "nombre": "Aros acero",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "252407 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 252407"
+  },
+  {
+    "codigo": "252406",
+    "nombre": "Aros acero",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "252406 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 252406"
+  },
+  {
+    "codigo": "252409",
+    "nombre": "Aros acero",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "252409 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 252409"
+  },
+  {
     "codigo": "G6924",
     "nombre": "Conjunto acero",
     "descripcion": "Conjunto acero",
