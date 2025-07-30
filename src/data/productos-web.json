@@ -151,7 +151,7 @@
   },
   {
     "codigo": "B446",
-    "nombre": "Colero con encaje",
+    "nombre": "Colero",
     "descripcion": "Colero",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -11769,66 +11769,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 212230"
   },
   {
-    "codigo": "210190",
-    "nombre": "Clip enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
-    "medidas": "",
-    "imagenes": [
-      "210190 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210190"
-  },
-  {
-    "codigo": "213230",
-    "nombre": "Clip enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
-    "medidas": "",
-    "imagenes": [
-      "213230 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 213230"
-  },
-  {
-    "codigo": "23310",
-    "nombre": "Clip enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
-    "medidas": "",
-    "imagenes": [
-      "23310 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 23310"
-  },
-  {
-    "codigo": "211260",
-    "nombre": "Clip enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
-    "medidas": "",
-    "imagenes": [
-      "211260 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 211260"
-  },
-  {
     "codigo": "50122B",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12539,7 +12479,7 @@
   {
     "codigo": "210192",
     "nombre": "Clip enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
+    "descripcion": "Clip enchapados",
     "categoria": "ZEnchapado",
     "medidas": "",
     "imagenes": [
@@ -12552,9 +12492,24 @@
     "whatsappMessage": "Hola, me interesa este producto: 210192"
   },
   {
+    "codigo": "210190",
+    "nombre": "Clip enchapadas oro",
+    "descripcion": "Clip enchapados",
+    "categoria": "ZEnchapado",
+    "medidas": "",
+    "imagenes": [
+      "210190 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 210190"
+  },
+  {
     "codigo": "213232",
     "nombre": "Clip enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
+    "descripcion": "Clip enchapados",
     "categoria": "ZEnchapado",
     "medidas": "",
     "imagenes": [
@@ -12567,9 +12522,24 @@
     "whatsappMessage": "Hola, me interesa este producto: 213232"
   },
   {
+    "codigo": "213230",
+    "nombre": "Clip enchapadas oro",
+    "descripcion": "Clip enchapados",
+    "categoria": "ZEnchapado",
+    "medidas": "",
+    "imagenes": [
+      "213230 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 213230"
+  },
+  {
     "codigo": "23312",
     "nombre": "Clip enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
+    "descripcion": "Clip enchapados",
     "categoria": "ZEnchapado",
     "medidas": "",
     "imagenes": [
@@ -12582,9 +12552,24 @@
     "whatsappMessage": "Hola, me interesa este producto: 23312"
   },
   {
+    "codigo": "23310",
+    "nombre": "Clip enchapadas oro",
+    "descripcion": "Clip enchapados",
+    "categoria": "ZEnchapado",
+    "medidas": "",
+    "imagenes": [
+      "23310 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 23310"
+  },
+  {
     "codigo": "211262",
     "nombre": "Clip enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
+    "descripcion": "Clip enchapados",
     "categoria": "ZEnchapado",
     "medidas": "",
     "imagenes": [
@@ -12597,9 +12582,24 @@
     "whatsappMessage": "Hola, me interesa este producto: 211262"
   },
   {
+    "codigo": "211260",
+    "nombre": "Clip enchapadas oro",
+    "descripcion": "Clip enchapados",
+    "categoria": "ZEnchapado",
+    "medidas": "",
+    "imagenes": [
+      "211260 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 211260"
+  },
+  {
     "codigo": "26112",
     "nombre": "Clip enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
+    "descripcion": "Clip enchapados",
     "categoria": "ZEnchapado",
     "medidas": "",
     "imagenes": [
