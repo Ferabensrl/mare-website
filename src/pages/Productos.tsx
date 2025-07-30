@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import WhatsAppButton from '../components/ui/WhatsAppButton';
+import ImageCarousel from '../components/ui/ImageCarousel';
 import productosReales from '../data/productos-web.json';
 
 // Extraer categorías únicas de los productos reales
@@ -113,25 +114,16 @@ const Productos: React.FC = () => {
               {productosFiltrados.map((producto) => (
                 <div key={producto.codigo} className="bg-white rounded-2xl shadow-soft overflow-hidden group hover:shadow-elegant transition-all duration-300 hover:-translate-y-2">
                   
-                  {/* Imagen principal */}
-                  <div className="aspect-square bg-gradient-to-br from-mare-cream to-mare-accent flex items-center justify-center relative overflow-hidden">
-                    {producto.imagenes && producto.imagenes.length > 0 ? (
-                      <img 
-                        src={`/imagenes/${producto.imagenes[0]}`} 
-                        alt={producto.nombre}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                        onError={(e) => {
-                          e.currentTarget.style.display = 'none';
-                          (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex';
-                        }}
-                      />
-                    ) : null}
-                    <div className="w-full h-full bg-gradient-to-br from-mare-cream to-mare-accent flex items-center justify-center" style={{display: producto.imagenes && producto.imagenes.length > 0 ? 'none' : 'flex'}}>
-                      <span className="text-mare-dark font-medium">Sin imagen</span>
-                    </div>
+                  {/* Carrusel de imágenes */}
+                  <div className="relative">
+                    <ImageCarousel 
+                      imagenes={producto.imagenes || []}
+                      imagenVariantes={producto.imagenVariantes}
+                      altText={producto.nombre}
+                    />
                     
                     {/* Badge de categoría */}
-                    <div className="absolute top-3 left-3">
+                    <div className="absolute top-3 left-3 z-20">
                       <span className="bg-mare-brown text-white text-xs font-medium px-2 py-1 rounded-full">
                         {producto.categoria}
                       </span>
@@ -139,7 +131,7 @@ const Productos: React.FC = () => {
                     
                     {/* Badge sin color */}
                     {producto.sinColor && (
-                      <div className="absolute top-3 right-3">
+                      <div className="absolute top-3 right-3 z-20">
                         <span className="bg-gray-600 text-white text-xs font-medium px-2 py-1 rounded-full">
                           Sin color
                         </span>

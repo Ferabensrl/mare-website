@@ -99,21 +99,21 @@ const Inicio: React.FC = () => {
               </div>
             </div>
 
-            {/* Destacado 2 - Tips de Estilo */}
+            {/* Destacado 2 - Catálogo Completo */}
             <div className="bg-white rounded-2xl shadow-soft overflow-hidden group hover:shadow-elegant transition-all duration-300">
               <div className="h-64 relative overflow-hidden">
                 <img 
                   src="/destacado-tips-estilo.jpg" 
-                  alt="Tips de Estilo MARÉ"
+                  alt="Catálogo Completo MARÉ"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
               </div>
               <div className="p-6">
                 <h3 className="font-serif text-xl font-semibold text-mare-dark mb-3">
-                  Tips de Estilo
+                  Catálogo Completo
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Consejos profesionales para combinar accesorios y crear looks únicos para cada ocasión.
+                  Explora nuestra amplia gama de accesorios, bijouterie y marroquinería para encontrar tu estilo perfecto.
                 </p>
                 <Link 
                   to="/productos" 
@@ -164,7 +164,7 @@ const Inicio: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://wa.me/59899123456?text=Hola,%20quiero%20encontrar%20productos%20MARÉ%20cerca%20de%20mi%20ubicación"
+              href="https://wa.me/59897998999?text=Hola,%20quiero%20encontrar%20productos%20MARÉ%20cerca%20de%20mi%20ubicación"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary bg-white text-mare-dark hover:bg-mare-cream text-lg px-8 py-4 hover:scale-105 transform transition-all duration-300"
