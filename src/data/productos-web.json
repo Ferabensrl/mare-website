@@ -1,5 +1,141 @@
 [
   {
+    "codigo": "W383-1",
+    "nombre": "Bandolera/Billetera juvenil",
+    "descripcion": "Bandolera juvenil",
+    "categoria": "A Infantil",
+    "medidas": "13 x 11 x 1cm",
+    "imagenes": [
+      "W383-1 1.jpg",
+      "W383-1 2.jpg",
+      "W383-1 3.jpg",
+      "W383-1 4.jpg",
+      "W383-1 5.jpg"
+    ],
+    "imagenVariantes": "W383-1 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true,
+      "C5": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: W383-1"
+  },
+  {
+    "codigo": "FN8104",
+    "nombre": "Bolsito gatita",
+    "descripcion": "Bandolera juvenil",
+    "categoria": "A Infantil",
+    "medidas": "17,5 x 14 x 6cm",
+    "imagenes": [
+      "FN8104 1.jpg",
+      "FN8104 2.jpg",
+      "FN8104 3.jpg",
+      "FN8104 4.jpg"
+    ],
+    "imagenVariantes": "FN8104 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Rosado": true,
+      "Fucsia": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN8104"
+  },
+  {
+    "codigo": "CBB008",
+    "nombre": "Bolsito silicona",
+    "descripcion": "Bandolera juvenil",
+    "categoria": "A Infantil",
+    "medidas": "",
+    "imagenes": [
+      "CBB008 1.jpg",
+      "CBB008 2.jpg",
+      "CBB008 3.jpg",
+      "CBB008 4.jpg"
+    ],
+    "imagenVariantes": "CBB008 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true,
+      "C5": true,
+      "C6": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: CBB008"
+  },
+  {
+    "codigo": "BAG2002",
+    "nombre": "Bolsito peludo unicornio",
+    "descripcion": "Bolsito infantil",
+    "categoria": "A Infantil",
+    "medidas": "",
+    "imagenes": [
+      "BAG2002 1.jpg",
+      "BAG2002 2.jpg",
+      "BAG2002 3.jpg"
+    ],
+    "imagenVariantes": "BAG2002 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Tonos pastel": true,
+      "Lila": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BAG2002"
+  },
+  {
+    "codigo": "CBB009",
+    "nombre": "Bolsito unicornio",
+    "descripcion": "Bolsito infantil",
+    "categoria": "A Infantil",
+    "medidas": "10 x 4 x 13cm",
+    "imagenes": [
+      "CBB009 1.jpg",
+      "CBB009 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: CBB009"
+  },
+  {
+    "codigo": "FN8101",
+    "nombre": "Bolsito con caritas peludo",
+    "descripcion": "Bolsito infantil",
+    "categoria": "A Infantil",
+    "medidas": "",
+    "imagenes": [
+      "FN8101 1.jpg",
+      "FN8101 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Amarillo": true,
+      "Celeste": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN8101"
+  },
+  {
     "codigo": "G02",
     "nombre": "100pcs banditas elasticas",
     "descripcion": "Banditas elasticas",
@@ -5541,142 +5677,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BR6015"
   },
   {
-    "codigo": "W383-1",
-    "nombre": "Bandolera/Billetera juvenil",
-    "descripcion": "Bandolera juvenil",
-    "categoria": "AInfantil",
-    "medidas": "13 x 11 x 1cm",
-    "imagenes": [
-      "W383-1 1.jpg",
-      "W383-1 2.jpg",
-      "W383-1 3.jpg",
-      "W383-1 4.jpg",
-      "W383-1 5.jpg"
-    ],
-    "imagenVariantes": "W383-1 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W383-1"
-  },
-  {
-    "codigo": "FN8104",
-    "nombre": "Bolsito gatita",
-    "descripcion": "Bandolera juvenil",
-    "categoria": "AInfantil",
-    "medidas": "17,5 x 14 x 6cm",
-    "imagenes": [
-      "FN8104 1.jpg",
-      "FN8104 2.jpg",
-      "FN8104 3.jpg",
-      "FN8104 4.jpg"
-    ],
-    "imagenVariantes": "FN8104 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Blanco": true,
-      "Rosado": true,
-      "Fucsia": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN8104"
-  },
-  {
-    "codigo": "CBB008",
-    "nombre": "Bolsito silicona",
-    "descripcion": "Bandolera juvenil",
-    "categoria": "AInfantil",
-    "medidas": "",
-    "imagenes": [
-      "CBB008 1.jpg",
-      "CBB008 2.jpg",
-      "CBB008 3.jpg",
-      "CBB008 4.jpg"
-    ],
-    "imagenVariantes": "CBB008 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true,
-      "C6": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: CBB008"
-  },
-  {
-    "codigo": "BAG2002",
-    "nombre": "Bolsito peludo unicornio",
-    "descripcion": "Bolsito infantil",
-    "categoria": "AInfantil",
-    "medidas": "",
-    "imagenes": [
-      "BAG2002 1.jpg",
-      "BAG2002 2.jpg",
-      "BAG2002 3.jpg"
-    ],
-    "imagenVariantes": "BAG2002 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Tonos pastel": true,
-      "Lila": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG2002"
-  },
-  {
-    "codigo": "CBB009",
-    "nombre": "Bolsito unicornio",
-    "descripcion": "Bolsito infantil",
-    "categoria": "AInfantil",
-    "medidas": "10 x 4 x 13cm",
-    "imagenes": [
-      "CBB009 1.jpg",
-      "CBB009 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: CBB009"
-  },
-  {
-    "codigo": "FN8101",
-    "nombre": "Bolsito con caritas peludo",
-    "descripcion": "Bolsito infantil",
-    "categoria": "AInfantil",
-    "medidas": "",
-    "imagenes": [
-      "FN8101 1.jpg",
-      "FN8101 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Blanco": true,
-      "Amarillo": true,
-      "Celeste": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN8101"
-  },
-  {
     "codigo": "W292",
     "nombre": "Billetera Juvenil",
     "descripcion": "Billetera dama corta",
@@ -7405,148 +7405,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB008"
-  },
-  {
-    "codigo": "BOX0087",
-    "nombre": "caja anillos paquete x24",
-    "descripcion": "Caja anillo",
-    "categoria": "Estuches",
-    "medidas": "4 x 4 x 2,5cm",
-    "imagenes": [
-      "BOX0087 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX0087"
-  },
-  {
-    "codigo": "CAJRE001",
-    "nombre": "Caja armable regalos",
-    "descripcion": "Caja armable regalos",
-    "categoria": "Estuches",
-    "medidas": "Chico",
-    "imagenes": [
-      "CAJRE001 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: CAJRE001"
-  },
-  {
-    "codigo": "CAJRE002",
-    "nombre": "Caja armable regalos",
-    "descripcion": "Caja armable regalos",
-    "categoria": "Estuches",
-    "medidas": "Grande",
-    "imagenes": [
-      "CAJRE002 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: CAJRE002"
-  },
-  {
-    "codigo": "BOX0077",
-    "nombre": "Caja conjunto paquete x24",
-    "descripcion": "Caja conjunto",
-    "categoria": "Estuches",
-    "medidas": "5 x 8 x 2,5cm",
-    "imagenes": [
-      "BOX0077 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX0077"
-  },
-  {
-    "codigo": "BOX5894",
-    "nombre": "Caja conjunto paquete x12",
-    "descripcion": "Caja conjunto",
-    "categoria": "Estuches",
-    "medidas": "7 X 9CM",
-    "imagenes": [
-      "BOX5894 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX5894"
-  },
-  {
-    "codigo": "J1804",
-    "nombre": "Caja regalos",
-    "descripcion": "Caja regalos",
-    "categoria": "Estuches",
-    "medidas": "8 x 8 x 4,5cm",
-    "imagenes": [
-      "J1804 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: J1804"
-  },
-  {
-    "codigo": "J1808",
-    "nombre": "Caja relojes",
-    "descripcion": "Caja relojes",
-    "categoria": "Estuches",
-    "medidas": "",
-    "imagenes": [
-      "J1808 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Bordeaux": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: J1808"
-  },
-  {
-    "codigo": "ESTUCHE3179",
-    "nombre": "Estuche para lentes",
-    "descripcion": "Estuche para lentes",
-    "categoria": "Estuches",
-    "medidas": "",
-    "imagenes": [
-      "ESTUCHE3179 1.jpg"
-    ],
-    "imagenVariantes": "ESTUCHE3179 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3179"
-  },
-  {
-    "codigo": "ESTUCHE3178",
-    "nombre": "Estuche para lentes negro",
-    "descripcion": "Estuche para lentes negro",
-    "categoria": "Estuches",
-    "medidas": "",
-    "imagenes": [
-      "ESTUCHE3178 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Negro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3178"
   },
   {
     "codigo": "BUF033",
@@ -10716,7 +10574,7 @@
     "codigo": "BOX009",
     "nombre": "Caja anillo",
     "descripcion": "Caja anillo",
-    "categoria": "xEstuches",
+    "categoria": "x Estuches",
     "medidas": "5 X 5 X 3CM",
     "imagenes": [
       "BOX009 1.jpg"
@@ -10728,10 +10586,55 @@
     "whatsappMessage": "Hola, me interesa este producto: BOX009"
   },
   {
+    "codigo": "BOX0087",
+    "nombre": "caja anillos paquete x24",
+    "descripcion": "Caja anillo",
+    "categoria": "x Estuches",
+    "medidas": "4 x 4 x 2,5cm",
+    "imagenes": [
+      "BOX0087 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX0087"
+  },
+  {
+    "codigo": "CAJRE001",
+    "nombre": "Caja armable regalos",
+    "descripcion": "Caja armable regalos",
+    "categoria": "x Estuches",
+    "medidas": "Chico",
+    "imagenes": [
+      "CAJRE001 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: CAJRE001"
+  },
+  {
+    "codigo": "CAJRE002",
+    "nombre": "Caja armable regalos",
+    "descripcion": "Caja armable regalos",
+    "categoria": "x Estuches",
+    "medidas": "Grande",
+    "imagenes": [
+      "CAJRE002 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: CAJRE002"
+  },
+  {
     "codigo": "BOX008",
     "nombre": "Caja conjunto chica",
     "descripcion": "Caja conjunto",
-    "categoria": "xEstuches",
+    "categoria": "x Estuches",
     "medidas": "5 X 8 X 2.8CM",
     "imagenes": [
       "BOX008 1.jpg"
@@ -10746,7 +10649,7 @@
     "codigo": "BOX006",
     "nombre": "Caja conjunto grande",
     "descripcion": "Caja conjunto",
-    "categoria": "xEstuches",
+    "categoria": "x Estuches",
     "medidas": "7 X 9 X 3CM",
     "imagenes": [
       "BOX006 1.jpg"
@@ -10758,10 +10661,40 @@
     "whatsappMessage": "Hola, me interesa este producto: BOX006"
   },
   {
+    "codigo": "BOX0077",
+    "nombre": "Caja conjunto paquete x24",
+    "descripcion": "Caja conjunto",
+    "categoria": "x Estuches",
+    "medidas": "5 x 8 x 2,5cm",
+    "imagenes": [
+      "BOX0077 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX0077"
+  },
+  {
+    "codigo": "BOX5894",
+    "nombre": "Caja conjunto paquete x12",
+    "descripcion": "Caja conjunto",
+    "categoria": "x Estuches",
+    "medidas": "7 X 9CM",
+    "imagenes": [
+      "BOX5894 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX5894"
+  },
+  {
     "codigo": "BOX007",
     "nombre": "Caja pulsera paquete x12",
     "descripcion": "Caja pulsera",
-    "categoria": "xEstuches",
+    "categoria": "x Estuches",
     "medidas": "21 X 4 X 2,5CM",
     "imagenes": [
       "BOX007 1.jpg",
@@ -10774,10 +10707,25 @@
     "whatsappMessage": "Hola, me interesa este producto: BOX007"
   },
   {
+    "codigo": "J1804",
+    "nombre": "Caja regalos",
+    "descripcion": "Caja regalos",
+    "categoria": "x Estuches",
+    "medidas": "8 x 8 x 4,5cm",
+    "imagenes": [
+      "J1804 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: J1804"
+  },
+  {
     "codigo": "CAJRE008",
     "nombre": "Caja relojes",
     "descripcion": "Caja relojes",
-    "categoria": "xEstuches",
+    "categoria": "x Estuches",
     "medidas": "9,2 x 8,7 x 5,7cm",
     "imagenes": [
       "CAJRE008 1.jpg",
@@ -10791,10 +10739,62 @@
     "whatsappMessage": "Hola, me interesa este producto: CAJRE008"
   },
   {
+    "codigo": "J1808",
+    "nombre": "Caja relojes",
+    "descripcion": "Caja relojes",
+    "categoria": "x Estuches",
+    "medidas": "",
+    "imagenes": [
+      "J1808 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Bordeaux": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: J1808"
+  },
+  {
+    "codigo": "ESTUCHE3179",
+    "nombre": "Estuche para lentes",
+    "descripcion": "Estuche para lentes",
+    "categoria": "x Estuches",
+    "medidas": "",
+    "imagenes": [
+      "ESTUCHE3179 1.jpg"
+    ],
+    "imagenVariantes": "ESTUCHE3179 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3179"
+  },
+  {
+    "codigo": "ESTUCHE3178",
+    "nombre": "Estuche para lentes negro",
+    "descripcion": "Estuche para lentes negro",
+    "categoria": "x Estuches",
+    "medidas": "",
+    "imagenes": [
+      "ESTUCHE3178 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Negro": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3178"
+  },
+  {
     "codigo": "13604",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13604 1.jpg"
@@ -10809,7 +10809,7 @@
     "codigo": "13605",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13605 1.jpg"
@@ -10824,7 +10824,7 @@
     "codigo": "14244",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14244 1.jpg"
@@ -10839,7 +10839,7 @@
     "codigo": "13274",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13274 1.jpg"
@@ -10854,7 +10854,7 @@
     "codigo": "76263",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "76263 1.jpg"
@@ -10869,7 +10869,7 @@
     "codigo": "76833",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "76833 1.jpg"
@@ -10884,7 +10884,7 @@
     "codigo": "170393",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "170393 1.jpg"
@@ -10899,7 +10899,7 @@
     "codigo": "172023",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "172023 1.jpg"
@@ -10914,7 +10914,7 @@
     "codigo": "172243",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "172243 1.jpg"
@@ -10929,7 +10929,7 @@
     "codigo": "179383",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "179383 1.jpg"
@@ -10944,7 +10944,7 @@
     "codigo": "14224",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14224 1.jpg"
@@ -10959,7 +10959,7 @@
     "codigo": "13324",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13324 1.jpg"
@@ -10974,7 +10974,7 @@
     "codigo": "13344",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13344 1.jpg"
@@ -10989,7 +10989,7 @@
     "codigo": "13394",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13394 1.jpg"
@@ -11004,7 +11004,7 @@
     "codigo": "13544",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13544 1.jpg"
@@ -11019,7 +11019,7 @@
     "codigo": "14054",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14054 1.jpg"
@@ -11034,7 +11034,7 @@
     "codigo": "14294",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14294 1.jpg"
@@ -11049,7 +11049,7 @@
     "codigo": "14354",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14354 1.jpg"
@@ -11064,7 +11064,7 @@
     "codigo": "13464",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13464 1.jpg"
@@ -11079,7 +11079,7 @@
     "codigo": "70173",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "70173 1.jpg"
@@ -11094,7 +11094,7 @@
     "codigo": "70193",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "70193 1.jpg"
@@ -11109,7 +11109,7 @@
     "codigo": "73583",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "73583 1.jpg"
@@ -11124,7 +11124,7 @@
     "codigo": "AN03864",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "AN03864 1.jpg"
@@ -11139,7 +11139,7 @@
     "codigo": "13944",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13944 1.jpg"
@@ -11154,7 +11154,7 @@
     "codigo": "14394",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14394 1.jpg"
@@ -11169,7 +11169,7 @@
     "codigo": "14395",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14395 1.jpg"
@@ -11184,7 +11184,7 @@
     "codigo": "14396",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14396 1.jpg"
@@ -11199,7 +11199,7 @@
     "codigo": "73383",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "73383 1.jpg"
@@ -11214,7 +11214,7 @@
     "codigo": "85713",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "85713 1.jpg"
@@ -11229,7 +11229,7 @@
     "codigo": "14484",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14484 1.jpg"
@@ -11244,7 +11244,7 @@
     "codigo": "77723",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "77723 1.jpg"
@@ -11259,7 +11259,7 @@
     "codigo": "13594",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "13594 1.jpg"
@@ -11274,7 +11274,7 @@
     "codigo": "14444",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "14444 1.jpg"
@@ -11289,7 +11289,7 @@
     "codigo": "AN03204",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "AN03204 1.jpg"
@@ -11304,7 +11304,7 @@
     "codigo": "AN04074",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "AN04074 1.jpg"
@@ -11319,7 +11319,7 @@
     "codigo": "55130",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "55130 1.jpg"
@@ -11334,7 +11334,7 @@
     "codigo": "20110",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20110 1.jpg"
@@ -11349,7 +11349,7 @@
     "codigo": "211700",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211700 1.jpg"
@@ -11364,7 +11364,7 @@
     "codigo": "210500",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210500 1.jpg"
@@ -11379,7 +11379,7 @@
     "codigo": "210840",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210840 1.jpg"
@@ -11394,7 +11394,7 @@
     "codigo": "21290",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "21290 1.jpg"
@@ -11409,7 +11409,7 @@
     "codigo": "212080",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212080 1.jpg"
@@ -11424,7 +11424,7 @@
     "codigo": "20820",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20820 1.jpg"
@@ -11439,7 +11439,7 @@
     "codigo": "211660",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211660 1.jpg"
@@ -11454,7 +11454,7 @@
     "codigo": "21160",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "21160 1.jpg"
@@ -11469,7 +11469,7 @@
     "codigo": "28550",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "28550 1.jpg"
@@ -11484,7 +11484,7 @@
     "codigo": "20650",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20650 1.jpg"
@@ -11499,7 +11499,7 @@
     "codigo": "210030",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210030 1.jpg"
@@ -11514,7 +11514,7 @@
     "codigo": "24320",
     "nombre": "Bolita grande enchapada oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "24320 1.jpg"
@@ -11529,7 +11529,7 @@
     "codigo": "24070",
     "nombre": "Bolita mediana enchapada oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "24070 1.jpg"
@@ -11544,7 +11544,7 @@
     "codigo": "210140",
     "nombre": "Bolita chica enchapada oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210140 1.jpg"
@@ -11559,7 +11559,7 @@
     "codigo": "212900",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212900 1.jpg"
@@ -11574,7 +11574,7 @@
     "codigo": "211550",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211550 1.jpg"
@@ -11589,7 +11589,7 @@
     "codigo": "211560",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211560 1.jpg"
@@ -11604,7 +11604,7 @@
     "codigo": "212930",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212930 1.jpg"
@@ -11619,7 +11619,7 @@
     "codigo": "211630",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211630 1.jpg"
@@ -11634,7 +11634,7 @@
     "codigo": "56000B",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "56000B 1.jpg"
@@ -11649,7 +11649,7 @@
     "codigo": "23440",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23440 1.jpg"
@@ -11664,7 +11664,7 @@
     "codigo": "212090",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212090 1.jpg"
@@ -11679,7 +11679,7 @@
     "codigo": "510350",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "510350 1.jpg"
@@ -11697,7 +11697,7 @@
     "codigo": "50140B",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "50140B 1.jpg"
@@ -11712,7 +11712,7 @@
     "codigo": "210720",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210720 1.jpg"
@@ -11727,7 +11727,7 @@
     "codigo": "210320",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210320 1.jpg"
@@ -11742,7 +11742,7 @@
     "codigo": "25630",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25630 1.jpg"
@@ -11757,7 +11757,7 @@
     "codigo": "212230",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212230 1.jpg"
@@ -11772,7 +11772,7 @@
     "codigo": "50122B",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "50122B 1.jpg"
@@ -11787,7 +11787,7 @@
     "codigo": "210102",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210102 1.jpg"
@@ -11802,7 +11802,7 @@
     "codigo": "214592",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "214592 1.jpg"
@@ -11817,7 +11817,7 @@
     "codigo": "28652",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "28652 1.jpg"
@@ -11832,7 +11832,7 @@
     "codigo": "211592",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211592 1.jpg"
@@ -11847,7 +11847,7 @@
     "codigo": "23442",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23442 1.jpg"
@@ -11862,7 +11862,7 @@
     "codigo": "212092",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212092 1.jpg"
@@ -11877,7 +11877,7 @@
     "codigo": "510352",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "510352 1.jpg"
@@ -11895,7 +11895,7 @@
     "codigo": "50142B",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "50142B 1.jpg"
@@ -11910,7 +11910,7 @@
     "codigo": "210722",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210722 1.jpg"
@@ -11925,7 +11925,7 @@
     "codigo": "210322",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210322 1.jpg"
@@ -11940,7 +11940,7 @@
     "codigo": "20522",
     "nombre": "Zirconia chica enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20522 1.jpg"
@@ -11955,7 +11955,7 @@
     "codigo": "22002",
     "nombre": "Zirconia mediana enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "22002 1.jpg"
@@ -11970,7 +11970,7 @@
     "codigo": "27002",
     "nombre": "Zirconia grande enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "27002 1.jpg"
@@ -11985,7 +11985,7 @@
     "codigo": "20592",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20592 1.jpg"
@@ -12000,7 +12000,7 @@
     "codigo": "20412",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20412 1.jpg"
@@ -12015,7 +12015,7 @@
     "codigo": "20252",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20252 1.jpg"
@@ -12030,7 +12030,7 @@
     "codigo": "25422",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25422 1.jpg"
@@ -12045,7 +12045,7 @@
     "codigo": "26582",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26582 1.jpg"
@@ -12060,7 +12060,7 @@
     "codigo": "23282",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23282 1.jpg"
@@ -12075,7 +12075,7 @@
     "codigo": "25352",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25352 1.jpg"
@@ -12090,7 +12090,7 @@
     "codigo": "21512",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "21512 1.jpg"
@@ -12105,7 +12105,7 @@
     "codigo": "20962",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20962 1.jpg"
@@ -12120,7 +12120,7 @@
     "codigo": "25842",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25842 1.jpg"
@@ -12135,7 +12135,7 @@
     "codigo": "25722",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25722 1.jpg"
@@ -12150,7 +12150,7 @@
     "codigo": "20492",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "20492 1.jpg"
@@ -12165,7 +12165,7 @@
     "codigo": "26292",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26292 1.jpg"
@@ -12180,7 +12180,7 @@
     "codigo": "25862",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25862 1.jpg"
@@ -12195,7 +12195,7 @@
     "codigo": "25032",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25032 1.jpg"
@@ -12210,7 +12210,7 @@
     "codigo": "25632",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "25632 1.jpg"
@@ -12225,7 +12225,7 @@
     "codigo": "26602",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26602 1.jpg"
@@ -12240,7 +12240,7 @@
     "codigo": "26262",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26262 1.jpg"
@@ -12255,7 +12255,7 @@
     "codigo": "26732",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26732 1.jpg"
@@ -12270,7 +12270,7 @@
     "codigo": "29172",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29172 1.jpg"
@@ -12285,7 +12285,7 @@
     "codigo": "29152",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29152 1.jpg"
@@ -12300,7 +12300,7 @@
     "codigo": "29082",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29082 1.jpg"
@@ -12315,7 +12315,7 @@
     "codigo": "212632",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212632 1.jpg"
@@ -12330,7 +12330,7 @@
     "codigo": "211602",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211602 1.jpg"
@@ -12345,7 +12345,7 @@
     "codigo": "212952",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212952 1.jpg"
@@ -12360,7 +12360,7 @@
     "codigo": "23732",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23732 1.jpg"
@@ -12375,7 +12375,7 @@
     "codigo": "29042",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29042 1.jpg"
@@ -12390,7 +12390,7 @@
     "codigo": "29092",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29092 1.jpg"
@@ -12405,7 +12405,7 @@
     "codigo": "29072",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29072 1.jpg"
@@ -12420,7 +12420,7 @@
     "codigo": "29132",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "29132 1.jpg"
@@ -12435,7 +12435,7 @@
     "codigo": "24992",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "24992 1.jpg"
@@ -12450,7 +12450,7 @@
     "codigo": "212232",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "212232 1.jpg"
@@ -12465,7 +12465,7 @@
     "codigo": "23572",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23572 1.jpg"
@@ -12480,7 +12480,7 @@
     "codigo": "210192",
     "nombre": "Clip enchapadas plata",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210192 1.jpg"
@@ -12495,7 +12495,7 @@
     "codigo": "210190",
     "nombre": "Clip enchapadas oro",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "210190 1.jpg"
@@ -12510,7 +12510,7 @@
     "codigo": "213232",
     "nombre": "Clip enchapadas plata",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "213232 1.jpg"
@@ -12525,7 +12525,7 @@
     "codigo": "213230",
     "nombre": "Clip enchapadas oro",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "213230 1.jpg"
@@ -12540,7 +12540,7 @@
     "codigo": "23312",
     "nombre": "Clip enchapadas plata",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23312 1.jpg"
@@ -12555,7 +12555,7 @@
     "codigo": "23310",
     "nombre": "Clip enchapadas oro",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "23310 1.jpg"
@@ -12570,7 +12570,7 @@
     "codigo": "211262",
     "nombre": "Clip enchapadas plata",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211262 1.jpg"
@@ -12585,7 +12585,7 @@
     "codigo": "211260",
     "nombre": "Clip enchapadas oro",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "211260 1.jpg"
@@ -12600,7 +12600,7 @@
     "codigo": "26112",
     "nombre": "Clip enchapadas plata",
     "descripcion": "Clip enchapados",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "26112 1.jpg"
@@ -12615,7 +12615,7 @@
     "codigo": "310440",
     "nombre": "Manito prendedor",
     "descripcion": "Manito prendedor",
-    "categoria": "ZEnchapado",
+    "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
       "310440 1.jpg"
