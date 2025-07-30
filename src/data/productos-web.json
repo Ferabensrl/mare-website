@@ -5677,6 +5677,976 @@
     "whatsappMessage": "Hola, me interesa este producto: FN8101"
   },
   {
+    "codigo": "W292",
+    "nombre": "Billetera Juvenil",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 x 9,3 x 3cm",
+    "imagenes": [
+      "W292 1.jpg",
+      "W292 2.jpg",
+      "W292 3.jpg",
+      "W292 4.jpg"
+    ],
+    "imagenVariantes": "W292 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Amarillo": true,
+      "Verde": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Beige": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W292"
+  },
+  {
+    "codigo": "W002",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 x 10,5 x 2cm",
+    "imagenes": [
+      "W002 1.jpg",
+      "W002 2.jpg",
+      "W002 3.jpg",
+      "W002 4.jpg"
+    ],
+    "imagenVariantes": "W002 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true,
+      "Celeste": true,
+      "Marron Claro": true,
+      "Rojo": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W002"
+  },
+  {
+    "codigo": "W0005",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 x 8 x 4cm",
+    "imagenes": [
+      "W0005 1.jpg",
+      "W0005 2.jpg",
+      "W0005 3.jpg",
+      "W0005 4.jpg"
+    ],
+    "imagenVariantes": "W0005 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Marron Claro": true,
+      "Marron Oscuro": true,
+      "Bordeaux": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W0005"
+  },
+  {
+    "codigo": "W2126",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 X 2,3 X 8,5CM",
+    "imagenes": [
+      "W2126 1.jpg",
+      "W2126 2.jpg",
+      "W2126 3.jpg",
+      "W2126 4.jpg"
+    ],
+    "imagenVariantes": "W2126 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: W2126"
+  },
+  {
+    "codigo": "W307-2B",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 x 9 x 2cm",
+    "imagenes": [
+      "W307-2B 1.jpg",
+      "W307-2B 2.jpg",
+      "W307-2B 3.jpg",
+      "W307-2B 4.jpg"
+    ],
+    "imagenVariantes": "W307-2B VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Lila": true,
+      "Celeste": true,
+      "Beige": true,
+      "Marron Claro": true,
+      "Bordeaux": true,
+      "Verde Agua": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W307-2B"
+  },
+  {
+    "codigo": "W219",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "14 X 9,5 X 2CM",
+    "imagenes": [
+      "W219 1.jpg",
+      "W219 2.jpg",
+      "W219 3.jpg",
+      "W219 4.jpg"
+    ],
+    "imagenVariantes": "W219 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Rojo": true,
+      "Rosa Viejo": true,
+      "Verde Agua": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W219"
+  },
+  {
+    "codigo": "W807 B",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "12,5 X 3 X 10CM",
+    "imagenes": [
+      "W807 B 1.jpg",
+      "W807 B 2.jpg",
+      "W807 B 3.jpg",
+      "W807 B 4.jpg"
+    ],
+    "imagenVariantes": "W807 B VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Fucsia": true,
+      "Marron Claro": true,
+      "Rojo": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W807 B"
+  },
+  {
+    "codigo": "W808",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11 X 9 X 3CM",
+    "imagenes": [
+      "W808 1.jpg",
+      "W808 2.jpg",
+      "W808 3.jpg",
+      "W808 4.jpg",
+      "W808 5.jpg",
+      "W808 6.jpg"
+    ],
+    "imagenVariantes": "W808 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Lila": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Verde Agua": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W808"
+  },
+  {
+    "codigo": "W0028",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11 X 8 X 4CM",
+    "imagenes": [
+      "W0028 1.jpg",
+      "W0028 2.jpg",
+      "W0028 3.jpg",
+      "W0028 4.jpg",
+      "W0028 5.jpg",
+      "W0028 6.jpg"
+    ],
+    "imagenVariantes": "W0028 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Gris": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W0028"
+  },
+  {
+    "codigo": "W865",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11 X 3 X 9CM",
+    "imagenes": [
+      "W865 1.jpg",
+      "W865 2.jpg",
+      "W865 3.jpg",
+      "W865 4.jpg"
+    ],
+    "imagenVariantes": "W865 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Celeste": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W865"
+  },
+  {
+    "codigo": "W280",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 X 2 X 9CM",
+    "imagenes": [
+      "W280 1.jpg",
+      "W280 2.jpg",
+      "W280 3.jpg"
+    ],
+    "imagenVariantes": "W280 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true,
+      "C3": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: W280"
+  },
+  {
+    "codigo": "W286",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "10,5 X 8 X 2,5CM",
+    "imagenes": [
+      "W286 1.jpg",
+      "W286 2.jpg",
+      "W286 3.jpg",
+      "W286 4.jpg"
+    ],
+    "imagenVariantes": "W286 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Verde": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W286"
+  },
+  {
+    "codigo": "W291",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11,5 X 9 X 3CM",
+    "imagenes": [
+      "W291 1.jpg",
+      "W291 2.jpg",
+      "W291 3.jpg",
+      "W291 4.jpg",
+      "W291 5.jpg"
+    ],
+    "imagenVariantes": "W291 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true,
+      "Lila": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Beige": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W291"
+  },
+  {
+    "codigo": "W271",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "10,7 X 8 X 2,5CM",
+    "imagenes": [
+      "W271 1.jpg",
+      "W271 2.jpg",
+      "W271 3.jpg",
+      "W271 4.jpg"
+    ],
+    "imagenVariantes": "W271 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Beige": true,
+      "Marron Oscuro": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W271"
+  },
+  {
+    "codigo": "WL3218",
+    "nombre": "Billetera dama corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "11 X 9CM",
+    "imagenes": [
+      "WL3218 1.jpg",
+      "WL3218 2.jpg",
+      "WL3218 3.jpg"
+    ],
+    "imagenVariantes": "WL3218 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Celeste": true,
+      "Rosado": true,
+      "Gris": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: WL3218"
+  },
+  {
+    "codigo": "WL3213",
+    "nombre": "Monedero/llavero",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "9 x 4 x 6cm",
+    "imagenes": [
+      "WL3213 1.jpg",
+      "WL3213 2.jpg"
+    ],
+    "imagenVariantes": "WL3213 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Celeste": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: WL3213"
+  },
+  {
+    "codigo": "FN25365",
+    "nombre": "Billetera dama print corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN25365 1.jpg"
+    ],
+    "imagenVariantes": "FN25365 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25365"
+  },
+  {
+    "codigo": "FN25363",
+    "nombre": "Billetera dama print corta",
+    "descripcion": "Billetera dama corta",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN25363 1.jpg"
+    ],
+    "imagenVariantes": "FN25363 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25363"
+  },
+  {
+    "codigo": "W0004",
+    "nombre": "Billetera dama c relieve",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "19,5 X 10 X 2,5CM",
+    "imagenes": [
+      "W0004 1.jpg",
+      "W0004 2.jpg",
+      "W0004 3.jpg",
+      "W0004 4.jpg"
+    ],
+    "imagenVariantes": "W0004 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true,
+      "Lila": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W0004"
+  },
+  {
+    "codigo": "BILL5327",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "19 x 9,5cm",
+    "imagenes": [
+      "BILL5327 1.jpg",
+      "BILL5327 2.jpg"
+    ],
+    "imagenVariantes": "BILL5327 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BILL5327"
+  },
+  {
+    "codigo": "W2001",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10 X 3CM",
+    "imagenes": [
+      "W2001 1.jpg",
+      "W2001 2.jpg",
+      "W2001 3.jpg"
+    ],
+    "imagenVariantes": "W2001 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Nude": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Beige": true,
+      "Bordeaux": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W2001"
+  },
+  {
+    "codigo": "W2002",
+    "nombre": "Billetera dama jean",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10 X 2CM",
+    "imagenes": [
+      "W2002 1.jpg",
+      "W2002 2.jpg",
+      "W2002 3.jpg",
+      "W2002 4.jpg"
+    ],
+    "imagenVariantes": "W2002 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true,
+      "C3": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: W2002"
+  },
+  {
+    "codigo": "FN368",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN368 1.jpg"
+    ],
+    "imagenVariantes": "FN368 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Amarillo": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Verde Agua": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN368"
+  },
+  {
+    "codigo": "FN374",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN374 1.jpg"
+    ],
+    "imagenVariantes": "FN374 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Amarillo": true,
+      "Verde": true,
+      "Celeste": true,
+      "Bordeaux": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN374"
+  },
+  {
+    "codigo": "FN362",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN362 1.jpg"
+    ],
+    "imagenVariantes": "FN362 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN362"
+  },
+  {
+    "codigo": "FN360",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN360 1.jpg"
+    ],
+    "imagenVariantes": "FN360 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Rosado": true,
+      "Beige": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN360"
+  },
+  {
+    "codigo": "FN25366",
+    "nombre": "Billetera dama print larga",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN25366 1.jpg"
+    ],
+    "imagenVariantes": "FN25366 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25366"
+  },
+  {
+    "codigo": "FN25364",
+    "nombre": "Billetera dama print larga",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "FN25364 1.jpg"
+    ],
+    "imagenVariantes": "FN25364 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25364"
+  },
+  {
+    "codigo": "W1281",
+    "nombre": "Billetera dama",
+    "descripcion": "Billetera dama larga",
+    "categoria": "Billeteras",
+    "medidas": "20 x 10,5 x 2,5cm",
+    "imagenes": [
+      "W1281 1.jpg",
+      "W1281 2.jpg",
+      "W1281 3.jpg",
+      "W1281 4.jpg"
+    ],
+    "imagenVariantes": "W1281 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Bordeaux": true,
+      "Rojo": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W1281"
+  },
+  {
+    "codigo": "W274",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 9,8 X 2,5CM",
+    "imagenes": [
+      "W274 1.jpg",
+      "W274 2.jpg",
+      "W274 3.jpg"
+    ],
+    "imagenVariantes": "W274 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Plateado": true,
+      "Verde": true,
+      "Celeste": true,
+      "Marron Claro": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W274"
+  },
+  {
+    "codigo": "W140",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19,5 X 10 X 2,5CM",
+    "imagenes": [
+      "W140 1.jpg",
+      "W140 2.jpg",
+      "W140 3.jpg",
+      "W140 4.jpg"
+    ],
+    "imagenVariantes": "W140 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Verde": true,
+      "Lila": true,
+      "Beige": true,
+      "Marron Claro": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W140"
+  },
+  {
+    "codigo": "W253",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10,5 X 2CM",
+    "imagenes": [
+      "W253 1.jpg",
+      "W253 2.jpg",
+      "W253 3.jpg",
+      "W253 4.jpg"
+    ],
+    "imagenVariantes": "W253 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true,
+      "Celeste": true,
+      "Marron Claro": true,
+      "Rojo": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W253"
+  },
+  {
+    "codigo": "W801",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19,5 X 9,5 X 2,5",
+    "imagenes": [
+      "W801 1.jpg",
+      "W801 2.jpg",
+      "W801 3.jpg"
+    ],
+    "imagenVariantes": "W801 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Rojo": true,
+      "Rosa Viejo": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W801"
+  },
+  {
+    "codigo": "W252",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "",
+    "imagenes": [
+      "W252 1.jpg",
+      "W252 2.jpg",
+      "W252 3.jpg",
+      "W252 4.jpg",
+      "W252 5.jpg"
+    ],
+    "imagenVariantes": "W252 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W252"
+  },
+  {
+    "codigo": "W254",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "14,8 X 9 X 2,2CM",
+    "imagenes": [
+      "W254 1.jpg",
+      "W254 2.jpg",
+      "W254 3.jpg",
+      "W254 4.jpg"
+    ],
+    "imagenVariantes": "W254 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Gris": true,
+      "Rojo": true,
+      "Rosa Viejo": true,
+      "Azul": true,
+      "Mostaza": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W254"
+  },
+  {
+    "codigo": "W802",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "20 X 5 X 12,5CM",
+    "imagenes": [
+      "W802 1.jpg",
+      "W802 2.jpg",
+      "W802 3.jpg",
+      "W802 4.jpg",
+      "W802 5.jpg"
+    ],
+    "imagenVariantes": "W802 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Marron Claro": true,
+      "Rojo": true,
+      "Rosa Viejo": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W802"
+  },
+  {
+    "codigo": "W293",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "18,6 X 9,5 X 3,2CM",
+    "imagenes": [
+      "W293 1.jpg",
+      "W293 2.jpg",
+      "W293 3.jpg",
+      "W293 4.jpg",
+      "W293 5.jpg"
+    ],
+    "imagenVariantes": "W293 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Beige": true,
+      "Marron Claro": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W293"
+  },
+  {
+    "codigo": "W1008",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10 X 2CM",
+    "imagenes": [
+      "W1008 1.jpg",
+      "W1008 2.jpg",
+      "W1008 3.jpg",
+      "W1008 4.jpg",
+      "W1008 5.jpg"
+    ],
+    "imagenVariantes": "W1008 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Celeste": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W1008"
+  },
+  {
+    "codigo": "W266",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10 X 3CM",
+    "imagenes": [
+      "W266 1.jpg",
+      "W266 2.jpg",
+      "W266 3.jpg",
+      "W266 4.jpg"
+    ],
+    "imagenVariantes": "W266 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: W266"
+  },
+  {
+    "codigo": "W297",
+    "nombre": "Billetera dama Larga",
+    "descripcion": "Billetera dama Larga",
+    "categoria": "Billeteras",
+    "medidas": "19 X 10 X 2,5CM",
+    "imagenes": [
+      "W297 1.jpg",
+      "W297 2.jpg",
+      "W297 3.jpg",
+      "W297 4.jpg",
+      "W297 5.jpg"
+    ],
+    "imagenVariantes": "W297 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Nude": true,
+      "Celeste": true,
+      "Marron Claro": true,
+      "Verde claro": true,
+      "Rosa Viejo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: W297"
+  },
+  {
     "codigo": "BILLH009",
     "nombre": "Billetera de hombre",
     "descripcion": "Billetera de hombre",
@@ -6437,21 +7407,6 @@
     "whatsappMessage": "Hola, me interesa este producto: LB008"
   },
   {
-    "codigo": "BOX009",
-    "nombre": "Caja anillo",
-    "descripcion": "Caja anillo",
-    "categoria": "Estuches",
-    "medidas": "5 X 5 X 3CM",
-    "imagenes": [
-      "BOX009 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX009"
-  },
-  {
     "codigo": "BOX0087",
     "nombre": "caja anillos paquete x24",
     "descripcion": "Caja anillo",
@@ -6497,36 +7452,6 @@
     "whatsappMessage": "Hola, me interesa este producto: CAJRE002"
   },
   {
-    "codigo": "BOX008",
-    "nombre": "Caja conjunto chica",
-    "descripcion": "Caja conjunto",
-    "categoria": "Estuches",
-    "medidas": "5 X 8 X 2.8CM",
-    "imagenes": [
-      "BOX008 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX008"
-  },
-  {
-    "codigo": "BOX006",
-    "nombre": "Caja conjunto grande",
-    "descripcion": "Caja conjunto",
-    "categoria": "Estuches",
-    "medidas": "7 X 9 X 3CM",
-    "imagenes": [
-      "BOX006 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX006"
-  },
-  {
     "codigo": "BOX0077",
     "nombre": "Caja conjunto paquete x24",
     "descripcion": "Caja conjunto",
@@ -6557,22 +7482,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BOX5894"
   },
   {
-    "codigo": "BOX007",
-    "nombre": "Caja pulsera paquete x12",
-    "descripcion": "Caja pulsera",
-    "categoria": "Estuches",
-    "medidas": "21 X 4 X 2,5CM",
-    "imagenes": [
-      "BOX007 1.jpg",
-      "BOX007 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX007"
-  },
-  {
     "codigo": "J1804",
     "nombre": "Caja regalos",
     "descripcion": "Caja regalos",
@@ -6586,23 +7495,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: J1804"
-  },
-  {
-    "codigo": "CAJRE008",
-    "nombre": "Caja relojes",
-    "descripcion": "Caja relojes",
-    "categoria": "Estuches",
-    "medidas": "9,2 x 8,7 x 5,7cm",
-    "imagenes": [
-      "CAJRE008 1.jpg",
-      "CAJRE008 2.jpg"
-    ],
-    "imagenVariantes": "CAJRE008 VARIANTES.jpg",
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: CAJRE008"
   },
   {
     "codigo": "J1808",
@@ -8407,6 +9299,25 @@
     "whatsappMessage": "Hola, me interesa este producto: B1120"
   },
   {
+    "codigo": "FN4003",
+    "nombre": "Riñonera sport",
+    "descripcion": "Bandolera",
+    "categoria": "Marroquineria",
+    "medidas": "30 x 13 x 8cm",
+    "imagenes": [
+      "FN4003 1.jpg",
+      "FN4003 2.jpg",
+      "FN4003 3.jpg",
+      "FN4003 4.jpg"
+    ],
+    "imagenVariantes": "FN4003 VARIANTES.jpg",
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN4003"
+  },
+  {
     "codigo": "LB5019",
     "nombre": "Bolsos",
     "descripcion": "Bandolera",
@@ -8563,976 +9474,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H005"
-  },
-  {
-    "codigo": "W292",
-    "nombre": "Billetera Juvenil",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 x 9,3 x 3cm",
-    "imagenes": [
-      "W292 1.jpg",
-      "W292 2.jpg",
-      "W292 3.jpg",
-      "W292 4.jpg"
-    ],
-    "imagenVariantes": "W292 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Amarillo": true,
-      "Verde": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Beige": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W292"
-  },
-  {
-    "codigo": "W002",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 x 10,5 x 2cm",
-    "imagenes": [
-      "W002 1.jpg",
-      "W002 2.jpg",
-      "W002 3.jpg",
-      "W002 4.jpg"
-    ],
-    "imagenVariantes": "W002 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Celeste": true,
-      "Marron Claro": true,
-      "Rojo": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W002"
-  },
-  {
-    "codigo": "W0005",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 x 8 x 4cm",
-    "imagenes": [
-      "W0005 1.jpg",
-      "W0005 2.jpg",
-      "W0005 3.jpg",
-      "W0005 4.jpg"
-    ],
-    "imagenVariantes": "W0005 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Marron Oscuro": true,
-      "Bordeaux": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W0005"
-  },
-  {
-    "codigo": "W2126",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 X 2,3 X 8,5CM",
-    "imagenes": [
-      "W2126 1.jpg",
-      "W2126 2.jpg",
-      "W2126 3.jpg",
-      "W2126 4.jpg"
-    ],
-    "imagenVariantes": "W2126 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W2126"
-  },
-  {
-    "codigo": "W307-2B",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 x 9 x 2cm",
-    "imagenes": [
-      "W307-2B 1.jpg",
-      "W307-2B 2.jpg",
-      "W307-2B 3.jpg",
-      "W307-2B 4.jpg"
-    ],
-    "imagenVariantes": "W307-2B VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Lila": true,
-      "Celeste": true,
-      "Beige": true,
-      "Marron Claro": true,
-      "Bordeaux": true,
-      "Verde Agua": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W307-2B"
-  },
-  {
-    "codigo": "W219",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "14 X 9,5 X 2CM",
-    "imagenes": [
-      "W219 1.jpg",
-      "W219 2.jpg",
-      "W219 3.jpg",
-      "W219 4.jpg"
-    ],
-    "imagenVariantes": "W219 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Rojo": true,
-      "Rosa Viejo": true,
-      "Verde Agua": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W219"
-  },
-  {
-    "codigo": "W807 B",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "12,5 X 3 X 10CM",
-    "imagenes": [
-      "W807 B 1.jpg",
-      "W807 B 2.jpg",
-      "W807 B 3.jpg",
-      "W807 B 4.jpg"
-    ],
-    "imagenVariantes": "W807 B VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Fucsia": true,
-      "Marron Claro": true,
-      "Rojo": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W807 B"
-  },
-  {
-    "codigo": "W808",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11 X 9 X 3CM",
-    "imagenes": [
-      "W808 1.jpg",
-      "W808 2.jpg",
-      "W808 3.jpg",
-      "W808 4.jpg",
-      "W808 5.jpg",
-      "W808 6.jpg"
-    ],
-    "imagenVariantes": "W808 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Lila": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Verde Agua": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W808"
-  },
-  {
-    "codigo": "W0028",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11 X 8 X 4CM",
-    "imagenes": [
-      "W0028 1.jpg",
-      "W0028 2.jpg",
-      "W0028 3.jpg",
-      "W0028 4.jpg",
-      "W0028 5.jpg",
-      "W0028 6.jpg"
-    ],
-    "imagenVariantes": "W0028 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Gris": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W0028"
-  },
-  {
-    "codigo": "W865",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11 X 3 X 9CM",
-    "imagenes": [
-      "W865 1.jpg",
-      "W865 2.jpg",
-      "W865 3.jpg",
-      "W865 4.jpg"
-    ],
-    "imagenVariantes": "W865 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W865"
-  },
-  {
-    "codigo": "W280",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 X 2 X 9CM",
-    "imagenes": [
-      "W280 1.jpg",
-      "W280 2.jpg",
-      "W280 3.jpg"
-    ],
-    "imagenVariantes": "W280 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W280"
-  },
-  {
-    "codigo": "W286",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "10,5 X 8 X 2,5CM",
-    "imagenes": [
-      "W286 1.jpg",
-      "W286 2.jpg",
-      "W286 3.jpg",
-      "W286 4.jpg"
-    ],
-    "imagenVariantes": "W286 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Verde": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W286"
-  },
-  {
-    "codigo": "W291",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11,5 X 9 X 3CM",
-    "imagenes": [
-      "W291 1.jpg",
-      "W291 2.jpg",
-      "W291 3.jpg",
-      "W291 4.jpg",
-      "W291 5.jpg"
-    ],
-    "imagenVariantes": "W291 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Lila": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Beige": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W291"
-  },
-  {
-    "codigo": "W271",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "10,7 X 8 X 2,5CM",
-    "imagenes": [
-      "W271 1.jpg",
-      "W271 2.jpg",
-      "W271 3.jpg",
-      "W271 4.jpg"
-    ],
-    "imagenVariantes": "W271 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Beige": true,
-      "Marron Oscuro": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W271"
-  },
-  {
-    "codigo": "WL3218",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "11 X 9CM",
-    "imagenes": [
-      "WL3218 1.jpg",
-      "WL3218 2.jpg",
-      "WL3218 3.jpg"
-    ],
-    "imagenVariantes": "WL3218 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Celeste": true,
-      "Rosado": true,
-      "Gris": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: WL3218"
-  },
-  {
-    "codigo": "WL3213",
-    "nombre": "Monedero/llavero",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "9 x 4 x 6cm",
-    "imagenes": [
-      "WL3213 1.jpg",
-      "WL3213 2.jpg"
-    ],
-    "imagenVariantes": "WL3213 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Celeste": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: WL3213"
-  },
-  {
-    "codigo": "FN25365",
-    "nombre": "Billetera dama print corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN25365 1.jpg"
-    ],
-    "imagenVariantes": "FN25365 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25365"
-  },
-  {
-    "codigo": "FN25363",
-    "nombre": "Billetera dama print corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN25363 1.jpg"
-    ],
-    "imagenVariantes": "FN25363 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25363"
-  },
-  {
-    "codigo": "W0004",
-    "nombre": "Billetera dama c relieve",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "19,5 X 10 X 2,5CM",
-    "imagenes": [
-      "W0004 1.jpg",
-      "W0004 2.jpg",
-      "W0004 3.jpg",
-      "W0004 4.jpg"
-    ],
-    "imagenVariantes": "W0004 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Lila": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W0004"
-  },
-  {
-    "codigo": "BILL5327",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 x 9,5cm",
-    "imagenes": [
-      "BILL5327 1.jpg",
-      "BILL5327 2.jpg"
-    ],
-    "imagenVariantes": "BILL5327 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BILL5327"
-  },
-  {
-    "codigo": "W2001",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10 X 3CM",
-    "imagenes": [
-      "W2001 1.jpg",
-      "W2001 2.jpg",
-      "W2001 3.jpg"
-    ],
-    "imagenVariantes": "W2001 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Nude": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Beige": true,
-      "Bordeaux": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W2001"
-  },
-  {
-    "codigo": "W2002",
-    "nombre": "Billetera dama jean",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10 X 2CM",
-    "imagenes": [
-      "W2002 1.jpg",
-      "W2002 2.jpg",
-      "W2002 3.jpg",
-      "W2002 4.jpg"
-    ],
-    "imagenVariantes": "W2002 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W2002"
-  },
-  {
-    "codigo": "FN368",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN368 1.jpg"
-    ],
-    "imagenVariantes": "FN368 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Amarillo": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Verde Agua": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN368"
-  },
-  {
-    "codigo": "FN374",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN374 1.jpg"
-    ],
-    "imagenVariantes": "FN374 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Amarillo": true,
-      "Verde": true,
-      "Celeste": true,
-      "Bordeaux": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN374"
-  },
-  {
-    "codigo": "FN362",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN362 1.jpg"
-    ],
-    "imagenVariantes": "FN362 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN362"
-  },
-  {
-    "codigo": "FN360",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN360 1.jpg"
-    ],
-    "imagenVariantes": "FN360 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Rosado": true,
-      "Beige": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN360"
-  },
-  {
-    "codigo": "FN25366",
-    "nombre": "Billetera dama print larga",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN25366 1.jpg"
-    ],
-    "imagenVariantes": "FN25366 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25366"
-  },
-  {
-    "codigo": "FN25364",
-    "nombre": "Billetera dama print larga",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "FN25364 1.jpg"
-    ],
-    "imagenVariantes": "FN25364 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25364"
-  },
-  {
-    "codigo": "W1281",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Marroquineria",
-    "medidas": "20 x 10,5 x 2,5cm",
-    "imagenes": [
-      "W1281 1.jpg",
-      "W1281 2.jpg",
-      "W1281 3.jpg",
-      "W1281 4.jpg"
-    ],
-    "imagenVariantes": "W1281 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Bordeaux": true,
-      "Rojo": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W1281"
-  },
-  {
-    "codigo": "W274",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 9,8 X 2,5CM",
-    "imagenes": [
-      "W274 1.jpg",
-      "W274 2.jpg",
-      "W274 3.jpg"
-    ],
-    "imagenVariantes": "W274 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Plateado": true,
-      "Verde": true,
-      "Celeste": true,
-      "Marron Claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W274"
-  },
-  {
-    "codigo": "W140",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19,5 X 10 X 2,5CM",
-    "imagenes": [
-      "W140 1.jpg",
-      "W140 2.jpg",
-      "W140 3.jpg",
-      "W140 4.jpg"
-    ],
-    "imagenVariantes": "W140 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Verde": true,
-      "Lila": true,
-      "Beige": true,
-      "Marron Claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W140"
-  },
-  {
-    "codigo": "W253",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10,5 X 2CM",
-    "imagenes": [
-      "W253 1.jpg",
-      "W253 2.jpg",
-      "W253 3.jpg",
-      "W253 4.jpg"
-    ],
-    "imagenVariantes": "W253 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Celeste": true,
-      "Marron Claro": true,
-      "Rojo": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W253"
-  },
-  {
-    "codigo": "W801",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19,5 X 9,5 X 2,5",
-    "imagenes": [
-      "W801 1.jpg",
-      "W801 2.jpg",
-      "W801 3.jpg"
-    ],
-    "imagenVariantes": "W801 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Rojo": true,
-      "Rosa Viejo": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W801"
-  },
-  {
-    "codigo": "W252",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "W252 1.jpg",
-      "W252 2.jpg",
-      "W252 3.jpg",
-      "W252 4.jpg",
-      "W252 5.jpg"
-    ],
-    "imagenVariantes": "W252 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W252"
-  },
-  {
-    "codigo": "W254",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "14,8 X 9 X 2,2CM",
-    "imagenes": [
-      "W254 1.jpg",
-      "W254 2.jpg",
-      "W254 3.jpg",
-      "W254 4.jpg"
-    ],
-    "imagenVariantes": "W254 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Gris": true,
-      "Rojo": true,
-      "Rosa Viejo": true,
-      "Azul": true,
-      "Mostaza": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W254"
-  },
-  {
-    "codigo": "W802",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "20 X 5 X 12,5CM",
-    "imagenes": [
-      "W802 1.jpg",
-      "W802 2.jpg",
-      "W802 3.jpg",
-      "W802 4.jpg",
-      "W802 5.jpg"
-    ],
-    "imagenVariantes": "W802 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Rojo": true,
-      "Rosa Viejo": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W802"
-  },
-  {
-    "codigo": "W293",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "18,6 X 9,5 X 3,2CM",
-    "imagenes": [
-      "W293 1.jpg",
-      "W293 2.jpg",
-      "W293 3.jpg",
-      "W293 4.jpg",
-      "W293 5.jpg"
-    ],
-    "imagenVariantes": "W293 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Beige": true,
-      "Marron Claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W293"
-  },
-  {
-    "codigo": "W1008",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10 X 2CM",
-    "imagenes": [
-      "W1008 1.jpg",
-      "W1008 2.jpg",
-      "W1008 3.jpg",
-      "W1008 4.jpg",
-      "W1008 5.jpg"
-    ],
-    "imagenVariantes": "W1008 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W1008"
-  },
-  {
-    "codigo": "W266",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10 X 3CM",
-    "imagenes": [
-      "W266 1.jpg",
-      "W266 2.jpg",
-      "W266 3.jpg",
-      "W266 4.jpg"
-    ],
-    "imagenVariantes": "W266 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W266"
-  },
-  {
-    "codigo": "W297",
-    "nombre": "Billetera dama Larga",
-    "descripcion": "Billetera dama Larga",
-    "categoria": "Marroquineria",
-    "medidas": "19 X 10 X 2,5CM",
-    "imagenes": [
-      "W297 1.jpg",
-      "W297 2.jpg",
-      "W297 3.jpg",
-      "W297 4.jpg",
-      "W297 5.jpg"
-    ],
-    "imagenVariantes": "W297 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Nude": true,
-      "Celeste": true,
-      "Marron Claro": true,
-      "Verde claro": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W297"
   },
   {
     "codigo": "LD7044",
@@ -10049,25 +9990,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: COSMETIC001"
-  },
-  {
-    "codigo": "FN4003",
-    "nombre": "Riñonera sport",
-    "descripcion": "Riñonera",
-    "categoria": "Marroquineria",
-    "medidas": "30 x 13 x 8cm",
-    "imagenes": [
-      "FN4003 1.jpg",
-      "FN4003 2.jpg",
-      "FN4003 3.jpg",
-      "FN4003 4.jpg"
-    ],
-    "imagenVariantes": "FN4003 VARIANTES.jpg",
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN4003"
   },
   {
     "codigo": "UB6208",
@@ -10789,6 +10711,84 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: RELH008-E"
+  },
+  {
+    "codigo": "BOX009",
+    "nombre": "Caja anillo",
+    "descripcion": "Caja anillo",
+    "categoria": "xEstuches",
+    "medidas": "5 X 5 X 3CM",
+    "imagenes": [
+      "BOX009 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX009"
+  },
+  {
+    "codigo": "BOX008",
+    "nombre": "Caja conjunto chica",
+    "descripcion": "Caja conjunto",
+    "categoria": "xEstuches",
+    "medidas": "5 X 8 X 2.8CM",
+    "imagenes": [
+      "BOX008 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX008"
+  },
+  {
+    "codigo": "BOX006",
+    "nombre": "Caja conjunto grande",
+    "descripcion": "Caja conjunto",
+    "categoria": "xEstuches",
+    "medidas": "7 X 9 X 3CM",
+    "imagenes": [
+      "BOX006 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX006"
+  },
+  {
+    "codigo": "BOX007",
+    "nombre": "Caja pulsera paquete x12",
+    "descripcion": "Caja pulsera",
+    "categoria": "xEstuches",
+    "medidas": "21 X 4 X 2,5CM",
+    "imagenes": [
+      "BOX007 1.jpg",
+      "BOX007 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BOX007"
+  },
+  {
+    "codigo": "CAJRE008",
+    "nombre": "Caja relojes",
+    "descripcion": "Caja relojes",
+    "categoria": "xEstuches",
+    "medidas": "9,2 x 8,7 x 5,7cm",
+    "imagenes": [
+      "CAJRE008 1.jpg",
+      "CAJRE008 2.jpg"
+    ],
+    "imagenVariantes": "CAJRE008 VARIANTES.jpg",
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: CAJRE008"
   },
   {
     "codigo": "13604",
