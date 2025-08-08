@@ -93,9 +93,13 @@ async function sincronizarProductos() {
     
     // Leer productos del catálogo
     const productosRaw = fs.readFileSync(CONFIG.catalogoPath, 'utf8');
-    const productosCatalogo = JSON.parse(productosRaw);
+    const catalogoData = JSON.parse(productosRaw);
+    
+    // Extraer productos del formato con versioning
+    const productosCatalogo = catalogoData.productos || catalogoData;
     
     console.log(`📦 Encontrados ${productosCatalogo.length} productos en el catálogo`);
+    console.log(`📅 Versión del catálogo: ${catalogoData.version || 'legacy'}`);
     
     // Transformar productos para website
     const productosWeb = productosCatalogo.map(transformarProducto);

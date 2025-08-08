@@ -53,9 +53,7 @@
     "permitirSurtido": true,
     "colores": {
       "Blanco": true,
-      "Amarillo": true,
-      "Celeste": true,
-      "Rosado": true
+      "Amarillo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN8101"
@@ -5069,19 +5067,19 @@
     "whatsappMessage": "Hola, me interesa este producto: SZ0092"
   },
   {
-    "codigo": "SL00130",
+    "codigo": "SL0130",
     "nombre": "Pulsera acero dorado",
     "descripcion": "Pulsera acero",
     "categoria": "Acero",
     "medidas": "",
     "imagenes": [
-      "SL00130 1.jpg"
+      "SL0130 1.jpg"
     ],
     "sinColor": true,
     "permitirSurtido": false,
     "colores": {},
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SL00130"
+    "whatsappMessage": "Hola, me interesa este producto: SL0130"
   },
   {
     "codigo": "SL0074",
@@ -6921,18 +6919,18 @@
     "whatsappMessage": "Hola, me interesa este producto: BILLH5505"
   },
   {
-    "codigo": "BILLH5506",
+    "codigo": "BILLH5516",
     "nombre": "Billetera de hombre",
     "descripcion": "Billetera de hombre",
     "categoria": "Caballero",
     "medidas": "12 X 10 X 3CM",
     "imagenes": [
-      "BILLH5506 1.jpg",
-      "BILLH5506 2.jpg",
-      "BILLH5506 3.jpg",
-      "BILLH5506 4.jpg"
+      "BILLH5516 1.jpg",
+      "BILLH5516 2.jpg",
+      "BILLH5516 3.jpg",
+      "BILLH5516 4.jpg"
     ],
-    "imagenVariantes": "BILLH5506 VARIANTES.jpg",
+    "imagenVariantes": "BILLH5516 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
@@ -6942,7 +6940,7 @@
       "Azul": true
     },
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BILLH5506"
+    "whatsappMessage": "Hola, me interesa este producto: BILLH5516"
   },
   {
     "codigo": "BILLH3913",
@@ -7437,6 +7435,28 @@
     "whatsappMessage": "Hola, me interesa este producto: LB007"
   },
   {
+    "codigo": "LB015",
+    "nombre": "Cinto de dama faja",
+    "descripcion": "Cinto de dama",
+    "categoria": "Cintos",
+    "medidas": "105cm",
+    "imagenes": [
+      "LB015 1.jpg",
+      "LB015 2.jpg",
+      "LB015 3.jpg",
+      "LB015 4.jpg",
+      "LB015 5.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Marron Claro": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: LB015"
+  },
+  {
     "codigo": "CINTO905",
     "nombre": "Cinto de dama",
     "descripcion": "Cinto de dama",
@@ -7877,6 +7897,25 @@
     "whatsappMessage": "Hola, me interesa este producto: 9226"
   },
   {
+    "codigo": "GS9222",
+    "nombre": "Lentes de dama",
+    "descripcion": "XLentes de dama",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "GS9222 1.jpg",
+      "GS9222 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: GS9222"
+  },
+  {
     "codigo": "4309",
     "nombre": "Lentes de dama",
     "descripcion": "XLentes de dama",
@@ -7946,14 +7985,12 @@
     "imagenVariantes": "FNG6111 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true
+    "colores": {
+      "Verde": true,
+      "Celeste": true,
+      "Rosado": true
     },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FNG6111"
   },
   {
@@ -8069,30 +8106,10 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Verde": true,
       "Marron Oscuro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN2124"
-  },
-  {
-    "codigo": "FN1724",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "FN1724 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN1724"
   },
   {
     "codigo": "FN1924",
@@ -9553,20 +9570,20 @@
     "whatsappMessage": "Hola, me interesa este producto: H003"
   },
   {
-    "codigo": "H004",
+    "codigo": "H0045",
     "nombre": "Bandolera para celular",
     "descripcion": "Bandolera para celular",
     "categoria": "Marroquineria",
     "medidas": "19 X 10,5 X 4CM",
     "imagenes": [
-      "H004 1.jpg",
-      "H004 2.jpg",
-      "H004 3.jpg",
-      "H004 4.jpg",
-      "H004 5.jpg",
-      "H004 6.jpg"
+      "H0045 1.jpg",
+      "H0045 2.jpg",
+      "H0045 3.jpg",
+      "H0045 4.jpg",
+      "H0045 5.jpg",
+      "H0045 6.jpg"
     ],
-    "imagenVariantes": "H004 VARIANTES.jpg",
+    "imagenVariantes": "H0045 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
@@ -9576,7 +9593,7 @@
       "Rojo": true
     },
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: H004"
+    "whatsappMessage": "Hola, me interesa este producto: H0045"
   },
   {
     "codigo": "H005",
@@ -9647,21 +9664,21 @@
     "whatsappMessage": "Hola, me interesa este producto: LD7044"
   },
   {
-    "codigo": "LD214",
+    "codigo": "LD1214",
     "nombre": "Bolso de tela",
     "descripcion": "Bolsos",
     "categoria": "Marroquineria",
     "medidas": "30 x 27 x 10cm",
     "imagenes": [
-      "LD214 1.jpg",
-      "LD214 2.jpg",
-      "LD214 3.jpg",
-      "LD214 4.jpg",
-      "LD214 5.jpg",
-      "LD214 6.jpg",
-      "LD214 7.jpg"
+      "LD1214 1.jpg",
+      "LD1214 2.jpg",
+      "LD1214 3.jpg",
+      "LD1214 4.jpg",
+      "LD1214 5.jpg",
+      "LD1214 6.jpg",
+      "LD1214 7.jpg"
     ],
-    "imagenVariantes": "LD214 VARIANTES.jpg",
+    "imagenVariantes": "LD1214 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
@@ -9671,7 +9688,7 @@
       "Gris": true
     },
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: LD214"
+    "whatsappMessage": "Hola, me interesa este producto: LD1214"
   },
   {
     "codigo": "LD6305",
@@ -9949,16 +9966,16 @@
     "whatsappMessage": "Hola, me interesa este producto: BAG26"
   },
   {
-    "codigo": "LB5531",
+    "codigo": "LD5531",
     "nombre": "Mochila lisa impermeable",
     "descripcion": "Mochilas",
     "categoria": "Marroquineria",
     "medidas": "27 x 22 x 12cm",
     "imagenes": [
-      "LB5531 1.jpg",
-      "LB5531 2.jpg"
+      "LD5531 1.jpg",
+      "LD5531 2.jpg"
     ],
-    "imagenVariantes": "LB5531 VARIANTES.jpg",
+    "imagenVariantes": "LD5531 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
@@ -9968,7 +9985,7 @@
       "Azul": true
     },
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: LB5531"
+    "whatsappMessage": "Hola, me interesa este producto: LD5531"
   },
   {
     "codigo": "FNB1024",
