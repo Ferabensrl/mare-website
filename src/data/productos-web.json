@@ -9153,7 +9153,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Lila": true,
       "Rosado": true,
       "Beige": true,
       "Verde Agua": true
@@ -9827,8 +9826,7 @@
     "colores": {
       "Negro": true,
       "Celeste": true,
-      "Fucsia": true,
-      "Gris": true
+      "Fucsia": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B1202"
@@ -12069,36 +12067,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 24320"
-  },
-  {
-    "codigo": "24070",
-    "nombre": "Bolita mediana enchapada oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "24070 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 24070"
-  },
-  {
-    "codigo": "210140",
-    "nombre": "Bolita chica enchapada oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "210140 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210140"
   },
   {
     "codigo": "212900",
