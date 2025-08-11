@@ -12267,21 +12267,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 25630"
   },
   {
-    "codigo": "212230",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "212230 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 212230"
-  },
-  {
     "codigo": "50122B",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
