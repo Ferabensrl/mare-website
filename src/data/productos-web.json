@@ -22,24 +22,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BAG2002"
   },
   {
-    "codigo": "CBB009",
-    "nombre": "Bandolera unicornio",
-    "descripcion": "Bandolera infantil",
-    "categoria": "A Infantil",
-    "medidas": "10 x 4 x 13cm",
-    "imagenes": [
-      "CBB009 1.jpg",
-      "CBB009 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: CBB009"
-  },
-  {
     "codigo": "FN8101",
     "nombre": "Bandolera niña",
     "descripcion": "Bandolera infantil",
@@ -9313,31 +9295,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB5019"
-  },
-  {
-    "codigo": "BAG0172",
-    "nombre": "Bandolera",
-    "descripcion": "Bandolera",
-    "categoria": "Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "BAG0172 1.jpg",
-      "BAG0172 2.jpg",
-      "BAG0172 3.jpg",
-      "BAG0172 4.jpg",
-      "BAG0172 5.jpg",
-      "BAG0172 6.jpg",
-      "BAG0172 7.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Beige": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG0172"
   },
   {
     "codigo": "BAG1417",
