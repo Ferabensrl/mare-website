@@ -4593,23 +4593,6 @@
     "whatsappMessage": "Hola, me interesa este producto: NKG8011"
   },
   {
-    "codigo": "NKG6105",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NKG6105 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NKG6105"
-  },
-  {
     "codigo": "G6997",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
