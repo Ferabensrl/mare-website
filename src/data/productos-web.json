@@ -22,25 +22,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BAG2002"
   },
   {
-    "codigo": "FN8101",
-    "nombre": "Bandolera niña",
-    "descripcion": "Bandolera infantil",
-    "categoria": "A Infantil",
-    "medidas": "",
-    "imagenes": [
-      "FN8101 1.jpg",
-      "FN8101 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Blanco": true,
-      "Amarillo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN8101"
-  },
-  {
     "codigo": "W383-1",
     "nombre": "Bandolera/Billetera juvenil",
     "descripcion": "Bandolera juvenil",
@@ -3092,21 +3073,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ER004"
   },
   {
-    "codigo": "ER0015",
-    "nombre": "Set caravanas x3",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER0015 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER0015"
-  },
-  {
     "codigo": "ER0016",
     "nombre": "Set caravanas x3",
     "descripcion": "Caravanas acero",
@@ -3332,21 +3298,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA0005"
   },
   {
-    "codigo": "EA0005-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0005-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0005-2"
-  },
-  {
     "codigo": "EA0008",
     "nombre": "Abridores acero",
     "descripcion": "Caravanas acero",
@@ -3435,21 +3386,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA7008-2"
-  },
-  {
-    "codigo": "EA7001-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA7001-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA7001-2"
   },
   {
     "codigo": "EA7006",
@@ -3697,40 +3633,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: G6932"
-  },
-  {
-    "codigo": "G6969",
-    "nombre": "Conjunto acero",
-    "descripcion": "Conjunto acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "G6969 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G6969"
-  },
-  {
-    "codigo": "G6971",
-    "nombre": "Conjunto acero",
-    "descripcion": "Conjunto acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "G6971 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G6971"
   },
   {
     "codigo": "G6964",
@@ -4383,23 +4285,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: NK1010"
-  },
-  {
-    "codigo": "NK1011",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK1011 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK1011"
   },
   {
     "codigo": "NK1015",
@@ -5313,21 +5198,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BR009"
-  },
-  {
-    "codigo": "BR011",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "BR011 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BR011"
   },
   {
     "codigo": "BR012",
@@ -7453,8 +7323,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Blanco": true,
-      "Beige": true,
       "Combinado": true
     },
     "variantes": {},
@@ -8523,6 +8391,7 @@
       "Negro": true,
       "Rosado": true,
       "Terracota": true,
+      "Bordeaux": true,
       "Azul": true
     },
     "variantes": {},
@@ -8570,8 +8439,7 @@
     "colores": {
       "Negro": true,
       "Terracota": true,
-      "Petroleo": true,
-      "Azul": true
+      "Petroleo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB1057"
@@ -8800,7 +8668,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Celeste": true,
       "Rosado": true,
       "Gris": true,
@@ -8942,8 +8809,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Verde": true,
-      "Rosado": true
+      "Verde": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B013"
@@ -9253,25 +9119,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B1120"
   },
   {
-    "codigo": "FN4003",
-    "nombre": "Riñonera sport",
-    "descripcion": "Bandolera",
-    "categoria": "Marroquineria",
-    "medidas": "30 x 13 x 8cm",
-    "imagenes": [
-      "FN4003 1.jpg",
-      "FN4003 2.jpg",
-      "FN4003 3.jpg",
-      "FN4003 4.jpg"
-    ],
-    "imagenVariantes": "FN4003 VARIANTES.jpg",
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN4003"
-  },
-  {
     "codigo": "LB5019",
     "nombre": "Bolsos",
     "descripcion": "Bandolera",
@@ -9576,24 +9423,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H005"
-  },
-  {
-    "codigo": "BAG2003",
-    "nombre": "Bolso",
-    "descripcion": "Bolso",
-    "categoria": "Marroquineria",
-    "medidas": "23 x 22cm",
-    "imagenes": [
-      "BAG2003 1.jpg",
-      "BAG2003 2.jpg",
-      "BAG2003 3.jpg"
-    ],
-    "imagenVariantes": "BAG2003 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG2003"
   },
   {
     "codigo": "LD7044",
