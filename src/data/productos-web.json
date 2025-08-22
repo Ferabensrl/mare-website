@@ -6066,28 +6066,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN368"
   },
   {
-    "codigo": "FN374",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "",
-    "imagenes": [
-      "FN374 1.jpg"
-    ],
-    "imagenVariantes": "FN374 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Amarillo": true,
-      "Verde": true,
-      "Celeste": true,
-      "Bordeaux": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN374"
-  },
-  {
     "codigo": "FN362",
     "nombre": "Billetera dama",
     "descripcion": "Billetera dama larga",
@@ -8556,7 +8534,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Verde": true,
       "Petroleo": true,
       "Mostaza": true
@@ -11449,36 +11426,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 14444"
   },
   {
-    "codigo": "AN03204",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "AN03204 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: AN03204"
-  },
-  {
-    "codigo": "AN04074",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "AN04074 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: AN04074"
-  },
-  {
     "codigo": "55130",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
@@ -11522,21 +11469,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 211700"
-  },
-  {
-    "codigo": "210500",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "210500 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210500"
   },
   {
     "codigo": "210840",
@@ -11657,21 +11589,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 20650"
-  },
-  {
-    "codigo": "210030",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "210030 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210030"
   },
   {
     "codigo": "24320",
@@ -12100,36 +12017,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 27002"
   },
   {
-    "codigo": "20592",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "20592 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 20592"
-  },
-  {
-    "codigo": "20412",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "20412 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 20412"
-  },
-  {
     "codigo": "20252",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12190,21 +12077,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 23282"
   },
   {
-    "codigo": "25352",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "25352 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 25352"
-  },
-  {
     "codigo": "21512",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12218,21 +12090,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 21512"
-  },
-  {
-    "codigo": "20962",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "20962 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 20962"
   },
   {
     "codigo": "25842",
@@ -12428,21 +12285,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 29082"
-  },
-  {
-    "codigo": "212632",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "212632 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 212632"
   },
   {
     "codigo": "211602",
