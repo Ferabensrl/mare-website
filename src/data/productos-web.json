@@ -10831,21 +10831,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BOX006"
   },
   {
-    "codigo": "BOX0077",
-    "nombre": "Caja conjunto paquete x24",
-    "descripcion": "Caja conjunto",
-    "categoria": "x Estuches",
-    "medidas": "5 x 8 x 2,5cm",
-    "imagenes": [
-      "BOX0077 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BOX0077"
-  },
-  {
     "codigo": "BOX5894",
     "nombre": "Caja conjunto paquete x12",
     "descripcion": "Caja conjunto",
