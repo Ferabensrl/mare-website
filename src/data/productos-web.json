@@ -12791,6 +12791,61 @@
     "whatsappMessage": "Hola, me interesa este producto: 211262"
   },
   {
+    "codigo": "40162",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "40+5cm",
+    "imagenes": [
+      "40162 1.jpg",
+      "40162 2.jpg",
+      "40162 3.jpg"
+    ],
+    "imagenVariantes": "40162 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: 40162"
+  },
+  {
+    "codigo": "60512",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "40+5cm",
+    "imagenes": [
+      "60512 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 60512"
+  },
+  {
+    "codigo": "61392",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "40+5cm",
+    "imagenes": [
+      "61392 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 61392"
+  },
+  {
     "codigo": "30860",
     "nombre": "Gargantilla enchapada",
     "descripcion": "Gargantilla enchapada",
