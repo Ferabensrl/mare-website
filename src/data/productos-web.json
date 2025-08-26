@@ -8350,12 +8350,14 @@
       "LB252 3.jpg",
       "LB252 4.jpg",
       "LB252 5.jpg",
-      "LB252 6.jpg"
+      "LB252 6.jpg",
+      "LB252 7.jpg"
     ],
     "imagenVariantes": "LB252 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
+      "Nude": true,
       "Celeste": true,
       "Terracota": true
     },
