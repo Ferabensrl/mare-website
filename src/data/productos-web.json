@@ -4981,6 +4981,54 @@
     "whatsappMessage": "Hola, me interesa este producto: 35614M"
   },
   {
+    "codigo": "311054P",
+    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
+    "descripcion": "Gargantilla acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "311054P 1.jpg",
+      "311054P 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311054P"
+  },
+  {
+    "codigo": "311054M",
+    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
+    "descripcion": "Gargantilla acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "311054M 1.jpg",
+      "311054M 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311054M"
+  },
+  {
+    "codigo": "311054G",
+    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
+    "descripcion": "Gargantilla acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "311054G 1.jpg",
+      "311054G 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311054G"
+  },
+  {
     "codigo": "FN5257-2",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
