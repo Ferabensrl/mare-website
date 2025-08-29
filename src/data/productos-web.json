@@ -13499,20 +13499,20 @@
     "whatsappMessage": "Hola, me interesa este producto: 55742PI"
   },
   {
-    "codigo": "512270",
+    "codigo": "512270PI",
     "nombre": "Gargantilla enchapada en oro Gatita",
     "descripcion": "Enchapado infantil",
     "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
-      "512270 1.jpg",
-      "512270 2.jpg"
+      "512270PI 1.jpg",
+      "512270PI 2.jpg"
     ],
     "sinColor": true,
     "permitirSurtido": false,
     "colores": {},
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 512270"
+    "whatsappMessage": "Hola, me interesa este producto: 512270PI"
   },
   {
     "codigo": "13652",
@@ -14260,9 +14260,9 @@
     "categoria": "Z Enchapado",
     "medidas": "",
     "imagenes": [
-      "310750 1.jpg",
-      "310750 2.jpg"
+      "310750 1.jpg"
     ],
+    "imagenVariantes": "310750 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
