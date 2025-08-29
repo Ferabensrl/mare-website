@@ -13418,6 +13418,408 @@
     "whatsappMessage": "Hola, me interesa este producto: 56030PI"
   },
   {
+    "codigo": "56010PI",
+    "nombre": "Gargantilla enchapada con corazon",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "56010PI 1.jpg",
+      "56010PI 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 56010PI"
+  },
+  {
+    "codigo": "313790",
+    "nombre": "Gargantilla enchapada Amistad/Amor",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "313790 1.jpg",
+      "313790 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 313790"
+  },
+  {
+    "codigo": "311220",
+    "nombre": "Gargantilla enchapada 15 años",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "311220 1.jpg",
+      "311220 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311220"
+  },
+  {
+    "codigo": "311850",
+    "nombre": "Gargantilla enchapada 15 años",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "311850 1.jpg",
+      "311850 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311850"
+  },
+  {
+    "codigo": "311240",
+    "nombre": "Gargantilla enchapada 15 años",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "311240 1.jpg",
+      "311240 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 311240"
+  },
+  {
+    "codigo": "55130PI",
+    "nombre": "Gargantilla enchapada infinito",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "55130PI 1.jpg",
+      "55130PI 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 55130PI"
+  },
+  {
+    "codigo": "510160PI",
+    "nombre": "Gargantilla enchapada corazón",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "510160PI 1.jpg",
+      "510160PI 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 510160PI"
+  },
+  {
+    "codigo": "310750",
+    "nombre": "Gargantilla enchapada Nene/Nena",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "310750 1.jpg",
+      "310750 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
+    "whatsappMessage": "Hola, me interesa este producto: 310750"
+  },
+  {
+    "codigo": "510800PI",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "510800PI 1.jpg",
+      "510800PI 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 510800PI"
+  },
+  {
+    "codigo": "312610",
+    "nombre": "Gargantilla enchapada Virgen",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "312610 1.jpg",
+      "312610 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 312610"
+  },
+  {
+    "codigo": "310900",
+    "nombre": "Gargantilla enchapada Angel",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "310900 1.jpg",
+      "310900 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 310900"
+  },
+  {
+    "codigo": "PI01301",
+    "nombre": "Gargantilla enchapada Virgen",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "PI01301 1.jpg",
+      "PI01301 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: PI01301"
+  },
+  {
+    "codigo": "PI03171",
+    "nombre": "Gargantilla enchapada Virgen",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "PI03171 1.jpg",
+      "PI03171 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: PI03171"
+  },
+  {
+    "codigo": "PI05521",
+    "nombre": "Gargantilla enchapada Arbol de la vida",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "PI05521 1.jpg",
+      "PI05521 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: PI05521"
+  },
+  {
+    "codigo": "30560",
+    "nombre": "Gargantilla enchapada Serpiente",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "30560 1.jpg",
+      "30560 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 30560"
+  },
+  {
+    "codigo": "36490",
+    "nombre": "Gargantilla enchapada Virgen",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "36490 1.jpg",
+      "36490 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 36490"
+  },
+  {
+    "codigo": "510610PI",
+    "nombre": "Gargantilla enchapada corazón",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "510610PI 1.jpg",
+      "510610PI 2.jpg",
+      "510610PI 3.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 510610PI"
+  },
+  {
+    "codigo": "56000PI",
+    "nombre": "Gargantilla enchapada corazón",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "56000PI 1.jpg",
+      "56000PI 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 56000PI"
+  },
+  {
+    "codigo": "510530PI",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "510530PI 1.jpg",
+      "510530PI 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Varios colores": true,
+      "Rosado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 510530PI"
+  },
+  {
+    "codigo": "PI02531",
+    "nombre": "Gargantilla enchapada estrella",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "PI02531 1.jpg",
+      "PI02531 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: PI02531"
+  },
+  {
+    "codigo": "56050PI",
+    "nombre": "Gargantilla enchapada",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "56050PI 1.jpg",
+      "56050PI 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 56050PI"
+  },
+  {
+    "codigo": "PI06351",
+    "nombre": "Gargantilla enchapada Serpiente",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "PI06351 1.jpg",
+      "PI06351 2.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: PI06351"
+  },
+  {
+    "codigo": "60410",
+    "nombre": "Rosario enchapado en oro",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "60410 1.jpg",
+      "60410 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Dorado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 60410"
+  },
+  {
+    "codigo": "60412",
+    "nombre": "Rosario enchapado en plata",
+    "descripcion": "Gargantilla enchapada",
+    "categoria": "Z Enchapado",
+    "medidas": "",
+    "imagenes": [
+      "60412 1.jpg",
+      "60412 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: 60412"
+  },
+  {
     "codigo": "310440",
     "nombre": "Manito prendedor",
     "descripcion": "Manito prendedor",
