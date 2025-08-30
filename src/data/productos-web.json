@@ -5456,42 +5456,6 @@
     "whatsappMessage": "Hola, me interesa este producto: G7002"
   },
   {
-    "codigo": "XL00431",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL00431 1.jpg",
-      "XL00431 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL00431"
-  },
-  {
-    "codigo": "XL00378",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL00378 1.jpg",
-      "XL00378 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL00378"
-  },
-  {
     "codigo": "FN0519",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -5643,6 +5607,42 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: GARG356"
+  },
+  {
+    "codigo": "XL004311",
+    "nombre": "Gargantilla acero",
+    "descripcion": "Gargantilla acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "XL004311 1.jpg",
+      "XL004311 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Dorado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: XL004311"
+  },
+  {
+    "codigo": "XL003788",
+    "nombre": "Gargantilla acero",
+    "descripcion": "Gargantilla acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "XL003788 1.jpg",
+      "XL003788 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Dorado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: XL003788"
   },
   {
     "codigo": "COLLAR0030",
