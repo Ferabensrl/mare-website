@@ -6196,36 +6196,16 @@
     "whatsappMessage": "Hola, me interesa este producto: BR9140"
   },
   {
-    "codigo": "PULS0001",
-    "nombre": "Pulsera acero",
+    "codigo": "PULS1001",
+    "nombre": "Pulsera acero con dije enchapado",
     "descripcion": "Pulsera acero",
     "categoria": "Acero",
     "medidas": "",
     "imagenes": [
-      "PULS0001 1.jpg"
+      "PULS1001 1.jpg",
+      "PULS1001 2.jpg"
     ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C2": true,
-      "C5": true,
-      "C6": true,
-      "C7": true,
-      "C8": true,
-      "C9": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: PULS0001"
-  },
-  {
-    "codigo": "PULS0002",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "PULS0002 1.jpg"
-    ],
+    "imagenVariantes": "PULS1001 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -6234,9 +6214,14 @@
       "C2": true,
       "C3": true,
       "C4": true,
-      "C5": true
+      "C5": true,
+      "C6": true,
+      "C7": true,
+      "C8": true,
+      "C9": true,
+      "C10": true
     },
-    "whatsappMessage": "Hola, me interesa este producto: PULS0002"
+    "whatsappMessage": "Hola, me interesa este producto: PULS1001"
   },
   {
     "codigo": "PULS6151",
