@@ -3612,6 +3612,23 @@
     "whatsappMessage": "Hola, me interesa este producto: G6964"
   },
   {
+    "codigo": "FN0052",
+    "nombre": "Dije acero Cruz Bombe",
+    "descripcion": "Dije acero",
+    "categoria": "Acero",
+    "medidas": "2,4cm x 3,5cm",
+    "imagenes": [
+      "FN0052 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN0052"
+  },
+  {
     "codigo": "XL00079",
     "nombre": "Gargantilla acero plateado",
     "descripcion": "Gargantilla acero",
@@ -8482,6 +8499,149 @@
     "whatsappMessage": "Hola, me interesa este producto: FN2412"
   },
   {
+    "codigo": "SG25390",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25390 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Lila": true,
+      "Rosado": true,
+      "Fucsia": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25390"
+  },
+  {
+    "codigo": "SG25393",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25393 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25393"
+  },
+  {
+    "codigo": "SG25392",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25392 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25392"
+  },
+  {
+    "codigo": "SG25395",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25395 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25395"
+  },
+  {
+    "codigo": "SG25394",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25394 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Blanco": true,
+      "Celeste": true,
+      "Rosado": true,
+      "Rojo": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25394"
+  },
+  {
+    "codigo": "SG25406",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25406 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25406"
+  },
+  {
+    "codigo": "SG25508",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25508 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25508"
+  },
+  {
+    "codigo": "SG25510",
+    "nombre": "Lentes de sol infantiles",
+    "descripcion": "XLentes infantiles",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25510 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25510"
+  },
+  {
     "codigo": "GS9211",
     "nombre": "Lentes infantiles polarizados",
     "descripcion": "XLentes infantiles polarizados",
@@ -8658,6 +8818,421 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN1924"
+  },
+  {
+    "codigo": "SG25382",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25382 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25382"
+  },
+  {
+    "codigo": "SG25381",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25381 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25381"
+  },
+  {
+    "codigo": "SG25384",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25384 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Verde": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25384"
+  },
+  {
+    "codigo": "SG25383",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25383 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25383"
+  },
+  {
+    "codigo": "SG25386",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25386 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25386"
+  },
+  {
+    "codigo": "SG25385",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25385 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25385"
+  },
+  {
+    "codigo": "SG25388",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25388 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Plateado": true,
+      "Terracota": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25388"
+  },
+  {
+    "codigo": "SG25389",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25389 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Plateado": true,
+      "Terracota": true,
+      "Azul": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25389"
+  },
+  {
+    "codigo": "SG25397",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25397 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25397"
+  },
+  {
+    "codigo": "SG25400",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25400 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25400"
+  },
+  {
+    "codigo": "SG25399",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25399 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Verde": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25399"
+  },
+  {
+    "codigo": "SG25402",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25402 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25402"
+  },
+  {
+    "codigo": "SG25401",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25401 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true,
+      "Beige": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25401"
+  },
+  {
+    "codigo": "SG25404",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25404 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25404"
+  },
+  {
+    "codigo": "SG25403",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25403 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25403"
+  },
+  {
+    "codigo": "SG25408",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25408 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25408"
+  },
+  {
+    "codigo": "SG25410",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25410 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25410"
+  },
+  {
+    "codigo": "SG25412",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25412 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true,
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25412"
+  },
+  {
+    "codigo": "SG25413",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25413 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25413"
+  },
+  {
+    "codigo": "SG25411",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25411 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25411"
+  },
+  {
+    "codigo": "SG25414",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25414 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25414"
+  },
+  {
+    "codigo": "SG25426",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25426 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Rosado": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25426"
   },
   {
     "codigo": "H006",
