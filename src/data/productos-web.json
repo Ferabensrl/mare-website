@@ -301,8 +301,7 @@
     "colores": {
       "Negro": true,
       "Verde": true,
-      "Rosado": true,
-      "Beige": true
+      "Rosado": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C042"
@@ -323,11 +322,11 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Lila": true,
+      "Beige": true,
       "Gris": true,
       "Rojo": true,
-      "Verde Agua": true,
-      "Salmon": true
+      "Azul": true,
+      "Verde Agua": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C071"
@@ -1973,39 +1972,12 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Blanco": true,
       "Rosado": true,
       "Fucsia": true,
       "Rojo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D061"
-  },
-  {
-    "codigo": "D063",
-    "nombre": "Set pinzas x2",
-    "descripcion": "Set pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D063 1.jpg",
-      "D063 2.jpg",
-      "D063 3.jpg",
-      "D063 4.jpg"
-    ],
-    "imagenVariantes": "D063 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true,
-      "C6": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: D063"
   },
   {
     "codigo": "D241",
@@ -2731,52 +2703,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA22002-8"
   },
   {
-    "codigo": "EA22004-8MM",
-    "nombre": "Aros acero 8mm",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "8mm",
-    "imagenes": [
-      "EA22004-8MM 1.jpg",
-      "EA22004-8MM 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22004-8MM"
-  },
-  {
-    "codigo": "EA22004-12MM",
-    "nombre": "Aros acero 12mm",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "12mm",
-    "imagenes": [
-      "EA22004-12MM 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22004-12MM"
-  },
-  {
-    "codigo": "EA22004-16MM",
-    "nombre": "Aros acero 16mm",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "16mm",
-    "imagenes": [
-      "EA22004-16MM 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22004-16MM"
-  },
-  {
     "codigo": "24005",
     "nombre": "Aros acero",
     "descripcion": "Caravanas acero",
@@ -3078,21 +3004,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA0007"
   },
   {
-    "codigo": "EA0007-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0007-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0007-2"
-  },
-  {
     "codigo": "EA0001",
     "nombre": "Abridores acero dorado",
     "descripcion": "Caravanas acero",
@@ -3136,21 +3047,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA0006-2"
-  },
-  {
-    "codigo": "EA0004",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0004 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0004"
   },
   {
     "codigo": "EA0004-2",
@@ -4466,22 +4362,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 312614G"
   },
   {
-    "codigo": "312614GG",
-    "nombre": "Cadena acero y dije enchapado Virgen",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "312614GG 1.jpg",
-      "312614GG 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 312614GG"
-  },
-  {
     "codigo": "313434P",
     "nombre": "Cadena acero y dije enchapado Cruz combinada",
     "descripcion": "Gargantilla acero",
@@ -5382,23 +5262,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GARG0253"
   },
   {
-    "codigo": "GARG0211",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "GARG0211 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GARG0211"
-  },
-  {
     "codigo": "GARG0187",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -5932,21 +5795,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: PULS6789"
-  },
-  {
-    "codigo": "PULS6791",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "PULS6791 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PULS6791"
   },
   {
     "codigo": "BR9113",
@@ -6668,26 +6516,6 @@
     "whatsappMessage": "Hola, me interesa este producto: W0004"
   },
   {
-    "codigo": "BILL5327",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "19 x 9,5cm",
-    "imagenes": [
-      "BILL5327 1.jpg",
-      "BILL5327 2.jpg"
-    ],
-    "imagenVariantes": "BILL5327 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BILL5327"
-  },
-  {
     "codigo": "W2001",
     "nombre": "Billetera dama",
     "descripcion": "Billetera dama larga",
@@ -6822,8 +6650,7 @@
       "Rosado": true,
       "Marron Claro": true,
       "Bordeaux": true,
-      "Rojo": true,
-      "Azul": true
+      "Rojo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: W1281"
@@ -6919,12 +6746,10 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Celeste": true,
       "Rosado": true,
       "Rojo": true,
-      "Rosa Viejo": true,
-      "Azul": true
+      "Rosa Viejo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: W801"
@@ -8180,29 +8005,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GS9203"
   },
   {
-    "codigo": "GS9215",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9215 1.jpg",
-      "GS9215 2.jpg",
-      "GS9215 3.jpg"
-    ],
-    "imagenVariantes": "GS9215 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: GS9215"
-  },
-  {
     "codigo": "GS9217",
     "nombre": "Lentes de dama",
     "descripcion": "XLentes de dama",
@@ -8259,8 +8061,7 @@
     "colores": {},
     "variantes": {
       "C1": true,
-      "C2": true,
-      "C3": true
+      "C2": true
     },
     "whatsappMessage": "Hola, me interesa este producto: 9226"
   },
@@ -8284,24 +8085,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GS9222"
   },
   {
-    "codigo": "4309",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "4309 1.jpg",
-      "4309 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Negro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 4309"
-  },
-  {
     "codigo": "FN2412",
     "nombre": "Lentes de dama",
     "descripcion": "XLentes de dama",
@@ -8313,9 +8096,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Blanco": true,
-      "Marron Oscuro": true,
-      "Gris": true
+      "Marron Oscuro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN2412"
@@ -8505,28 +8286,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FNG6111"
   },
   {
-    "codigo": "GS9205",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9205 1.jpg",
-      "GS9205 2.jpg",
-      "GS9205 3.jpg"
-    ],
-    "imagenVariantes": "GS9205 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Plateado": true,
-      "Marron Claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9205"
-  },
-  {
     "codigo": "GS9206",
     "nombre": "Lentes unisex",
     "descripcion": "XLentes unisex",
@@ -8545,25 +8304,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: GS9206"
-  },
-  {
-    "codigo": "GS9219",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9219 1.jpg"
-    ],
-    "imagenVariantes": "GS9219 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Plateado": true,
-      "Celeste": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9219"
   },
   {
     "codigo": "GS9216",
@@ -9847,7 +9587,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Blanco": true,
       "Verde claro": true
     },
     "variantes": {},
