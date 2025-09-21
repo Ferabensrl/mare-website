@@ -285,28 +285,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 3220"
   },
   {
-    "codigo": "C042",
-    "nombre": "Diademas",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C042 1.jpg",
-      "C042 2.jpg",
-      "C042 3.jpg"
-    ],
-    "imagenVariantes": "C042 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C042"
-  },
-  {
     "codigo": "C071",
     "nombre": "Diademas",
     "descripcion": "Diademas",
@@ -323,10 +301,8 @@
     "colores": {
       "Negro": true,
       "Beige": true,
-      "Gris": true,
       "Rojo": true,
-      "Azul": true,
-      "Verde Agua": true
+      "Azul": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C071"
@@ -344,7 +320,10 @@
     ],
     "sinColor": false,
     "permitirSurtido": true,
-    "colores": {},
+    "colores": {
+      "Rosado": true,
+      "Beige": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C069"
   },
@@ -517,9 +496,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Marron Claro": true
+      "Blanco": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D089"
@@ -1366,8 +1343,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true,
-      "Tonos pastel": true
+      "Tonos marrones": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B188"
@@ -1784,21 +1760,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B380"
-  },
-  {
-    "codigo": "PELOH004",
-    "nombre": "Set de ondulines",
-    "descripcion": "Set de ondulines",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "PELOH004 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PELOH004"
   },
   {
     "codigo": "G05",
@@ -10557,8 +10518,7 @@
       "Negro": true,
       "Verde": true,
       "Lila": true,
-      "Rosado": true,
-      "Beige": true
+      "Rosado": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FNB1024"
