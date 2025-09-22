@@ -7966,28 +7966,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GS9203"
   },
   {
-    "codigo": "GS9217",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9217 1.jpg",
-      "GS9217 2.jpg"
-    ],
-    "imagenVariantes": "GS9217 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: GS9217"
-  },
-  {
     "codigo": "9220",
     "nombre": "Lentes de dama",
     "descripcion": "XLentes de dama",
@@ -8005,45 +7983,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 9220"
-  },
-  {
-    "codigo": "9226",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "9226 1.jpg",
-      "9226 2.jpg"
-    ],
-    "imagenVariantes": "9226 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: 9226"
-  },
-  {
-    "codigo": "GS9222",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9222 1.jpg",
-      "GS9222 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9222"
   },
   {
     "codigo": "FN2412",
