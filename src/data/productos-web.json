@@ -2664,22 +2664,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA22002-8"
   },
   {
-    "codigo": "24005",
-    "nombre": "Aros acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "24005 1.jpg",
-      "24005 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 24005"
-  },
-  {
     "codigo": "24005-2",
     "nombre": "Aros acero dorado",
     "descripcion": "Caravanas acero",
