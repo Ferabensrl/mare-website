@@ -494,7 +494,7 @@
     ],
     "imagenVariantes": "D089 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Blanco": true
     },
