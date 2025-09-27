@@ -698,24 +698,6 @@
     "whatsappMessage": "Hola, me interesa este producto: D251"
   },
   {
-    "codigo": "D286",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D286 1.jpg",
-      "D286 2.jpg",
-      "D286 3.jpg",
-      "D286 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D286"
-  },
-  {
     "codigo": "3216",
     "nombre": "Set colitas 20pcs",
     "descripcion": "Set colitas",
@@ -736,7 +718,6 @@
     "colores": {
       "Negro": true,
       "Tonos marrones": true,
-      "Tonos pastel": true,
       "Varios colores": true
     },
     "variantes": {},
@@ -1257,8 +1238,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true,
-      "Tonos pastel": true
+      "Tonos marrones": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B161"
@@ -2745,28 +2725,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: ER8007"
-  },
-  {
-    "codigo": "ER0019",
-    "nombre": "Aros de acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER0019 1.jpg"
-    ],
-    "imagenVariantes": "ER0019 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: ER0019"
   },
   {
     "codigo": "ER0024",
@@ -6078,7 +6036,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Verde": true,
       "Celeste": true,
       "Marron Claro": true,
       "Rojo": true,
@@ -6667,10 +6624,8 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Verde": true,
       "Celeste": true,
       "Marron Claro": true,
-      "Rojo": true,
       "Rosa Viejo": true
     },
     "variantes": {},
@@ -7797,21 +7752,6 @@
       "C5": true
     },
     "whatsappMessage": "Hola, me interesa este producto: PASH5007"
-  },
-  {
-    "codigo": "25157",
-    "nombre": "Prendedor",
-    "descripcion": "Prendedor para pashminas",
-    "categoria": "Lana",
-    "medidas": "",
-    "imagenes": [
-      "25157 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 25157"
   },
   {
     "codigo": "25161",
@@ -9116,8 +9056,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Terracota": true,
-      "Petroleo": true
+      "Terracota": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB1057"
@@ -9726,8 +9665,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Beige": true,
-      "Crudo": true
+      "Beige": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN5021"
@@ -9987,12 +9925,10 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Rosado": true,
       "Gris": true,
       "Verde claro": true,
-      "Rojo": true,
-      "Rosa Viejo": true
+      "Rojo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H001"
