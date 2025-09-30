@@ -321,7 +321,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Rosado": true,
       "Beige": true
     },
     "variantes": {},
@@ -481,25 +480,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D035"
-  },
-  {
-    "codigo": "D089",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D089 1.jpg",
-      "D089 2.jpg"
-    ],
-    "imagenVariantes": "D089 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Blanco": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D089"
   },
   {
     "codigo": "D131",
@@ -3087,21 +3067,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA7006-2"
   },
   {
-    "codigo": "EA7007-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA7007-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA7007-2"
-  },
-  {
     "codigo": "FN2201",
     "nombre": "Caravanas acero",
     "descripcion": "Caravanas acero",
@@ -4199,22 +4164,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 310124M"
-  },
-  {
-    "codigo": "310904M",
-    "nombre": "Cadena acero y dije enchapado Angel",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "310904M 1.jpg",
-      "310904M 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 310904M"
   },
   {
     "codigo": "310904G",
@@ -6489,28 +6438,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN368"
   },
   {
-    "codigo": "FN362",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "",
-    "imagenes": [
-      "FN362 1.jpg"
-    ],
-    "imagenVariantes": "FN362 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN362"
-  },
-  {
     "codigo": "FN360",
     "nombre": "Billetera dama",
     "descripcion": "Billetera dama larga",
@@ -8123,7 +8050,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Dorado": true,
       "Plateado": true
     },
     "variantes": {},
@@ -8141,11 +8067,9 @@
     ],
     "imagenVariantes": "GS9216 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
-      "Dorado": true,
-      "Plateado": true
+      "Dorado": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: GS9216"
@@ -9902,8 +9826,7 @@
     "colores": {
       "Beige": true,
       "Gris": true,
-      "Azul": true,
-      "Salmon": true
+      "Azul": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BAG6535"
@@ -10517,7 +10440,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Rosado": true,
       "Crudo": true
     },
@@ -10566,9 +10488,7 @@
       "C1": true,
       "C2": true,
       "C3": true,
-      "C4": true,
-      "C5": true,
-      "C6": true
+      "C4": true
     },
     "whatsappMessage": "Hola, me interesa este producto: UB6210"
   },
@@ -10876,21 +10796,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: RELW4003"
-  },
-  {
-    "codigo": "RELW4006",
-    "nombre": "Reloj dama cuero",
-    "descripcion": "Reloj dama",
-    "categoria": "Relojes",
-    "medidas": "",
-    "imagenes": [
-      "RELW4006 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: RELW4006"
   },
   {
     "codigo": "RELW4004",
