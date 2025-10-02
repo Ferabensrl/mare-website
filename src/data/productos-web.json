@@ -279,8 +279,10 @@
       "3220 3.jpg"
     ],
     "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
+    "permitirSurtido": false,
+    "colores": {
+      "Blanco": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 3220"
   },
@@ -766,26 +768,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B004"
   },
   {
-    "codigo": "B006",
-    "nombre": "Set scrunchies x2",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B006 1.jpg",
-      "B006 2.jpg",
-      "B006 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Beige": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B006"
-  },
-  {
     "codigo": "B007",
     "nombre": "Set colitas x5",
     "descripcion": "Set colitas",
@@ -894,8 +876,10 @@
       "B033 3.jpg"
     ],
     "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
+    "permitirSurtido": false,
+    "colores": {
+      "Negro": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B033"
   },
@@ -7776,26 +7760,6 @@
     "whatsappMessage": "Hola, me interesa este producto: HS6801"
   },
   {
-    "codigo": "GS9201",
-    "nombre": "Lentes caballero",
-    "descripcion": "XLentes caballero",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9201 1.jpg"
-    ],
-    "imagenVariantes": "GS9201 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Dorado": true,
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9201"
-  },
-  {
     "codigo": "GS9203",
     "nombre": "Lentes caballero",
     "descripcion": "XLentes caballero",
@@ -7815,25 +7779,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: GS9203"
-  },
-  {
-    "codigo": "9220",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "9220 1.jpg",
-      "9220 2.jpg"
-    ],
-    "imagenVariantes": "9220 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Negro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 9220"
   },
   {
     "codigo": "FN2412",
@@ -8711,9 +8656,9 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
+      "Verde": true,
       "Rosado": true,
-      "Beige": true,
-      "Petroleo": true
+      "Beige": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN5005"
@@ -9217,8 +9162,7 @@
     "colores": {
       "Celeste": true,
       "Rosado": true,
-      "Gris": true,
-      "Mostaza": true
+      "Gris": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B1362"
