@@ -7248,28 +7248,6 @@
     "whatsappMessage": "Hola, me interesa este producto: LD8075"
   },
   {
-    "codigo": "BAG9307",
-    "nombre": "Morral Hombre",
-    "descripcion": "Morral hombre",
-    "categoria": "Caballero",
-    "medidas": "24 X 18 X 11CM",
-    "imagenes": [
-      "BAG9307 1.jpg",
-      "BAG9307 2.jpg",
-      "BAG9307 3.jpg"
-    ],
-    "imagenVariantes": "BAG9307 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG9307"
-  },
-  {
     "codigo": "BAG9309",
     "nombre": "Morral Hombre",
     "descripcion": "Morral Hombre",
@@ -9276,7 +9254,7 @@
     ],
     "imagenVariantes": "B1101 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Verde claro": true
     },
