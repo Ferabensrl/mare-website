@@ -698,9 +698,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
-      "Tonos marrones": true,
-      "Varios colores": true
+      "Negro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 3216"
@@ -2578,21 +2576,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA33001-8"
   },
   {
-    "codigo": "EA22002-10",
-    "nombre": "Caravanas acero plateado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "10mm",
-    "imagenes": [
-      "EA22002-10 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22002-10"
-  },
-  {
     "codigo": "EA22002-8",
     "nombre": "Caravanas acero plateado",
     "descripcion": "Caravanas acero",
@@ -2869,21 +2852,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA0007"
-  },
-  {
-    "codigo": "EA0001",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0001 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0001"
   },
   {
     "codigo": "EA0006",
@@ -7287,7 +7255,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Blanco": true,
       "Beige": true,
       "Marron Claro": true,
       "Marron Oscuro": true
@@ -8032,25 +7999,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN2124"
-  },
-  {
-    "codigo": "FN1924",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "FN1924 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Verde": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN1924"
   },
   {
     "codigo": "SG25382",
@@ -11487,36 +11435,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3178"
   },
   {
-    "codigo": "13605",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "13605 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 13605"
-  },
-  {
-    "codigo": "13274",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "13274 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 13274"
-  },
-  {
     "codigo": "76263",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
@@ -11562,21 +11480,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 170393"
   },
   {
-    "codigo": "172023",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "172023 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 172023"
-  },
-  {
     "codigo": "172243",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
@@ -11590,21 +11493,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 172243"
-  },
-  {
-    "codigo": "179383",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "179383 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 179383"
   },
   {
     "codigo": "13324",
@@ -11650,21 +11538,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 13394"
-  },
-  {
-    "codigo": "13544",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "13544 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 13544"
   },
   {
     "codigo": "14054",
@@ -11740,21 +11613,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 70173"
-  },
-  {
-    "codigo": "70193",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "70193 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 70193"
   },
   {
     "codigo": "73583",
@@ -11860,21 +11718,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 73383"
-  },
-  {
-    "codigo": "85713",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "85713 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 85713"
   },
   {
     "codigo": "14484",
