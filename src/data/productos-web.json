@@ -1051,10 +1051,10 @@
     "colores": {
       "Negro": true,
       "Verde": true,
+      "Lila": true,
       "Rosado": true,
       "Marron Claro": true,
-      "Gris": true,
-      "Bordeaux": true,
+      "Terracota": true,
       "Crudo": true
     },
     "variantes": {},
@@ -1300,7 +1300,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Rosado": true,
       "Gris": true,
       "Rojo": true
     },
@@ -1892,23 +1891,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B362"
   },
   {
-    "codigo": "B375",
-    "nombre": "Colero c perlas y cristal",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B375 1.jpg",
-      "B375 2.jpg",
-      "B375 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B375"
-  },
-  {
     "codigo": "B428",
     "nombre": "Colero",
     "descripcion": "Colero",
@@ -2034,25 +2016,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C071"
-  },
-  {
-    "codigo": "C069",
-    "nombre": "Diademas",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C069 1.jpg",
-      "C069 2.jpg",
-      "C069 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Beige": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C069"
   },
   {
     "codigo": "C113",
@@ -2289,23 +2252,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D156"
-  },
-  {
-    "codigo": "D180",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "6cm",
-    "imagenes": [
-      "D180 1.jpg",
-      "D180 2.jpg",
-      "D180 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D180"
   },
   {
     "codigo": "D187",
@@ -2562,25 +2508,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B029"
-  },
-  {
-    "codigo": "B033",
-    "nombre": "Set colitas x3",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B033 1.jpg",
-      "B033 2.jpg",
-      "B033 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Negro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B033"
   },
   {
     "codigo": "B040",
@@ -2922,8 +2849,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true,
-      "Tonos pastel": true
+      "Tonos marrones": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B027"
@@ -3239,7 +3165,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Tonos marrones": true,
       "Tonos pastel": true,
       "Varios colores": true
@@ -3504,7 +3429,6 @@
     "permitirSurtido": true,
     "colores": {},
     "variantes": {
-      "C1": true,
       "C2": true,
       "C3": true,
       "C4": true
@@ -4479,21 +4403,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ER6068"
   },
   {
-    "codigo": "ER6050",
-    "nombre": "Caravanas acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER6050 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER6050"
-  },
-  {
     "codigo": "ER6051",
     "nombre": "Caravanas acero",
     "descripcion": "Caravanas acero",
@@ -4627,21 +4536,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA0008"
-  },
-  {
-    "codigo": "EA0016",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0016 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0016"
   },
   {
     "codigo": "EA0016-2",
@@ -7610,11 +7504,9 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Amarillo": true,
       "Verde": true,
       "Rosado": true,
-      "Beige": true,
-      "Rojo": true
+      "Beige": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: W292"
@@ -9500,27 +9392,6 @@
     "whatsappMessage": "Hola, me interesa este producto: HS6801"
   },
   {
-    "codigo": "GS9203",
-    "nombre": "Lentes caballero",
-    "descripcion": "XLentes caballero",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9203 1.jpg",
-      "GS9203 2.jpg"
-    ],
-    "imagenVariantes": "GS9203 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Dorado": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9203"
-  },
-  {
     "codigo": "FN2412",
     "nombre": "Lentes de dama",
     "descripcion": "XLentes de dama",
@@ -9681,25 +9552,6 @@
     "whatsappMessage": "Hola, me interesa este producto: SG25510"
   },
   {
-    "codigo": "GS9211",
-    "nombre": "Lentes infantiles polarizados",
-    "descripcion": "XLentes infantiles polarizados",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9211 1.jpg"
-    ],
-    "imagenVariantes": "GS9211 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Rojo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9211"
-  },
-  {
     "codigo": "FNG6111",
     "nombre": "Lentes unisex",
     "descripcion": "XLentes unisex",
@@ -9741,25 +9593,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GS9206"
   },
   {
-    "codigo": "GS9216",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9216 1.jpg",
-      "GS9216 2.jpg"
-    ],
-    "imagenVariantes": "GS9216 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9216"
-  },
-  {
     "codigo": "FN1524",
     "nombre": "Lentes unisex",
     "descripcion": "XLentes unisex",
@@ -9776,24 +9609,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN1524"
-  },
-  {
-    "codigo": "FN2124",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "FN2124 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN2124"
   },
   {
     "codigo": "SG25382",
