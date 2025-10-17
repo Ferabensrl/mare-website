@@ -2305,6 +2305,24 @@
     "whatsappMessage": "Hola, me interesa este producto: D251"
   },
   {
+    "codigo": "D218",
+    "nombre": "Pinza",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "D218 1.jpg",
+      "D218 2.jpg",
+      "D218 3.jpg"
+    ],
+    "imagenVariantes": "D218 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: D218"
+  },
+  {
     "codigo": "3216",
     "nombre": "Set colitas 20pcs",
     "descripcion": "Set colitas",
