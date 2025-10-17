@@ -283,7 +283,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Celeste": true,
+      "Gris": true,
       "Rosa Viejo": true,
       "Azul": true
     },
@@ -1299,7 +1299,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Gris": true,
       "Rojo": true
     },
@@ -1471,7 +1470,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Lila": true,
       "Rosado": true
     },
     "variantes": {},
@@ -1694,7 +1692,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Verde": true,
       "Celeste": true,
       "Rosado": true,
@@ -2197,25 +2194,6 @@
     "whatsappMessage": "Hola, me interesa este producto: D131"
   },
   {
-    "codigo": "D146",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D146 1.jpg",
-      "D146 2.jpg",
-      "D146 3.jpg",
-      "D146 4.jpg",
-      "D146 5.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D146"
-  },
-  {
     "codigo": "D153",
     "nombre": "Pinza",
     "descripcion": "Pinza",
@@ -2631,7 +2609,7 @@
   },
   {
     "codigo": "B087",
-    "nombre": "Set colitas x2",
+    "nombre": "Set colitas x4",
     "descripcion": "Set colitas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2649,7 +2627,7 @@
   },
   {
     "codigo": "B097",
-    "nombre": "Set colitas x2",
+    "nombre": "Set colitas x3",
     "descripcion": "Set colitas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2856,7 +2834,7 @@
   },
   {
     "codigo": "B171",
-    "nombre": "Set colitas x2",
+    "nombre": "Set colitas x5",
     "descripcion": "Set colitas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -4328,21 +4306,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 24001"
   },
   {
-    "codigo": "24002",
-    "nombre": "Set de brillos x3",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "24002 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 24002"
-  },
-  {
     "codigo": "ER004",
     "nombre": "Set caravanas x3",
     "descripcion": "Caravanas acero",
@@ -4779,23 +4742,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 252409"
-  },
-  {
-    "codigo": "G6924",
-    "nombre": "Conjunto acero",
-    "descripcion": "Conjunto acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "G6924 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G6924"
   },
   {
     "codigo": "G6932",
@@ -8168,9 +8114,7 @@
     "colores": {
       "Negro": true,
       "Rosado": true,
-      "Gris": true,
       "Rojo": true,
-      "Rosa Viejo": true,
       "Azul": true,
       "Mostaza": true
     },
@@ -9156,7 +9100,6 @@
     "variantes": {
       "C2": true,
       "C3": true,
-      "C4": true,
       "C5": true,
       "C6": true
     },
@@ -11223,21 +11166,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ESTUCHE3178"
   },
   {
-    "codigo": "76263",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "76263 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 76263"
-  },
-  {
     "codigo": "76833",
     "nombre": "Anillo enchapado",
     "descripcion": "Anillo enchapado",
@@ -11431,21 +11359,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: AN03864"
-  },
-  {
-    "codigo": "13944",
-    "nombre": "Anillo enchapado",
-    "descripcion": "Anillo enchapado",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "13944 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 13944"
   },
   {
     "codigo": "14394",
@@ -12639,21 +12552,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: PL70221"
-  },
-  {
-    "codigo": "L010931",
-    "nombre": "Pulsera enchapada oro infantil Estrellas",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "L010931 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: L010931"
   },
   {
     "codigo": "70660",
