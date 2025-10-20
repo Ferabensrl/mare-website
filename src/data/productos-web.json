@@ -5466,22 +5466,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 35894G"
   },
   {
-    "codigo": "310114P",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "310114P 1.jpg",
-      "310114P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 310114P"
-  },
-  {
     "codigo": "310114M",
     "nombre": "Cadena acero y dije enchapado Arbol de la vida",
     "descripcion": "Gargantilla acero",
@@ -12027,7 +12011,6 @@
     "sinColor": false,
     "permitirSurtido": false,
     "colores": {
-      "Negro": true,
       "Blanco": true
     },
     "variantes": {},
@@ -12077,21 +12060,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 210322"
-  },
-  {
-    "codigo": "20522",
-    "nombre": "Zirconia chica enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "20522 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 20522"
   },
   {
     "codigo": "23272",
@@ -14121,9 +14089,12 @@
       "510610PI 2.jpg",
       "510610PI 3.jpg"
     ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Blanco": true,
+      "Rosado": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 510610PI"
   },
