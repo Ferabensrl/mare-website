@@ -2488,24 +2488,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B024"
   },
   {
-    "codigo": "B029",
-    "nombre": "Set colitas x3",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B029 1.jpg",
-      "B029 2.jpg",
-      "B029 3.jpg",
-      "B029 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B029"
-  },
-  {
     "codigo": "B040",
     "nombre": "Set colitas x2",
     "descripcion": "Set colitas",
