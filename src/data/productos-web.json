@@ -1973,6 +1973,102 @@
     "whatsappMessage": "Hola, me interesa este producto: B451"
   },
   {
+    "codigo": "FN25733",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25733 1.jpg"
+    ],
+    "imagenVariantes": "FN25733 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25733"
+  },
+  {
+    "codigo": "FN25748",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25748 1.jpg"
+    ],
+    "imagenVariantes": "FN25748 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25748"
+  },
+  {
+    "codigo": "FN25706",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25706 1.jpg"
+    ],
+    "imagenVariantes": "FN25706 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25706"
+  },
+  {
+    "codigo": "FN25742",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25742 1.jpg"
+    ],
+    "imagenVariantes": "FN25742 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25742"
+  },
+  {
+    "codigo": "FN25704",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25704 1.jpg"
+    ],
+    "imagenVariantes": "FN25704 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25704"
+  },
+  {
+    "codigo": "FN25745",
+    "nombre": "Colero",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25745 1.jpg"
+    ],
+    "imagenVariantes": "FN25745 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25745"
+  },
+  {
     "codigo": "3220",
     "nombre": "Colero con caritas",
     "descripcion": "Colero",
@@ -2008,7 +2104,6 @@
     "colores": {
       "Negro": true,
       "Beige": true,
-      "Rojo": true,
       "Azul": true
     },
     "variantes": {},
@@ -2249,6 +2344,263 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D187"
+  },
+  {
+    "codigo": "FN25753",
+    "nombre": "Pinza 6cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25753 1.jpg"
+    ],
+    "imagenVariantes": "FN25753 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25753"
+  },
+  {
+    "codigo": "FN25758",
+    "nombre": "Pinza 10,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25758 1.jpg"
+    ],
+    "imagenVariantes": "FN25758 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25758"
+  },
+  {
+    "codigo": "FN25780",
+    "nombre": "Pinza 8cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25780 1.jpg"
+    ],
+    "imagenVariantes": "FN25780 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25780"
+  },
+  {
+    "codigo": "FN25751",
+    "nombre": "Pinza 5,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25751 1.jpg"
+    ],
+    "imagenVariantes": "FN25751 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25751"
+  },
+  {
+    "codigo": "FN25729",
+    "nombre": "Pinza 3,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25729 1.jpg"
+    ],
+    "imagenVariantes": "FN25729 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25729"
+  },
+  {
+    "codigo": "FN25771",
+    "nombre": "Pinza 6cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25771 1.jpg"
+    ],
+    "imagenVariantes": "FN25771 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25771"
+  },
+  {
+    "codigo": "FN25779",
+    "nombre": "Pinza 10cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25779 1.jpg",
+      "FN25779 2.jpg"
+    ],
+    "imagenVariantes": "FN25779 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25779"
+  },
+  {
+    "codigo": "FN25773",
+    "nombre": "Pinza 8cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25773 1.jpg"
+    ],
+    "imagenVariantes": "FN25773 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25773"
+  },
+  {
+    "codigo": "FN25772",
+    "nombre": "Pinza 6cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25772 1.jpg"
+    ],
+    "imagenVariantes": "FN25772 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25772"
+  },
+  {
+    "codigo": "FN25770",
+    "nombre": "Pinza 10,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25770 1.jpg"
+    ],
+    "imagenVariantes": "FN25770 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25770"
+  },
+  {
+    "codigo": "FN25802",
+    "nombre": "Pinza 10,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25802 1.jpg"
+    ],
+    "imagenVariantes": "FN25802 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25802"
+  },
+  {
+    "codigo": "FN25778",
+    "nombre": "Pinza 8,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25778 1.jpg"
+    ],
+    "imagenVariantes": "FN25778 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25778"
+  },
+  {
+    "codigo": "FN25707",
+    "nombre": "Pinza 3,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25707 1.jpg"
+    ],
+    "imagenVariantes": "FN25707 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25707"
+  },
+  {
+    "codigo": "FN25774",
+    "nombre": "Pinza 5,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25774 1.jpg"
+    ],
+    "imagenVariantes": "FN25774 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25774"
+  },
+  {
+    "codigo": "FN25752",
+    "nombre": "Pinza 9cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25752 1.jpg"
+    ],
+    "imagenVariantes": "FN25752 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25752"
+  },
+  {
+    "codigo": "FN25775",
+    "nombre": "Pinza 9cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25775 1.jpg"
+    ],
+    "imagenVariantes": "FN25775 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25775"
   },
   {
     "codigo": "D230",
@@ -4471,21 +4823,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA0004-2"
   },
   {
-    "codigo": "EA0005",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0005 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0005"
-  },
-  {
     "codigo": "EA0008",
     "nombre": "Abridores acero",
     "descripcion": "Caravanas acero",
@@ -4684,21 +5021,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN24242"
   },
   {
-    "codigo": "252408",
-    "nombre": "Aros acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "252408 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 252408"
-  },
-  {
     "codigo": "252407",
     "nombre": "Aros acero",
     "descripcion": "Caravanas acero",
@@ -4830,25 +5152,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: XL00079-2"
-  },
-  {
-    "codigo": "XL1087-1",
-    "nombre": "Gargantilla acero plateado",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL1087-1 1.jpg",
-      "XL1087-1 2.jpg"
-    ],
-    "imagenVariantes": "XL1087-1 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL1087-1"
   },
   {
     "codigo": "XL1087-2",
@@ -6131,23 +6434,6 @@
     "whatsappMessage": "Hola, me interesa este producto: XL00287"
   },
   {
-    "codigo": "XL01155",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL01155 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL01155"
-  },
-  {
     "codigo": "NK1007",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -7251,7 +7537,6 @@
       "C5": true,
       "C6": true,
       "C7": true,
-      "C8": true,
       "C9": true,
       "C10": true
     },
