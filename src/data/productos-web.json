@@ -10229,6 +10229,27 @@
     "whatsappMessage": "Hola, me interesa este producto: SG25403"
   },
   {
+    "codigo": "SG25407",
+    "nombre": "Lentes de sol polarizados",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25407 1.jpg",
+      "SG25407 2.jpg",
+      "SG25407 3.jpg"
+    ],
+    "imagenVariantes": "SG25407 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Tonos marrones": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25407"
+  },
+  {
     "codigo": "SG25408",
     "nombre": "Lentes de sol polarizados",
     "descripcion": "XLentes unisex",
@@ -10321,6 +10342,25 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SG25411"
+  },
+  {
+    "codigo": "SG25415",
+    "nombre": "Lentes de sol",
+    "descripcion": "XLentes unisex",
+    "categoria": "Lentes de sol",
+    "medidas": "",
+    "imagenes": [
+      "SG25415 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {
+      "Negro": true,
+      "Animal Print": true,
+      "Gris": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: SG25415"
   },
   {
     "codigo": "SG25414",
