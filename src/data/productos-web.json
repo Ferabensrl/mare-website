@@ -4446,9 +4446,11 @@
     "imagenes": [
       "EA8246 1.jpg"
     ],
-    "sinColor": true,
+    "sinColor": false,
     "permitirSurtido": false,
-    "colores": {},
+    "colores": {
+      "Dorado": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA8246"
   },
@@ -4543,6 +4545,21 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA22002-8"
+  },
+  {
+    "codigo": "FN25718",
+    "nombre": "Aros acero combinado",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "FN25718 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25718"
   },
   {
     "codigo": "24005-2",
@@ -4946,49 +4963,140 @@
     "whatsappMessage": "Hola, me interesa este producto: 6291"
   },
   {
+    "codigo": "FN008-1",
+    "nombre": "Aros acero 10mm",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "1CM",
+    "imagenes": [
+      "FN008-1 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN008-1"
+  },
+  {
+    "codigo": "FN008-2",
+    "nombre": "Aros acero 20mm",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "2CM",
+    "imagenes": [
+      "FN008-2 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN008-2"
+  },
+  {
+    "codigo": "FN008-3",
+    "nombre": "Aros acero 30mm",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "3CM",
+    "imagenes": [
+      "FN008-3 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Plateado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN008-3"
+  },
+  {
     "codigo": "FN008-4",
-    "nombre": "Caravanas acero",
+    "nombre": "Aros acero 40mm",
     "descripcion": "Caravanas acero",
     "categoria": "Acero",
     "medidas": "4CM",
     "imagenes": [
       "FN008-4 1.jpg"
     ],
-    "sinColor": true,
+    "sinColor": false,
     "permitirSurtido": false,
-    "colores": {},
+    "colores": {
+      "Plateado": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN008-4"
   },
   {
     "codigo": "FN008-5",
-    "nombre": "Caravanas acero",
+    "nombre": "Aros acero 55mm",
     "descripcion": "Caravanas acero",
     "categoria": "Acero",
     "medidas": "5,5CM",
     "imagenes": [
       "FN008-5 1.jpg"
     ],
-    "sinColor": true,
+    "sinColor": false,
     "permitirSurtido": false,
-    "colores": {},
+    "colores": {
+      "Plateado": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN008-5"
   },
   {
     "codigo": "FN008-6",
-    "nombre": "Caravanas acero",
+    "nombre": "Aros acero 65mm",
     "descripcion": "Caravanas acero",
     "categoria": "Acero",
     "medidas": "6,5CM",
     "imagenes": [
       "FN008-6 1.jpg"
     ],
-    "sinColor": true,
+    "sinColor": false,
     "permitirSurtido": false,
-    "colores": {},
+    "colores": {
+      "Plateado": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN008-6"
+  },
+  {
+    "codigo": "FN009-1",
+    "nombre": "Aros acero dorado 10mm",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "1CM",
+    "imagenes": [
+      "FN009-1 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Dorado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN009-1"
+  },
+  {
+    "codigo": "FN009-2",
+    "nombre": "Aros acero dorado 25mm",
+    "descripcion": "Caravanas acero",
+    "categoria": "Acero",
+    "medidas": "2,5CM",
+    "imagenes": [
+      "FN009-2 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Dorado": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN009-2"
   },
   {
     "codigo": "FN25308",
@@ -5562,12 +5670,13 @@
   },
   {
     "codigo": "NK5294-18",
-    "nombre": "Gargantilla acero",
+    "nombre": "Gargantilla acero Negro/Blanco",
     "descripcion": "Gargantilla acero",
     "categoria": "Acero",
     "medidas": "",
     "imagenes": [
-      "NK5294-18 1.jpg"
+      "NK5294-18 1.jpg",
+      "NK5294-18 2.jpg"
     ],
     "sinColor": true,
     "permitirSurtido": false,
@@ -7274,6 +7383,21 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BR8894-7"
+  },
+  {
+    "codigo": "BR8894-8",
+    "nombre": "Pulsera acero perlas",
+    "descripcion": "Pulsera acero",
+    "categoria": "Acero",
+    "medidas": "",
+    "imagenes": [
+      "BR8894-8 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: BR8894-8"
   },
   {
     "codigo": "BR001",
