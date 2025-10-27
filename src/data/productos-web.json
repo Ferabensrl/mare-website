@@ -6594,23 +6594,6 @@
     "whatsappMessage": "Hola, me interesa este producto: NK1010"
   },
   {
-    "codigo": "NK1015",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK1015 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK1015"
-  },
-  {
     "codigo": "NK1018",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -6626,23 +6609,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: NK1018"
-  },
-  {
-    "codigo": "NK1019",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK1019 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK1019"
   },
   {
     "codigo": "NK1021",
@@ -7068,24 +7034,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: GARG356"
-  },
-  {
-    "codigo": "XL004311",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL004311 1.jpg",
-      "XL004311 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL004311"
   },
   {
     "codigo": "XL003788",
@@ -7810,21 +7758,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BR6019"
-  },
-  {
-    "codigo": "BR6015",
-    "nombre": "Brazalete acero",
-    "descripcion": "Pulsera acero 2",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "BR6015 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BR6015"
   },
   {
     "codigo": "W292",
@@ -9065,9 +8998,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Marron Oscuro": true
+      "Negro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: CINTO1555"
