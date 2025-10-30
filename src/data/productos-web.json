@@ -1950,29 +1950,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B446"
   },
   {
-    "codigo": "B451",
-    "nombre": "Colero",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B451 1.jpg",
-      "B451 2.jpg",
-      "B451 3.jpg"
-    ],
-    "imagenVariantes": "B451 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Marron Claro": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B451"
-  },
-  {
     "codigo": "FN25733",
     "nombre": "Colero",
     "descripcion": "Colero",
@@ -2287,25 +2264,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D131"
-  },
-  {
-    "codigo": "D153",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "12cm",
-    "imagenes": [
-      "D153 1.jpg",
-      "D153 2.jpg",
-      "D153 3.jpg",
-      "D153 4.jpg",
-      "D153 5.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D153"
   },
   {
     "codigo": "D156",
@@ -3598,8 +3556,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true,
-      "Tonos pastel": true
+      "Tonos marrones": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B477"
@@ -3688,8 +3645,8 @@
       "100324 3.jpg",
       "100324 4.jpg"
     ],
-    "sinColor": true,
-    "permitirSurtido": false,
+    "sinColor": false,
+    "permitirSurtido": true,
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 100324"
@@ -3709,14 +3666,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true,
-      "C6": true
-    },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H0011"
   },
   {
@@ -3758,11 +3708,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {
-      "C2": true,
-      "C3": true,
-      "C4": true
-    },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 100390"
   },
   {
@@ -3807,11 +3753,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true
-    },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 100387"
   },
   {
@@ -4645,21 +4587,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ER8007"
   },
   {
-    "codigo": "ER0024",
-    "nombre": "Set de aros dorados",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER0024 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER0024"
-  },
-  {
     "codigo": "24001",
     "nombre": "Set de brillos x3",
     "descripcion": "Caravanas acero",
@@ -4853,21 +4780,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA0008"
-  },
-  {
-    "codigo": "EA0016-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0016-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0016-2"
   },
   {
     "codigo": "EA0022-2",
@@ -5940,22 +5852,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 312044G"
-  },
-  {
-    "codigo": "311034P",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "311034P 1.jpg",
-      "311034P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 311034P"
   },
   {
     "codigo": "311034G",
@@ -7825,7 +7721,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Marron Claro": true,
       "Marron Oscuro": true,
       "Bordeaux": true,
       "Azul": true
@@ -7878,8 +7773,7 @@
       "Celeste": true,
       "Beige": true,
       "Marron Claro": true,
-      "Bordeaux": true,
-      "Verde Agua": true
+      "Bordeaux": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: W307-2B"
@@ -12224,21 +12118,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 23440"
   },
   {
-    "codigo": "212090",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "212090 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 212090"
-  },
-  {
     "codigo": "510350",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
@@ -12255,21 +12134,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 510350"
-  },
-  {
-    "codigo": "210720",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "210720 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210720"
   },
   {
     "codigo": "210320",
@@ -12568,21 +12432,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 20492"
   },
   {
-    "codigo": "26292",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "26292 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 26292"
-  },
-  {
     "codigo": "25862",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12791,21 +12640,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 24992"
-  },
-  {
-    "codigo": "212232",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "212232 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 212232"
   },
   {
     "codigo": "23572",
@@ -13257,21 +13091,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 40082"
-  },
-  {
-    "codigo": "55960B",
-    "nombre": "Caravanas enchapadas en oro Mariposa",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "55960B 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 55960B"
   },
   {
     "codigo": "55960PI",
@@ -14259,22 +14078,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 311850"
-  },
-  {
-    "codigo": "311240",
-    "nombre": "Gargantilla enchapada 15 años",
-    "descripcion": "Gargantilla enchapada",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "311240 1.jpg",
-      "311240 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 311240"
   },
   {
     "codigo": "55130PI",
