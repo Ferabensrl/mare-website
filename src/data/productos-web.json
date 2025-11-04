@@ -1695,7 +1695,6 @@
       "Verde": true,
       "Celeste": true,
       "Rosado": true,
-      "Bordeaux": true,
       "Azul": true
     },
     "variantes": {},
@@ -3736,25 +3735,6 @@
       "C6": true
     },
     "whatsappMessage": "Hola, me interesa este producto: 100325"
-  },
-  {
-    "codigo": "100387",
-    "nombre": "Set x 2 pinzas",
-    "descripcion": "Set de pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "100387 1.jpg",
-      "100387 2.jpg",
-      "100387 3.jpg",
-      "100387 4.jpg"
-    ],
-    "imagenVariantes": "100387 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 100387"
   },
   {
     "codigo": "D061",
@@ -9754,24 +9734,6 @@
     "whatsappMessage": "Hola, me interesa este producto: GS9206"
   },
   {
-    "codigo": "FN1524",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "FN1524 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN1524"
-  },
-  {
     "codigo": "SG25382",
     "nombre": "Lentes de sol polarizados",
     "descripcion": "XLentes unisex",
@@ -9941,26 +9903,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SG25397"
-  },
-  {
-    "codigo": "SG25400",
-    "nombre": "Lentes de sol",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "SG25400 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Tonos marrones": true,
-      "Animal Print": true,
-      "Gris": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SG25400"
   },
   {
     "codigo": "SG25399",
@@ -12199,21 +12141,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 210102"
   },
   {
-    "codigo": "214592",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "214592 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 214592"
-  },
-  {
     "codigo": "23442",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12274,21 +12201,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 50142B"
-  },
-  {
-    "codigo": "210722",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "210722 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 210722"
   },
   {
     "codigo": "210322",
@@ -12415,21 +12327,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 20732"
-  },
-  {
-    "codigo": "20492",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "20492 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 20492"
   },
   {
     "codigo": "25862",
