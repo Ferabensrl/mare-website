@@ -8,10 +8,10 @@ import path from 'path';
 
 // Configuración con rutas absolutas
 const CONFIG = {
-  catalogoPath: 'C:\\Users\\Usuario\\mare-catalog-v2\\public\\productos.json',
-  imagenesPath: 'C:\\Users\\Usuario\\mare-catalog-v2\\public\\imagenes\\',
-  outputPath: 'C:\\Users\\Usuario\\mare-website\\src\\data\\productos-web.json',
-  outputImagesPath: 'C:\\Users\\Usuario\\mare-website\\public\\imagenes\\',
+  catalogoPath: 'C:\\Users\\Usuario\\FERABEN_MARE\\mare-catalog-v2\\public\\productos.json',
+  imagenesPath: 'C:\\Users\\Usuario\\FERABEN_MARE\\mare-catalog-v2\\public\\imagenes\\',
+  outputPath: 'C:\\Users\\Usuario\\FERABEN_MARE\\mare-website\\src\\data\\productos-web.json',
+  outputImagesPath: 'C:\\Users\\Usuario\\FERABEN_MARE\\mare-website\\public\\imagenes\\',
   whatsappNumber: '+59897998999'
 };
 
