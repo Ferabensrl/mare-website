@@ -1887,6 +1887,24 @@
     "whatsappMessage": "Hola, me interesa este producto: B362"
   },
   {
+    "codigo": "HC0001",
+    "nombre": "Colero con luz led",
+    "descripcion": "Colero",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "HC0001 1.jpg",
+      "HC0001 2.jpg",
+      "HC0001 3.jpg",
+      "HC0001 4.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: HC0001"
+  },
+  {
     "codigo": "B428",
     "nombre": "Colero",
     "descripcion": "Colero",
@@ -2894,8 +2912,10 @@
       "B071 4.jpg"
     ],
     "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
+    "permitirSurtido": false,
+    "colores": {
+      "Negro": true
+    },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B071"
   },
@@ -3731,7 +3751,6 @@
       "C2": true,
       "C3": true,
       "C4": true,
-      "C5": true,
       "C6": true
     },
     "whatsappMessage": "Hola, me interesa este producto: 100325"
@@ -7926,7 +7945,6 @@
       "Negro": true,
       "Blanco": true,
       "Verde": true,
-      "Rosado": true,
       "Marron Claro": true,
       "Azul": true
     },
@@ -8190,7 +8208,6 @@
     "colores": {
       "Negro": true,
       "Plateado": true,
-      "Verde": true,
       "Celeste": true,
       "Marron Claro": true
     },
@@ -10569,36 +10586,6 @@
     "whatsappMessage": "Hola, me interesa este producto: RELW006-D"
   },
   {
-    "codigo": "RELW4002",
-    "nombre": "Reloj dama goma",
-    "descripcion": "Reloj dama",
-    "categoria": "Relojes",
-    "medidas": "",
-    "imagenes": [
-      "RELW4002 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: RELW4002"
-  },
-  {
-    "codigo": "RELW4003",
-    "nombre": "Reloj dama cuero",
-    "descripcion": "Reloj dama",
-    "categoria": "Relojes",
-    "medidas": "",
-    "imagenes": [
-      "RELW4003 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: RELW4003"
-  },
-  {
     "codigo": "RELW4004",
     "nombre": "Reloj dama cuero",
     "descripcion": "Reloj dama",
@@ -12357,21 +12344,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 25632"
-  },
-  {
-    "codigo": "26602",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "26602 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 26602"
   },
   {
     "codigo": "26262",
