@@ -4443,21 +4443,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA22001"
   },
   {
-    "codigo": "EA22003-1",
-    "nombre": "Aros acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA22003-1 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22003-1"
-  },
-  {
     "codigo": "EA33001-8",
     "nombre": "Caravanas acero dorado",
     "descripcion": "Caravanas acero",
@@ -4614,36 +4599,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: ER004"
-  },
-  {
-    "codigo": "ER0016",
-    "nombre": "Set caravanas x3",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER0016 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER0016"
-  },
-  {
-    "codigo": "ER0017",
-    "nombre": "Set caravanas x3",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER0017 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER0017"
   },
   {
     "codigo": "ER6068",
@@ -7600,10 +7555,9 @@
     ],
     "imagenVariantes": "SZ0136 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
-      "Blanco": true
+      "Dorado": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SZ0136"
@@ -8305,7 +8259,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Blanco": true,
+      "Celeste": true,
       "Rosado": true,
       "Marron Claro": true,
       "Gris": true
@@ -9969,30 +9923,11 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Animal Print": true,
       "Beige": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SG25401"
-  },
-  {
-    "codigo": "SG25404",
-    "nombre": "Lentes de sol polarizados",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "SG25404 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Tonos marrones": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SG25404"
   },
   {
     "codigo": "SG25403",
