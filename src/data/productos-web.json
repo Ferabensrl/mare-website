@@ -11134,13 +11134,14 @@
   },
   {
     "codigo": "BOX009",
-    "nombre": "Caja anillo",
+    "nombre": "Caja anillo 5 X 5 X 3CM",
     "descripcion": "Caja anillo",
     "categoria": "x Estuches",
     "medidas": "5 X 5 X 3CM",
     "imagenes": [
       "BOX009 1.jpg"
     ],
+    "imagenVariantes": "BOX009 VARIANTES.jpg",
     "sinColor": true,
     "permitirSurtido": false,
     "colores": {},
@@ -11194,13 +11195,14 @@
   },
   {
     "codigo": "BOX008",
-    "nombre": "Caja conjunto chica",
+    "nombre": "Caja conjunto chica 5 X 8 X 2.8CM",
     "descripcion": "Caja conjunto",
     "categoria": "x Estuches",
     "medidas": "5 X 8 X 2.8CM",
     "imagenes": [
       "BOX008 1.jpg"
     ],
+    "imagenVariantes": "BOX008 VARIANTES.jpg",
     "sinColor": true,
     "permitirSurtido": false,
     "colores": {},
@@ -11209,13 +11211,14 @@
   },
   {
     "codigo": "BOX006",
-    "nombre": "Caja conjunto grande",
+    "nombre": "Caja conjunto grande 7 X 9 X 3CM",
     "descripcion": "Caja conjunto",
     "categoria": "x Estuches",
     "medidas": "7 X 9 X 3CM",
     "imagenes": [
       "BOX006 1.jpg"
     ],
+    "imagenVariantes": "BOX006 VARIANTES.jpg",
     "sinColor": true,
     "permitirSurtido": false,
     "colores": {},
