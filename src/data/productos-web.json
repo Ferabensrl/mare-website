@@ -10274,6 +10274,7 @@
     "imagenes": [
       "RELW002-A 1.jpg"
     ],
+    "imagenVariantes": "RELW002-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10289,6 +10290,7 @@
     "imagenes": [
       "RELW002-B 1.jpg"
     ],
+    "imagenVariantes": "RELW002-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10304,6 +10306,7 @@
     "imagenes": [
       "RELW002-C 1.jpg"
     ],
+    "imagenVariantes": "RELW002-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10319,6 +10322,7 @@
     "imagenes": [
       "RELW002-D 1.jpg"
     ],
+    "imagenVariantes": "RELW002-D VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10334,6 +10338,7 @@
     "imagenes": [
       "RELW002-E 1.jpg"
     ],
+    "imagenVariantes": "RELW002-E VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10349,6 +10354,7 @@
     "imagenes": [
       "RELW003-A 1.jpg"
     ],
+    "imagenVariantes": "RELW003-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10364,6 +10370,7 @@
     "imagenes": [
       "RELW003-B 1.jpg"
     ],
+    "imagenVariantes": "RELW003-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10372,13 +10379,14 @@
   },
   {
     "codigo": "RELW003-C",
-    "nombre": "Reloj dama cuero",
+    "nombre": "Reloj dama goma",
     "descripcion": "Reloj dama",
     "categoria": "Relojes",
     "medidas": "",
     "imagenes": [
       "RELW003-C 1.jpg"
     ],
+    "imagenVariantes": "RELW003-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10387,13 +10395,14 @@
   },
   {
     "codigo": "RELW003-D",
-    "nombre": "Reloj dama cuero",
+    "nombre": "Reloj dama goma",
     "descripcion": "Reloj dama",
     "categoria": "Relojes",
     "medidas": "",
     "imagenes": [
       "RELW003-D 1.jpg"
     ],
+    "imagenVariantes": "RELW003-D VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10409,6 +10418,7 @@
     "imagenes": [
       "RELW003-E 1.jpg"
     ],
+    "imagenVariantes": "RELW003-E VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10424,6 +10434,7 @@
     "imagenes": [
       "RELW003-F 1.jpg"
     ],
+    "imagenVariantes": "RELW003-F VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10432,13 +10443,14 @@
   },
   {
     "codigo": "RELW003-G",
-    "nombre": "Reloj dama cuero",
+    "nombre": "Reloj dama goma",
     "descripcion": "Reloj dama",
     "categoria": "Relojes",
     "medidas": "",
     "imagenes": [
       "RELW003-G 1.jpg"
     ],
+    "imagenVariantes": "RELW003-G VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10454,6 +10466,7 @@
     "imagenes": [
       "RELW003-H 1.jpg"
     ],
+    "imagenVariantes": "RELW003-H VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10469,6 +10482,7 @@
     "imagenes": [
       "RELW006-A 1.jpg"
     ],
+    "imagenVariantes": "RELW006-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10484,6 +10498,7 @@
     "imagenes": [
       "RELW006-B 1.jpg"
     ],
+    "imagenVariantes": "RELW006-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10499,6 +10514,7 @@
     "imagenes": [
       "RELW006-C 1.jpg"
     ],
+    "imagenVariantes": "RELW006-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10514,6 +10530,7 @@
     "imagenes": [
       "RELW006-D 1.jpg"
     ],
+    "imagenVariantes": "RELW006-D VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10702,6 +10719,7 @@
     "imagenes": [
       "RELH001-A 1.jpg"
     ],
+    "imagenVariantes": "RELH001-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10717,6 +10735,7 @@
     "imagenes": [
       "RELH001-B 1.jpg"
     ],
+    "imagenVariantes": "RELH001-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10732,6 +10751,7 @@
     "imagenes": [
       "RELH001-C 1.jpg"
     ],
+    "imagenVariantes": "RELH001-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10747,6 +10767,7 @@
     "imagenes": [
       "RELH002-A 1.jpg"
     ],
+    "imagenVariantes": "RELH002-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10762,6 +10783,7 @@
     "imagenes": [
       "RELH002-B 1.jpg"
     ],
+    "imagenVariantes": "RELH002-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10777,6 +10799,7 @@
     "imagenes": [
       "RELH002-C 1.jpg"
     ],
+    "imagenVariantes": "RELH002-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10792,6 +10815,7 @@
     "imagenes": [
       "RELH003-A 1.jpg"
     ],
+    "imagenVariantes": "RELH003-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10807,6 +10831,7 @@
     "imagenes": [
       "RELH003-B 1.jpg"
     ],
+    "imagenVariantes": "RELH003-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10822,6 +10847,7 @@
     "imagenes": [
       "RELH003-C 1.jpg"
     ],
+    "imagenVariantes": "RELH003-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10837,6 +10863,7 @@
     "imagenes": [
       "RELH007-A 1.jpg"
     ],
+    "imagenVariantes": "RELH007-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10852,6 +10879,7 @@
     "imagenes": [
       "RELH007-B 1.jpg"
     ],
+    "imagenVariantes": "RELH007-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10867,6 +10895,7 @@
     "imagenes": [
       "RELH007-C 1.jpg"
     ],
+    "imagenVariantes": "RELH007-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
@@ -10882,10 +10911,14 @@
     "imagenes": [
       "RELH008-A 1.jpg"
     ],
+    "imagenVariantes": "RELH008-A VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
     "whatsappMessage": "Hola, me interesa este producto: RELH008-A"
   },
   {
@@ -10897,10 +10930,14 @@
     "imagenes": [
       "RELH008-B 1.jpg"
     ],
+    "imagenVariantes": "RELH008-B VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
     "whatsappMessage": "Hola, me interesa este producto: RELH008-B"
   },
   {
@@ -10912,10 +10949,14 @@
     "imagenes": [
       "RELH008-C 1.jpg"
     ],
+    "imagenVariantes": "RELH008-C VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
     "whatsappMessage": "Hola, me interesa este producto: RELH008-C"
   },
   {
@@ -10927,10 +10968,14 @@
     "imagenes": [
       "RELH008-D 1.jpg"
     ],
+    "imagenVariantes": "RELH008-D VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
     "whatsappMessage": "Hola, me interesa este producto: RELH008-D"
   },
   {
@@ -10942,10 +10987,14 @@
     "imagenes": [
       "RELH008-E 1.jpg"
     ],
+    "imagenVariantes": "RELH008-E VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {},
+    "variantes": {
+      "C1": true,
+      "C2": true
+    },
     "whatsappMessage": "Hola, me interesa este producto: RELH008-E"
   },
   {
