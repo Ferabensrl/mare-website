@@ -1469,8 +1469,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
-      "Rosado": true
+      "Negro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB233"
@@ -1701,30 +1700,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN5012"
   },
   {
-    "codigo": "BAG9018",
-    "nombre": "Mochila lisa con llavero",
-    "descripcion": "Mochilas",
-    "categoria": "A Marroquineria",
-    "medidas": "41 x 30 x 12cm",
-    "imagenes": [
-      "BAG9018 1.jpg",
-      "BAG9018 2.jpg",
-      "BAG9018 3.jpg"
-    ],
-    "imagenVariantes": "BAG9018 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Verde claro": true,
-      "Salmon": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG9018"
-  },
-  {
     "codigo": "LB6308",
     "nombre": "Mochila/Bolso",
     "descripcion": "Mochilas",
@@ -1794,27 +1769,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: CS7101"
-  },
-  {
-    "codigo": "COSMETIC001",
-    "nombre": "Porta cosmeticos",
-    "descripcion": "Porta cosmeticos",
-    "categoria": "A Marroquineria",
-    "medidas": "",
-    "imagenes": [
-      "COSMETIC001 1.jpg",
-      "COSMETIC001 2.jpg",
-      "COSMETIC001 3.jpg"
-    ],
-    "imagenVariantes": "COSMETIC001 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Rosado": true,
-      "Crudo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: COSMETIC001"
   },
   {
     "codigo": "B003",
@@ -3771,7 +3725,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Rosado": true,
       "Fucsia": true,
       "Rojo": true
     },
@@ -4661,21 +4614,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ER6059"
   },
   {
-    "codigo": "EA0007",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0007 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0007"
-  },
-  {
     "codigo": "EA0006",
     "nombre": "Abridores acero",
     "descripcion": "Caravanas acero",
@@ -4706,21 +4644,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA0006-2"
   },
   {
-    "codigo": "EA0004-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0004-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0004-2"
-  },
-  {
     "codigo": "EA0008",
     "nombre": "Abridores acero",
     "descripcion": "Caravanas acero",
@@ -4736,21 +4659,6 @@
     "whatsappMessage": "Hola, me interesa este producto: EA0008"
   },
   {
-    "codigo": "EA0022-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0022-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0022-2"
-  },
-  {
     "codigo": "EA7008-2",
     "nombre": "Abridores acero dorado",
     "descripcion": "Caravanas acero",
@@ -4764,36 +4672,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA7008-2"
-  },
-  {
-    "codigo": "EA7006",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA7006 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA7006"
-  },
-  {
-    "codigo": "EA7006-2",
-    "nombre": "Abridores acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA7006-2 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA7006-2"
   },
   {
     "codigo": "FN2201",
@@ -5126,25 +5004,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: XL00079-2"
-  },
-  {
-    "codigo": "XL1087-2",
-    "nombre": "Gargantilla acero dorado",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL1087-2 1.jpg",
-      "XL1087-2 2.jpg"
-    ],
-    "imagenVariantes": "XL1087-2 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL1087-2"
   },
   {
     "codigo": "XL1421-1",
@@ -8017,10 +7876,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Verde": true,
-      "Lila": true,
       "Celeste": true,
-      "Rosado": true,
       "Marron Claro": true,
       "Gris": true
     },
@@ -9684,25 +9540,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FNG6111"
-  },
-  {
-    "codigo": "GS9206",
-    "nombre": "Lentes unisex",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "GS9206 1.jpg"
-    ],
-    "imagenVariantes": "GS9206 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GS9206"
   },
   {
     "codigo": "SG25382",
