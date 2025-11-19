@@ -31,7 +31,11 @@
     "categoria": "A Marroquineria",
     "medidas": "",
     "imagenes": [
-      "LB676 1.jpg"
+      "LB676 1.jpg",
+      "LB676 2.jpg",
+      "LB676 3.jpg",
+      "LB676 4.jpg",
+      "LB676 5.jpg"
     ],
     "imagenVariantes": "LB676 VARIANTES.jpg",
     "sinColor": false,
@@ -1440,7 +1444,8 @@
     "categoria": "A Marroquineria",
     "medidas": "",
     "imagenes": [
-      "LB6620 1.jpg"
+      "LB6620 1.jpg",
+      "LB6620 2.jpg"
     ],
     "imagenVariantes": "LB6620 VARIANTES.jpg",
     "sinColor": false,
@@ -5286,7 +5291,8 @@
     "categoria": "Acero",
     "medidas": "",
     "imagenes": [
-      "NK5294-22 1.jpg"
+      "NK5294-22 1.jpg",
+      "NK5294-22 2.jpg"
     ],
     "sinColor": true,
     "permitirSurtido": false,
