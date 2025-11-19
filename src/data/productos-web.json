@@ -1043,7 +1043,10 @@
     "medidas": "24 x 10 x 22cm",
     "imagenes": [
       "LB5019 1.jpg",
-      "LB5019 2.jpg"
+      "LB5019 2.jpg",
+      "LB5019 3.jpg",
+      "LB5019 4.jpg",
+      "LB5019 5.jpg"
     ],
     "imagenVariantes": "LB5019 VARIANTES.jpg",
     "sinColor": false,
@@ -1250,7 +1253,6 @@
     "colores": {
       "Negro": true,
       "Lila": true,
-      "Rosado": true,
       "Gris": true,
       "Rojo": true,
       "Rosa Viejo": true
@@ -1901,24 +1903,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B433"
-  },
-  {
-    "codigo": "B446",
-    "nombre": "Colero",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B446 1.jpg",
-      "B446 2.jpg",
-      "B446 3.jpg",
-      "B446 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B446"
   },
   {
     "codigo": "FN25733",
@@ -3625,24 +3609,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 100324"
   },
   {
-    "codigo": "H0011",
-    "nombre": "Set pinzas x4",
-    "descripcion": "Set de pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "H0011 1.jpg",
-      "H0011 2.jpg",
-      "H0011 3.jpg"
-    ],
-    "imagenVariantes": "H0011 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: H0011"
-  },
-  {
     "codigo": "H0018",
     "nombre": "Set x 3 pinzas",
     "descripcion": "Set de pinzas",
@@ -4856,21 +4822,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25270"
   },
   {
-    "codigo": "EA0006",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0006 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0006"
-  },
-  {
     "codigo": "EA0006-2",
     "nombre": "Abridores acero dorado",
     "descripcion": "Caravanas acero",
@@ -4884,21 +4835,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA0006-2"
-  },
-  {
-    "codigo": "EA0008",
-    "nombre": "Abridores acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA0008 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA0008"
   },
   {
     "codigo": "EA7008-2",
@@ -5158,21 +5094,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN009-2"
   },
   {
-    "codigo": "FN25308",
-    "nombre": "Caravanas acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "FN25308 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25308"
-  },
-  {
     "codigo": "FN24242",
     "nombre": "Caravanas acero",
     "descripcion": "Caravanas acero",
@@ -5216,21 +5137,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 252406"
-  },
-  {
-    "codigo": "252409",
-    "nombre": "Aros acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "252409 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 252409"
   },
   {
     "codigo": "G6932",
@@ -6236,22 +6142,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 310424G"
-  },
-  {
-    "codigo": "35564",
-    "nombre": "Cadena acero y dije enchapado Buho",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "35564 1.jpg",
-      "35564 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 35564"
   },
   {
     "codigo": "310464P",
@@ -8244,31 +8134,6 @@
     "whatsappMessage": "Hola, me interesa este producto: W0004"
   },
   {
-    "codigo": "W2001",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "19 X 10 X 3CM",
-    "imagenes": [
-      "W2001 1.jpg",
-      "W2001 2.jpg",
-      "W2001 3.jpg"
-    ],
-    "imagenVariantes": "W2001 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Nude": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Beige": true,
-      "Bordeaux": true,
-      "Rosa Viejo": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W2001"
-  },
-  {
     "codigo": "W2002",
     "nombre": "Billetera dama jean",
     "descripcion": "Billetera dama larga",
@@ -8290,29 +8155,6 @@
       "C3": true
     },
     "whatsappMessage": "Hola, me interesa este producto: W2002"
-  },
-  {
-    "codigo": "FN368",
-    "nombre": "Billetera dama",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "",
-    "imagenes": [
-      "FN368 1.jpg"
-    ],
-    "imagenVariantes": "FN368 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Amarillo": true,
-      "Celeste": true,
-      "Rosado": true,
-      "Marron Claro": true,
-      "Verde Agua": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN368"
   },
   {
     "codigo": "FN360",
@@ -12472,21 +12314,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 510352"
   },
   {
-    "codigo": "50142B",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "50142B 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 50142B"
-  },
-  {
     "codigo": "210322",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12887,21 +12714,6 @@
     "whatsappMessage": "Hola, me interesa este producto: PL05451"
   },
   {
-    "codigo": "PL70221",
-    "nombre": "Pulsera enchapada oro infantil Mariposa",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "PL70221 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PL70221"
-  },
-  {
     "codigo": "70660",
     "nombre": "Pulsera enchapada oro infantil Luna",
     "descripcion": "Enchapado infantil",
@@ -13028,21 +12840,6 @@
     "whatsappMessage": "Hola, me interesa este producto: PL02851"
   },
   {
-    "codigo": "70310",
-    "nombre": "Pulsera enchapada oro infantil perlitas y brillo",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "70310 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 70310"
-  },
-  {
     "codigo": "PL70231",
     "nombre": "Pulsera enchapada oro infantil Emoji",
     "descripcion": "Enchapado infantil",
@@ -13135,21 +12932,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 70666"
-  },
-  {
-    "codigo": "710492",
-    "nombre": "Pulsera enchapada plata infantil corazón",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "710492 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 710492"
   },
   {
     "codigo": "710002",
@@ -13700,8 +13482,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Varios colores": true,
-      "Rosado": true
+      "Varios colores": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 510340B"
@@ -13737,8 +13518,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Varios colores": true,
-      "Rosado": true
+      "Varios colores": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 510340PI"
@@ -14441,8 +14221,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Blanco": true,
-      "Rosado": true
+      "Blanco": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 510610PI"
