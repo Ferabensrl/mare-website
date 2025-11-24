@@ -65,7 +65,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Nude": true,
       "Amarillo": true,
       "Rosado": true
@@ -826,8 +825,7 @@
     "colores": {
       "Negro": true,
       "Lila": true,
-      "Verde claro": true,
-      "Combinado": true
+      "Verde claro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B152402"
@@ -1203,7 +1201,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Beige": true,
       "Gris": true,
       "Azul": true
     },
@@ -1253,10 +1250,8 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Lila": true,
       "Gris": true,
-      "Rojo": true,
-      "Rosa Viejo": true
+      "Rojo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H002"
@@ -1302,6 +1297,8 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
+      "Negro": true,
+      "Rosado": true,
       "Gris": true,
       "Rojo": true
     },
@@ -1325,7 +1322,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Rosado": true,
       "Marron Claro": true,
       "Rojo": true,
@@ -1743,8 +1739,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Crudo": true,
-      "Combinado": true
+      "Crudo": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN5018"
@@ -2150,23 +2145,8 @@
     "whatsappMessage": "Hola, me interesa este producto: C037"
   },
   {
-    "codigo": "C013",
-    "nombre": "Vincha negra plastico lisa",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C013 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C013"
-  },
-  {
     "codigo": "C013-1",
-    "nombre": "Vincha negra plastico ancha",
+    "nombre": "Vincha negra plastico lisa",
     "descripcion": "Diademas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2180,22 +2160,19 @@
     "whatsappMessage": "Hola, me interesa este producto: C013-1"
   },
   {
-    "codigo": "D035",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
+    "codigo": "C013-3",
+    "nombre": "Vincha negra plastico ancha",
+    "descripcion": "Diademas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "D035 1.jpg",
-      "D035 2.jpg",
-      "D035 3.jpg",
-      "D035 4.jpg"
+      "C013-3 1.jpg"
     ],
-    "sinColor": false,
-    "permitirSurtido": true,
+    "sinColor": true,
+    "permitirSurtido": false,
     "colores": {},
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D035"
+    "whatsappMessage": "Hola, me interesa este producto: C013-3"
   },
   {
     "codigo": "D131",
@@ -3398,27 +3375,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B425"
   },
   {
-    "codigo": "B452",
-    "nombre": "Set coleros x4",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B452 1.jpg",
-      "B452 2.jpg",
-      "B452 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Tonos marrones": true,
-      "Tonos pastel": true,
-      "Varios colores": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B452"
-  },
-  {
     "codigo": "B458",
     "nombre": "Set coleros x2",
     "descripcion": "Set colitas",
@@ -3631,25 +3587,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: H0018"
-  },
-  {
-    "codigo": "100390",
-    "nombre": "Set x3 pinzas",
-    "descripcion": "Set de pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "100390 1.jpg",
-      "100390 2.jpg",
-      "100390 3.jpg",
-      "100390 4.jpg"
-    ],
-    "imagenVariantes": "100390 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 100390"
   },
   {
     "codigo": "100325",
@@ -4650,21 +4587,6 @@
     "whatsappMessage": "Hola, me interesa este producto: ER8007"
   },
   {
-    "codigo": "24001",
-    "nombre": "Set de brillos x3",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "24001 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 24001"
-  },
-  {
     "codigo": "ER004",
     "nombre": "Set caravanas x3",
     "descripcion": "Caravanas acero",
@@ -4678,21 +4600,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: ER004"
-  },
-  {
-    "codigo": "ER6068",
-    "nombre": "Caravanas acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "ER6068 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: ER6068"
   },
   {
     "codigo": "ER6051",
@@ -6097,22 +6004,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 36494GG"
-  },
-  {
-    "codigo": "312774M",
-    "nombre": "Cadena acero y dije enchapado Flor",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "312774M 1.jpg",
-      "312774M 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 312774M"
   },
   {
     "codigo": "312774G",
@@ -7701,7 +7592,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Lila": true,
       "Celeste": true,
       "Beige": true,
@@ -7753,7 +7643,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Rosado": true,
       "Fucsia": true,
       "Marron Claro": true,
@@ -9198,8 +9087,7 @@
     "variantes": {
       "C2": true,
       "C3": true,
-      "C5": true,
-      "C6": true
+      "C5": true
     },
     "whatsappMessage": "Hola, me interesa este producto: CBB008"
   },
@@ -12754,23 +12642,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 710002"
   },
   {
-    "codigo": "710042",
-    "nombre": "Pulsera enchapada plata infantil corazón",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "710042 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 710042"
-  },
-  {
     "codigo": "711032",
     "nombre": "Pulsera enchapada plata infantil Chapita",
     "descripcion": "Enchapado infantil",
@@ -13653,24 +13524,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 510162"
   },
   {
-    "codigo": "30860",
-    "nombre": "Gargantilla enchapada Ojo turco",
-    "descripcion": "Gargantilla enchapada",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "30860 1.jpg",
-      "30860 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 30860"
-  },
-  {
     "codigo": "313230",
     "nombre": "Gargantilla enchapada Trebol",
     "descripcion": "Gargantilla enchapada",
@@ -13993,22 +13846,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 510610PI"
   },
   {
-    "codigo": "56000PI",
-    "nombre": "Gargantilla enchapada corazón",
-    "descripcion": "Gargantilla enchapada",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "56000PI 1.jpg",
-      "56000PI 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 56000PI"
-  },
-  {
     "codigo": "510530PI",
     "nombre": "Gargantilla enchapada",
     "descripcion": "Gargantilla enchapada",
@@ -14111,20 +13948,5 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 60412"
-  },
-  {
-    "codigo": "310440",
-    "nombre": "Manito prendedor",
-    "descripcion": "Manito prendedor",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "310440 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 310440"
   }
 ]
