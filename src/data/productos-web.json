@@ -2073,24 +2073,6 @@
     "whatsappMessage": "Hola, me interesa este producto: C024"
   },
   {
-    "codigo": "C038",
-    "nombre": "Diademas",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C038 1.jpg",
-      "C038 2.jpg",
-      "C038 3.jpg",
-      "C038 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C038"
-  },
-  {
     "codigo": "C040",
     "nombre": "Diademas",
     "descripcion": "Diademas",
@@ -2546,24 +2528,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D251"
-  },
-  {
-    "codigo": "D218",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D218 1.jpg",
-      "D218 2.jpg",
-      "D218 3.jpg"
-    ],
-    "imagenVariantes": "D218 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D218"
   },
   {
     "codigo": "3216",
@@ -3548,24 +3512,6 @@
     "whatsappMessage": "Hola, me interesa este producto: G05"
   },
   {
-    "codigo": "100324",
-    "nombre": "Set x 6 pinzas chicas",
-    "descripcion": "Set de pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "100324 1.jpg",
-      "100324 2.jpg",
-      "100324 3.jpg",
-      "100324 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 100324"
-  },
-  {
     "codigo": "H0018",
     "nombre": "Set x 3 pinzas",
     "descripcion": "Set de pinzas",
@@ -3628,10 +3574,7 @@
     "imagenVariantes": "D061 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
-    "colores": {
-      "Fucsia": true,
-      "Rojo": true
-    },
+    "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D061"
   },
@@ -3727,24 +3670,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: G41"
-  },
-  {
-    "codigo": "G52",
-    "nombre": "Set pinzas x2",
-    "descripcion": "Set pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "G52 1.jpg",
-      "G52 2.jpg",
-      "G52 3.jpg",
-      "G52 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G52"
   },
   {
     "codigo": "G54",
@@ -4282,21 +4207,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA22001"
-  },
-  {
-    "codigo": "EA33001-8",
-    "nombre": "Caravanas acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "8mm",
-    "imagenes": [
-      "EA33001-8 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA33001-8"
   },
   {
     "codigo": "FN25718",
