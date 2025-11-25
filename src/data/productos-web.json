@@ -984,8 +984,7 @@
     "permitirSurtido": true,
     "colores": {
       "Verde": true,
-      "Rosado": true,
-      "Gris": true
+      "Rosado": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B1119"
@@ -1118,10 +1117,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Blanco": true,
-      "Varios colores": true,
-      "Verde": true,
-      "Azul": true
+      "Verde": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BAG9501"
@@ -1839,24 +1835,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B362"
   },
   {
-    "codigo": "HC0001",
-    "nombre": "Colero con luz led",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "HC0001 1.jpg",
-      "HC0001 2.jpg",
-      "HC0001 3.jpg",
-      "HC0001 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: HC0001"
-  },
-  {
     "codigo": "B428",
     "nombre": "Colero",
     "descripcion": "Colero",
@@ -1995,25 +1973,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25745"
-  },
-  {
-    "codigo": "3220",
-    "nombre": "Colero con caritas",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "3220 1.jpg",
-      "3220 2.jpg",
-      "3220 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Blanco": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 3220"
   },
   {
     "codigo": "C071",
@@ -5594,22 +5553,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 310114M"
-  },
-  {
-    "codigo": "312044P",
-    "nombre": "Cadena acero y dije enchapado Flor",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "312044P 1.jpg",
-      "312044P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 312044P"
   },
   {
     "codigo": "312044G",
@@ -11440,21 +11383,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 14444"
   },
   {
-    "codigo": "55130",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "55130 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 55130"
-  },
-  {
     "codigo": "211270",
     "nombre": "Caravanas enchapadas oro",
     "descripcion": "Caravanas enchapadas oro",
@@ -11522,23 +11450,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 28430"
-  },
-  {
-    "codigo": "27910",
-    "nombre": "Caravanas enchapadas oro",
-    "descripcion": "Caravanas enchapadas oro",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "27910 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 27910"
   },
   {
     "codigo": "211610",
@@ -12266,21 +12177,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 23572"
-  },
-  {
-    "codigo": "23312",
-    "nombre": "Clip enchapadas plata",
-    "descripcion": "Clip enchapados",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "23312 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 23312"
   },
   {
     "codigo": "71132-15",
