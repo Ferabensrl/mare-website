@@ -544,7 +544,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Blanco": true,
       "Marron Oscuro": true
     },
@@ -960,9 +959,8 @@
     ],
     "imagenVariantes": "FN5021 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
       "Beige": true
     },
     "variantes": {},
@@ -2114,30 +2112,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C013-3"
-  },
-  {
-    "codigo": "D131",
-    "nombre": "Pinza varios diseños",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D131 1.jpg",
-      "D131 2.jpg",
-      "D131 3.jpg",
-      "D131 4.jpg",
-      "D131 5.jpg",
-      "D131 6.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Oscuro": true,
-      "Salmon": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D131"
   },
   {
     "codigo": "D156",
@@ -8915,7 +8889,6 @@
     "permitirSurtido": true,
     "colores": {
       "Blanco": true,
-      "Rosado": true,
       "Fucsia": true
     },
     "variantes": {},
@@ -11015,24 +10988,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: CAJRE008"
-  },
-  {
-    "codigo": "J1808",
-    "nombre": "Caja relojes",
-    "descripcion": "Caja relojes",
-    "categoria": "x Estuches",
-    "medidas": "",
-    "imagenes": [
-      "J1808 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: J1808"
   },
   {
     "codigo": "ESTUCHE3179",
