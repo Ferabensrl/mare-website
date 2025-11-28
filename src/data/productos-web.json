@@ -451,8 +451,7 @@
     "permitirSurtido": true,
     "colores": {
       "Nude": true,
-      "Celeste": true,
-      "Terracota": true
+      "Celeste": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB252"
@@ -1099,28 +1098,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BAG1004"
   },
   {
-    "codigo": "BAG9501",
-    "nombre": "Bandolera",
-    "descripcion": "Bandolera",
-    "categoria": "A Marroquineria",
-    "medidas": "26 x 22 x 12cm",
-    "imagenes": [
-      "BAG9501 1.jpg",
-      "BAG9501 2.jpg",
-      "BAG9501 3.jpg",
-      "BAG9501 4.jpg",
-      "BAG9501 5.jpg"
-    ],
-    "imagenVariantes": "BAG9501 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Verde": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG9501"
-  },
-  {
     "codigo": "BAG9504",
     "nombre": "Bandolera",
     "descripcion": "Bandolera",
@@ -1509,7 +1486,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Celeste": true,
       "Fucsia": true
     },
@@ -4109,22 +4085,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: EA8246"
-  },
-  {
-    "codigo": "EA22003-2",
-    "nombre": "Aros acero dorado",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "EA22003-2 1.jpg",
-      "EA22003-2 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: EA22003-2"
   },
   {
     "codigo": "EA22001",
@@ -9517,24 +9477,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SG2425"
-  },
-  {
-    "codigo": "SG25402",
-    "nombre": "Lentes de sol",
-    "descripcion": "XLentes unisex",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "SG25402 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Animal Print": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SG25402"
   },
   {
     "codigo": "SG25403",
