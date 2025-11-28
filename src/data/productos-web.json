@@ -1782,7 +1782,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B332 1.jpg"
+      "B332 1.jpg",
+      "B332 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -2689,6 +2690,23 @@
     "whatsappMessage": "Hola, me interesa este producto: B061"
   },
   {
+    "codigo": "B201",
+    "nombre": "Set colitas x2",
+    "descripcion": "Set colitas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "B201 1.jpg",
+      "B201 2.jpg",
+      "B201 3.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: B201"
+  },
+  {
     "codigo": "B071",
     "nombre": "Set colitas x2",
     "descripcion": "Set colitas",
@@ -2861,7 +2879,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B139 1.jpg"
+      "B139 1.jpg",
+      "B139 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -2928,27 +2947,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B161"
-  },
-  {
-    "codigo": "B027",
-    "nombre": "Set colitas x2",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B027 1.jpg",
-      "B027 2.jpg",
-      "B027 3.jpg",
-      "B027 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Tonos marrones": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B027"
   },
   {
     "codigo": "B171",
@@ -3039,7 +3037,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B203 1.jpg"
+      "B203 1.jpg",
+      "B203 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -3129,7 +3128,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B233 1.jpg"
+      "B233 1.jpg",
+      "B233 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -3147,7 +3147,9 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B246 1.jpg"
+      "B246 1.jpg",
+      "B246 2.jpg",
+      "B246 3.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -3166,7 +3168,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "B277 1.jpg"
+      "B277 1.jpg",
+      "B277 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -3609,7 +3612,8 @@
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "G55 1.jpg"
+      "G55 1.jpg",
+      "G55 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
