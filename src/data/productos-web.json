@@ -2630,7 +2630,8 @@
     "imagenes": [
       "B045 1.jpg",
       "B045 2.jpg",
-      "B045 3.jpg"
+      "B045 3.jpg",
+      "B045 4.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": true,
@@ -7384,7 +7385,6 @@
     "permitirSurtido": true,
     "colores": {
       "Lila": true,
-      "Celeste": true,
       "Beige": true,
       "Marron Claro": true,
       "Bordeaux": true
