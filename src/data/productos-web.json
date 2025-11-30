@@ -11837,21 +11837,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 23282"
   },
   {
-    "codigo": "21512",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "21512 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 21512"
-  },
-  {
     "codigo": "20732",
     "nombre": "Caravanas enchapadas plata",
     "descripcion": "Caravanas enchapadas plata",
@@ -12332,21 +12317,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 70666"
-  },
-  {
-    "codigo": "710002",
-    "nombre": "Pulsera enchapada plata infantil corazón",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "710002 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 710002"
   },
   {
     "codigo": "711032",
