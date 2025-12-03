@@ -165,11 +165,9 @@
     "colores": {
       "Negro": true,
       "Lila": true,
-      "Celeste": true,
       "Rosado": true,
       "Gris": true,
-      "Terracota": true,
-      "Azul": true
+      "Terracota": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB251"
@@ -448,10 +446,9 @@
     ],
     "imagenVariantes": "LB252 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Nude": true,
-      "Celeste": true
+      "Turquesa": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB252"
@@ -749,7 +746,6 @@
     "colores": {
       "Negro": true,
       "Celeste": true,
-      "Bordeaux": true,
       "Rosa Viejo": true,
       "Azul": true
     },
@@ -1048,7 +1044,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Verde": true,
       "Lila": true,
       "Rosado": true,
       "Marron Claro": true,
@@ -1220,7 +1215,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Gris": true,
       "Rojo": true
     },
@@ -1493,26 +1487,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B1202"
   },
   {
-    "codigo": "FN5011",
-    "nombre": "Bolso grande sport",
-    "descripcion": "Bolsos",
-    "categoria": "A Marroquineria",
-    "medidas": "47 X 25 X 23CM",
-    "imagenes": [
-      "FN5011 1.jpg",
-      "FN5011 2.jpg",
-      "FN5011 3.jpg"
-    ],
-    "imagenVariantes": "FN5011 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN5011"
-  },
-  {
     "codigo": "BP2001",
     "nombre": "Cartera casual",
     "descripcion": "Cartera",
@@ -1571,13 +1545,9 @@
     ],
     "imagenVariantes": "BP2010 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
-      "Blanco": true,
-      "Verde": true,
-      "Celeste": true,
-      "Rosado": true
+      "Negro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BP2010"
@@ -2193,22 +2163,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25751"
   },
   {
-    "codigo": "FN25729",
-    "nombre": "Pinza 3,5cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25729 1.jpg"
-    ],
-    "imagenVariantes": "FN25729 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25729"
-  },
-  {
     "codigo": "FN25771",
     "nombre": "Pinza 6cm",
     "descripcion": "Pinza",
@@ -2456,7 +2410,7 @@
     ],
     "imagenVariantes": "3216 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Negro": true
     },
@@ -3463,13 +3417,7 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C6": true
-    },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 100325"
   },
   {
@@ -6605,42 +6553,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SL0256"
-  },
-  {
-    "codigo": "SL0165-12",
-    "nombre": "Pulsera acero dorado",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "SL0165-12 1.jpg",
-      "SL0165-12 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SL0165-12"
-  },
-  {
-    "codigo": "SL0165-1",
-    "nombre": "Pulsera acero plateado",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "SL0165-1 1.jpg",
-      "SL0165-1 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SL0165-1"
   },
   {
     "codigo": "SZ0092",
@@ -12255,23 +12167,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: RC09932"
-  },
-  {
-    "codigo": "PL03021",
-    "nombre": "Pulsera enchapada oro infantil Mariposa",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "PL03021 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Rosado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PL03021"
   },
   {
     "codigo": "70662",
