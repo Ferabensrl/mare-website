@@ -185,7 +185,7 @@
     ],
     "imagenVariantes": "FN4009 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Verde Agua": true
     },
@@ -632,7 +632,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Lila": true,
       "Azul": true,
       "Verde Agua": true
@@ -654,7 +653,7 @@
     ],
     "imagenVariantes": "BAG016 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Azul": true
     },
@@ -721,7 +720,7 @@
     ],
     "imagenVariantes": "B013 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Verde": true
     },
@@ -1213,7 +1212,7 @@
     ],
     "imagenVariantes": "H002 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Gris": true,
       "Rojo": true
@@ -1432,7 +1431,7 @@
     ],
     "imagenVariantes": "LB233 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Negro": true
     },
@@ -1525,7 +1524,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Bordeaux": true,
       "Azul": true
     },
@@ -1794,13 +1792,7 @@
     "imagenVariantes": "B428 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
-    "colores": {
-      "Amarillo": true,
-      "Verde": true,
-      "Lila": true,
-      "Celeste": true,
-      "Rosado": true
-    },
+    "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B428"
   },
@@ -1933,11 +1925,7 @@
     "imagenVariantes": "C071 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Beige": true,
-      "Azul": true
-    },
+    "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: C071"
   },
@@ -2495,7 +2483,8 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true
+      "Tonos marrones": true,
+      "Varios colores": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B007"
@@ -3872,21 +3861,6 @@
     "whatsappMessage": "Hola, me interesa este producto: G40"
   },
   {
-    "codigo": "NK0008-2MM-50",
-    "nombre": "Cadena acero rolo cuadrado",
-    "descripcion": "Cadena acero",
-    "categoria": "Acero",
-    "medidas": "2mm / 50cm",
-    "imagenes": [
-      "NK0008-2MM-50 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK0008-2MM-50"
-  },
-  {
     "codigo": "NK0055-0,4MM-50",
     "nombre": "Cadena acero fina",
     "descripcion": "Cadena acero",
@@ -4754,40 +4728,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 252406"
-  },
-  {
-    "codigo": "G6932",
-    "nombre": "Conjunto acero",
-    "descripcion": "Conjunto acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "G6932 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G6932"
-  },
-  {
-    "codigo": "G6964",
-    "nombre": "Conjunto acero",
-    "descripcion": "Conjunto acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "G6964 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G6964"
   },
   {
     "codigo": "FN0052",
@@ -7041,48 +6981,8 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true,
-      "C4": true,
-      "C5": true,
-      "C6": true,
-      "C7": true,
-      "C9": true,
-      "C10": true
-    },
+    "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: PULS1001"
-  },
-  {
-    "codigo": "PULS6151",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "PULS6151 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PULS6151"
-  },
-  {
-    "codigo": "PULS6147",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "PULS6147 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: PULS6147"
   },
   {
     "codigo": "SZ989-2",
