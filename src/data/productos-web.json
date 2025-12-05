@@ -6572,23 +6572,6 @@
     "whatsappMessage": "Hola, me interesa este producto: NK1018"
   },
   {
-    "codigo": "NK1021",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK1021 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK1021"
-  },
-  {
     "codigo": "NK1022",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -7612,25 +7595,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: SZ0078"
-  },
-  {
-    "codigo": "SZ0136",
-    "nombre": "Brazalete acero dorado",
-    "descripcion": "Pulsera acero 2",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "SZ0136 1.jpg",
-      "SZ0136 2.jpg"
-    ],
-    "imagenVariantes": "SZ0136 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SZ0136"
   },
   {
     "codigo": "SZ0467",
@@ -9501,23 +9465,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: HS6801"
-  },
-  {
-    "codigo": "FN2412",
-    "nombre": "Lentes de dama",
-    "descripcion": "XLentes de dama",
-    "categoria": "Lentes de sol",
-    "medidas": "",
-    "imagenes": [
-      "FN2412 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN2412"
   },
   {
     "codigo": "SG25390",
