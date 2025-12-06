@@ -65,7 +65,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Nude": true,
       "Amarillo": true,
       "Rosado": true
     },
@@ -1153,26 +1152,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BAG6534"
   },
   {
-    "codigo": "BAG6535",
-    "nombre": "Bandolera",
-    "descripcion": "Bandolera",
-    "categoria": "A Marroquineria",
-    "medidas": "17 X 11 X 6CM",
-    "imagenes": [
-      "BAG6535 1.jpg",
-      "BAG6535 2.jpg"
-    ],
-    "imagenVariantes": "BAG6535 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Gris": true,
-      "Azul": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BAG6535"
-  },
-  {
     "codigo": "H001",
     "nombre": "Bandolera para celular",
     "descripcion": "Bandolera para celular",
@@ -1630,7 +1609,6 @@
     "permitirSurtido": true,
     "colores": {
       "Verde": true,
-      "Celeste": true,
       "Rosado": true
     },
     "variantes": {},
@@ -1727,23 +1705,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B003"
   },
   {
-    "codigo": "B269",
-    "nombre": "Set 2 Coleros con detalles",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B269 1.jpg",
-      "B269 2.jpg",
-      "B269 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B269"
-  },
-  {
     "codigo": "B332",
     "nombre": "Colero",
     "descripcion": "Colero",
@@ -1758,24 +1719,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B332"
-  },
-  {
-    "codigo": "B362",
-    "nombre": "Colero",
-    "descripcion": "Colero",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B362 1.jpg",
-      "B362 2.jpg",
-      "B362 3.jpg",
-      "B362 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B362"
   },
   {
     "codigo": "B428",
@@ -1925,6 +1868,22 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25053"
+  },
+  {
+    "codigo": "FN25128",
+    "nombre": "Diademas",
+    "descripcion": "Diademas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25128 1.jpg"
+    ],
+    "imagenVariantes": "FN25128 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25128"
   },
   {
     "codigo": "FN25964",
@@ -2079,6 +2038,42 @@
     "whatsappMessage": "Hola, me interesa este producto: C037"
   },
   {
+    "codigo": "FN25318",
+    "nombre": "Tiara Carey 0,8cm",
+    "descripcion": "Diademas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25318 1.jpg",
+      "FN25318 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25318"
+  },
+  {
+    "codigo": "FN25329",
+    "nombre": "Tiara Carey 1,3cm",
+    "descripcion": "Diademas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25329 1.jpg",
+      "FN25329 2.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": false,
+    "colores": {
+      "Animal Print": true
+    },
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25329"
+  },
+  {
     "codigo": "C013-1",
     "nombre": "Vincha negra plastico lisa",
     "descripcion": "Diademas",
@@ -2145,6 +2140,38 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D187"
+  },
+  {
+    "codigo": "FN25116",
+    "nombre": "Pinza 4,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "4,5cm",
+    "imagenes": [
+      "FN25116 1.jpg"
+    ],
+    "imagenVariantes": "FN25116 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25116"
+  },
+  {
+    "codigo": "FN25111",
+    "nombre": "Pinza 3,5cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "3,5cm",
+    "imagenes": [
+      "FN25111 1.jpg"
+    ],
+    "imagenVariantes": "FN25111 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25111"
   },
   {
     "codigo": "FN25753",
@@ -2226,6 +2253,21 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25779"
+  },
+  {
+    "codigo": "FN25513",
+    "nombre": "Pinza 12cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25513 1.jpg"
+    ],
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25513"
   },
   {
     "codigo": "FN25773",
@@ -2385,7 +2427,7 @@
   },
   {
     "codigo": "FN251019",
-    "nombre": "Pinza 4,5cm",
+    "nombre": "Pinza 4cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2400,7 +2442,7 @@
   },
   {
     "codigo": "FN251017",
-    "nombre": "Pinza 4,5cm",
+    "nombre": "Pinza 4cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2430,7 +2472,7 @@
   },
   {
     "codigo": "FN251045",
-    "nombre": "Pinza 4,5cm",
+    "nombre": "Pinza 4cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2445,7 +2487,7 @@
   },
   {
     "codigo": "FN251037",
-    "nombre": "Pinza 4,5cm",
+    "nombre": "Pinza 4cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2489,24 +2531,39 @@
     "whatsappMessage": "Hola, me interesa este producto: FN251030"
   },
   {
-    "codigo": "FN25774",
-    "nombre": "Pinza 5,5cm",
+    "codigo": "FN25394",
+    "nombre": "Pinza 4cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "FN25774 1.jpg"
+      "FN25394 1.jpg"
     ],
-    "imagenVariantes": "FN25774 VARIANTES.jpg",
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {},
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25774"
+    "whatsappMessage": "Hola, me interesa este producto: FN25394"
+  },
+  {
+    "codigo": "FN25600",
+    "nombre": "Pinza 6cm",
+    "descripcion": "Pinza",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25600 1.jpg"
+    ],
+    "imagenVariantes": "FN25600 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25600"
   },
   {
     "codigo": "FN251043",
-    "nombre": "Pinza 6cm",
+    "nombre": "Pinza 6,5cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2568,7 +2625,7 @@
   },
   {
     "codigo": "FN251002",
-    "nombre": "Pinza 11cm",
+    "nombre": "Pinza 12cm",
     "descripcion": "Pinza",
     "categoria": "Accesorios para pelo",
     "medidas": "",
@@ -2675,7 +2732,6 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Tonos marrones": true,
       "Varios colores": true
     },
     "variantes": {},
@@ -3582,6 +3638,38 @@
     "whatsappMessage": "Hola, me interesa este producto: B313"
   },
   {
+    "codigo": "FN25297",
+    "nombre": "Set colitas x2",
+    "descripcion": "Set colitas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25297 1.jpg"
+    ],
+    "imagenVariantes": "FN25297 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25297"
+  },
+  {
+    "codigo": "FN25065",
+    "nombre": "Set colitas x2",
+    "descripcion": "Set colitas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25065 1.jpg"
+    ],
+    "imagenVariantes": "FN25065 VARIANTES.jpg",
+    "sinColor": false,
+    "permitirSurtido": true,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25065"
+  },
+  {
     "codigo": "B379",
     "nombre": "Set coleros x2",
     "descripcion": "Set colitas",
@@ -3850,6 +3938,51 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D061"
+  },
+  {
+    "codigo": "FN25190",
+    "nombre": "Set pinzas x 6",
+    "descripcion": "Set pinzas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25190 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25190"
+  },
+  {
+    "codigo": "FN25186",
+    "nombre": "Set pinzas x 6",
+    "descripcion": "Set pinzas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25186 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25186"
+  },
+  {
+    "codigo": "FN25187",
+    "nombre": "Set pinzas x 6",
+    "descripcion": "Set pinzas",
+    "categoria": "Accesorios para pelo",
+    "medidas": "",
+    "imagenes": [
+      "FN25187 1.jpg"
+    ],
+    "sinColor": true,
+    "permitirSurtido": false,
+    "colores": {},
+    "variantes": {},
+    "whatsappMessage": "Hola, me interesa este producto: FN25187"
   },
   {
     "codigo": "FN25283",
@@ -5046,24 +5179,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 6291"
-  },
-  {
-    "codigo": "FN25362",
-    "nombre": "Aros acero 15mm",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "1,5CM",
-    "imagenes": [
-      "FN25362 1.jpg",
-      "FN25362 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25362"
   },
   {
     "codigo": "FN25363",
@@ -6706,23 +6821,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: NKG2010"
-  },
-  {
-    "codigo": "NKG2011",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NKG2011 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NKG2011"
   },
   {
     "codigo": "NKG8001",
