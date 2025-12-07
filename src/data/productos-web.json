@@ -2038,14 +2038,14 @@
     "whatsappMessage": "Hola, me interesa este producto: C037"
   },
   {
-    "codigo": "FN25318",
+    "codigo": "FN25328",
     "nombre": "Tiara Carey 0,8cm",
     "descripcion": "Diademas",
     "categoria": "Accesorios para pelo",
     "medidas": "",
     "imagenes": [
-      "FN25318 1.jpg",
-      "FN25318 2.jpg"
+      "FN25328 1.jpg",
+      "FN25328 2.jpg"
     ],
     "sinColor": false,
     "permitirSurtido": false,
@@ -2053,7 +2053,7 @@
       "Animal Print": true
     },
     "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25318"
+    "whatsappMessage": "Hola, me interesa este producto: FN25328"
   },
   {
     "codigo": "FN25329",
@@ -2072,36 +2072,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25329"
-  },
-  {
-    "codigo": "C013-1",
-    "nombre": "Vincha negra plastico lisa",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C013-1 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C013-1"
-  },
-  {
-    "codigo": "C013-3",
-    "nombre": "Vincha negra plastico ancha",
-    "descripcion": "Diademas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "C013-3 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: C013-3"
   },
   {
     "codigo": "D156",
@@ -2300,22 +2270,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25772"
-  },
-  {
-    "codigo": "FN25770",
-    "nombre": "Pinza 10,5cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25770 1.jpg"
-    ],
-    "imagenVariantes": "FN25770 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25770"
   },
   {
     "codigo": "FN25802",
