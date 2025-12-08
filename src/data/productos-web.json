@@ -7760,7 +7760,7 @@
     ],
     "imagenVariantes": "W280 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {},
     "variantes": {
       "C1": true,
