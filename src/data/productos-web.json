@@ -87,7 +87,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Verde": true,
       "Rosado": true,
       "Beige": true
@@ -537,7 +536,7 @@
     ],
     "imagenVariantes": "B3001 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Blanco": true,
       "Marron Oscuro": true
@@ -2090,25 +2089,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: D156"
-  },
-  {
-    "codigo": "D187",
-    "nombre": "Pinza perlas",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "7,5cm",
-    "imagenes": [
-      "D187 1.jpg",
-      "D187 2.jpg",
-      "D187 3.jpg",
-      "D187 4.jpg",
-      "D187 5.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D187"
   },
   {
     "codigo": "FN25116",
@@ -3874,25 +3854,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 100325"
   },
   {
-    "codigo": "D061",
-    "nombre": "Set pinzas x2 chicas",
-    "descripcion": "Set pinzas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D061 1.jpg",
-      "D061 2.jpg",
-      "D061 3.jpg",
-      "D061 4.jpg"
-    ],
-    "imagenVariantes": "D061 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D061"
-  },
-  {
     "codigo": "FN25190",
     "nombre": "Set pinzas x 6",
     "descripcion": "Set pinzas",
@@ -4694,23 +4655,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25295"
-  },
-  {
-    "codigo": "FN25120",
-    "nombre": "Aros acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "FN25120 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25120"
   },
   {
     "codigo": "FN25007",
@@ -6671,23 +6615,6 @@
     "whatsappMessage": "Hola, me interesa este producto: NKG2002"
   },
   {
-    "codigo": "NKG2008",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NKG2008 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NKG2008"
-  },
-  {
     "codigo": "NKG2010",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -6839,23 +6766,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN0519"
-  },
-  {
-    "codigo": "GARG0244",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "GARG0244 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: GARG0244"
   },
   {
     "codigo": "GARG0253",
@@ -7528,22 +7438,6 @@
     "whatsappMessage": "Hola, me interesa este producto: PULS1001"
   },
   {
-    "codigo": "SZ989-2",
-    "nombre": "Brazalete acero dorado",
-    "descripcion": "Pulsera acero 2",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "SZ989-2 1.jpg",
-      "SZ989-2 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: SZ989-2"
-  },
-  {
     "codigo": "SZ0154",
     "nombre": "Brazalete acero dorado",
     "descripcion": "Pulsera acero 2",
@@ -7721,9 +7615,7 @@
     "permitirSurtido": true,
     "colores": {
       "Lila": true,
-      "Beige": true,
-      "Marron Claro": true,
-      "Bordeaux": true
+      "Marron Claro": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: W307-2B"
