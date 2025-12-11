@@ -2072,25 +2072,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25329"
   },
   {
-    "codigo": "D156",
-    "nombre": "Pinza",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "D156 1.jpg",
-      "D156 2.jpg",
-      "D156 3.jpg",
-      "D156 4.jpg",
-      "D156 5.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: D156"
-  },
-  {
     "codigo": "FN25116",
     "nombre": "Pinza 4,5cm",
     "descripcion": "Pinza",
@@ -12207,21 +12188,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 29132"
-  },
-  {
-    "codigo": "24992",
-    "nombre": "Caravanas enchapadas plata",
-    "descripcion": "Caravanas enchapadas plata",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "24992 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 24992"
   },
   {
     "codigo": "23572",
