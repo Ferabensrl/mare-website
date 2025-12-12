@@ -909,7 +909,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Rosado": true,
       "Verde Agua": true
     },
@@ -1650,9 +1649,8 @@
     ],
     "imagenVariantes": "FN5018 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
       "Crudo": true
     },
     "variantes": {},
@@ -5749,22 +5747,6 @@
     "whatsappMessage": "Hola, me interesa este producto: NK5294-20"
   },
   {
-    "codigo": "312264M",
-    "nombre": "Cadena acero y dije enchapado flor de liz",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "312264M 1.jpg",
-      "312264M 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 312264M"
-  },
-  {
     "codigo": "312264G",
     "nombre": "Cadena acero y dije enchapado flor de liz",
     "descripcion": "Gargantilla acero",
@@ -5926,22 +5908,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 312044G"
   },
   {
-    "codigo": "311034G",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "311034G 1.jpg",
-      "311034G 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 311034G"
-  },
-  {
     "codigo": "312074P",
     "nombre": "Cadena acero y dije enchapado flor de liz",
     "descripcion": "Gargantilla acero",
@@ -5988,22 +5954,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 312074G"
-  },
-  {
-    "codigo": "310124P",
-    "nombre": "Cadena acero y dije enchapado Luna y estrellas",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "310124P 1.jpg",
-      "310124P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 310124P"
   },
   {
     "codigo": "310124M",
@@ -6116,22 +6066,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 55174PI"
-  },
-  {
-    "codigo": "310424P",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "310424P 1.jpg",
-      "310424P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 310424P"
   },
   {
     "codigo": "310424M",
@@ -6262,22 +6196,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 311964"
   },
   {
-    "codigo": "55134PI",
-    "nombre": "Cadena acero y dije enchapado Infinito",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "55134PI 1.jpg",
-      "55134PI 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 55134PI"
-  },
-  {
     "codigo": "311684G",
     "nombre": "Cadena acero y dije enchapado Libelula",
     "descripcion": "Gargantilla acero",
@@ -6388,25 +6306,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 311054G"
-  },
-  {
-    "codigo": "FN5257-2",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "FN5257-2 1.jpg",
-      "FN5257-2 2.jpg",
-      "FN5257-2 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Dorado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN5257-2"
   },
   {
     "codigo": "XL00287",
