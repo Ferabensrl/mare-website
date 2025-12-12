@@ -5344,25 +5344,6 @@
     "whatsappMessage": "Hola, me interesa este producto: XL1421-2"
   },
   {
-    "codigo": "XL00384",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "XL00384 1.jpg",
-      "XL00384 2.jpg"
-    ],
-    "imagenVariantes": "XL00384 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: XL00384"
-  },
-  {
     "codigo": "NK5294-22",
     "nombre": "Gargantilla acero",
     "descripcion": "Gargantilla acero",
@@ -5377,21 +5358,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: NK5294-22"
-  },
-  {
-    "codigo": "NK5294-23",
-    "nombre": "Gargantilla acero dorado",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK5294-23 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK5294-23"
   },
   {
     "codigo": "NK5294-24",
@@ -6459,23 +6425,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: NK1030"
-  },
-  {
-    "codigo": "NK8009",
-    "nombre": "Gargantilla acero",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "NK8009 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: NK8009"
   },
   {
     "codigo": "NKG2002",
