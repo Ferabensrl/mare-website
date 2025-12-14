@@ -111,7 +111,7 @@
       "Negro": true,
       "Lila": true,
       "Celeste": true,
-      "Gris": true,
+      "Marron Claro": true,
       "Bordeaux": true
     },
     "variantes": {},
@@ -8858,11 +8858,9 @@
     ],
     "imagenVariantes": "BAG2002 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Tonos pastel": true,
-      "Lila": true,
-      "Rosado": true
+      "Lila": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BAG2002"
@@ -9879,7 +9877,6 @@
     "permitirSurtido": true,
     "colores": {},
     "variantes": {
-      "C1": true,
       "C2": true,
       "C3": true,
       "C4": true,
