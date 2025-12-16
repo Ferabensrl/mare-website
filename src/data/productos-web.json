@@ -1264,7 +1264,6 @@
     "permitirSurtido": true,
     "colores": {
       "Rosado": true,
-      "Marron Claro": true,
       "Rojo": true,
       "Verde Agua": true
     },
@@ -8931,8 +8930,7 @@
     "colores": {},
     "variantes": {
       "C2": true,
-      "C3": true,
-      "C5": true
+      "C3": true
     },
     "whatsappMessage": "Hola, me interesa este producto: CBB008"
   },
@@ -13423,25 +13421,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 36490"
-  },
-  {
-    "codigo": "510610PI",
-    "nombre": "Gargantilla enchapada corazón",
-    "descripcion": "Gargantilla enchapada",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "510610PI 1.jpg",
-      "510610PI 2.jpg",
-      "510610PI 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Blanco": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 510610PI"
   },
   {
     "codigo": "510530PI",
