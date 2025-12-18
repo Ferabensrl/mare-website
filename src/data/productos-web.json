@@ -108,7 +108,6 @@
     "sinColor": false,
     "permitirSurtido": true,
     "colores": {
-      "Negro": true,
       "Lila": true,
       "Celeste": true,
       "Marron Claro": true,
@@ -493,7 +492,6 @@
       "Negro": true,
       "Lila": true,
       "Rosado": true,
-      "Beige": true,
       "Petroleo": true,
       "Azul": true
     },
@@ -1043,8 +1041,7 @@
       "Lila": true,
       "Rosado": true,
       "Marron Claro": true,
-      "Terracota": true,
-      "Crudo": true
+      "Terracota": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: LB5019"
@@ -6780,21 +6777,6 @@
     "whatsappMessage": "Hola, me interesa este producto: SL0259"
   },
   {
-    "codigo": "FN25278",
-    "nombre": "Pulsera acero",
-    "descripcion": "Pulsera acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "FN25278 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25278"
-  },
-  {
     "codigo": "FN25279",
     "nombre": "Pulsera acero",
     "descripcion": "Pulsera acero",
@@ -7741,29 +7723,6 @@
     "whatsappMessage": "Hola, me interesa este producto: W0004"
   },
   {
-    "codigo": "W2002",
-    "nombre": "Billetera dama jean",
-    "descripcion": "Billetera dama larga",
-    "categoria": "Billeteras",
-    "medidas": "19 X 10 X 2CM",
-    "imagenes": [
-      "W2002 1.jpg",
-      "W2002 2.jpg",
-      "W2002 3.jpg",
-      "W2002 4.jpg"
-    ],
-    "imagenVariantes": "W2002 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {
-      "C1": true,
-      "C2": true,
-      "C3": true
-    },
-    "whatsappMessage": "Hola, me interesa este producto: W2002"
-  },
-  {
     "codigo": "FN360",
     "nombre": "Billetera dama",
     "descripcion": "Billetera dama larga",
@@ -8205,28 +8164,6 @@
     "whatsappMessage": "Hola, me interesa este producto: BILLH016"
   },
   {
-    "codigo": "BILLH022",
-    "nombre": "Billetera de hombre",
-    "descripcion": "Billetera de hombre",
-    "categoria": "Caballero",
-    "medidas": "12,5 X 9,5 X 2,5CM",
-    "imagenes": [
-      "BILLH022 1.jpg",
-      "BILLH022 2.jpg",
-      "BILLH022 3.jpg"
-    ],
-    "imagenVariantes": "BILLH022 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BILLH022"
-  },
-  {
     "codigo": "BILLH2712",
     "nombre": "Billetera de hombre",
     "descripcion": "Billetera de hombre",
@@ -8272,31 +8209,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: BILLH5502"
-  },
-  {
-    "codigo": "BILLH5505",
-    "nombre": "Billetera de hombre",
-    "descripcion": "Billetera de hombre",
-    "categoria": "Caballero",
-    "medidas": "11,5 X 9,5 X 2,5CM",
-    "imagenes": [
-      "BILLH5505 1.jpg",
-      "BILLH5505 2.jpg",
-      "BILLH5505 3.jpg",
-      "BILLH5505 4.jpg",
-      "BILLH5505 5.jpg",
-      "BILLH5505 6.jpg"
-    ],
-    "imagenVariantes": "BILLH5505 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Negro": true,
-      "Marron Claro": true,
-      "Marron Oscuro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: BILLH5505"
   },
   {
     "codigo": "BILLH5516",
@@ -8477,23 +8389,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: MB005"
-  },
-  {
-    "codigo": "FN2121",
-    "nombre": "Cinto hombre",
-    "descripcion": "Cinto hombre",
-    "categoria": "Caballero",
-    "medidas": "120 x 3,6cm",
-    "imagenes": [
-      "FN2121 1.jpg",
-      "FN2121 2.jpg"
-    ],
-    "imagenVariantes": "FN2121 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN2121"
   },
   {
     "codigo": "CINTO1555",
@@ -10148,22 +10043,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: RELW006-A"
-  },
-  {
-    "codigo": "RELW006-B",
-    "nombre": "Reloj dama goma",
-    "descripcion": "Reloj dama",
-    "categoria": "Relojes",
-    "medidas": "",
-    "imagenes": [
-      "RELW006-B 1.jpg"
-    ],
-    "imagenVariantes": "RELW006-B VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: RELW006-B"
   },
   {
     "codigo": "RELW006-C",
