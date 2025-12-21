@@ -683,28 +683,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B11014"
   },
   {
-    "codigo": "B1101",
-    "nombre": "Bandolera / Bolso",
-    "descripcion": "Bandolera",
-    "categoria": "A Marroquineria",
-    "medidas": "23 X 17 X 12CM",
-    "imagenes": [
-      "B1101 1.jpg",
-      "B1101 2.jpg",
-      "B1101 3.jpg",
-      "B1101 4.jpg",
-      "B1101 5.jpg"
-    ],
-    "imagenVariantes": "B1101 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Verde claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B1101"
-  },
-  {
     "codigo": "B013",
     "nombre": "Bandolera / Bolso",
     "descripcion": "Bandolera",
@@ -988,9 +966,9 @@
     ],
     "imagenVariantes": "B1119-2 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Rosado": true,
+      "Lila": true,
       "Verde Agua": true
     },
     "variantes": {},
@@ -1577,10 +1555,9 @@
     ],
     "imagenVariantes": "FNB1024 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
       "Verde": true,
-      "Lila": true,
       "Rosado": true
     },
     "variantes": {},
@@ -4739,24 +4716,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25080"
   },
   {
-    "codigo": "FN25290",
-    "nombre": "Caravanas acero",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "FN25290 1.jpg",
-      "FN25290 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25290"
-  },
-  {
     "codigo": "FN251158",
     "nombre": "Caravanas acero",
     "descripcion": "Caravanas acero",
@@ -5033,24 +4992,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 6291"
-  },
-  {
-    "codigo": "FN25363",
-    "nombre": "Aros acero 20mm",
-    "descripcion": "Caravanas acero",
-    "categoria": "Acero",
-    "medidas": "2CM",
-    "imagenes": [
-      "FN25363 1.jpg",
-      "FN25363 2.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25363"
   },
   {
     "codigo": "FN25365",
@@ -8799,10 +8740,9 @@
     ],
     "imagenVariantes": "FN8104 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Blanco": true,
-      "Fucsia": true
+      "Blanco": true
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN8104"
@@ -12441,21 +12381,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 13650"
   },
   {
-    "codigo": "28292",
-    "nombre": "Caravanas enchapadas en plata Gatita",
-    "descripcion": "Enchapado infantil",
-    "categoria": "Z Enchapado",
-    "medidas": "",
-    "imagenes": [
-      "28292 1.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 28292"
-  },
-  {
     "codigo": "12980",
     "nombre": "Anillo enchapado en oro Unicornio",
     "descripcion": "Enchapado infantil",
@@ -12890,23 +12815,6 @@
     },
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: RC09931"
-  },
-  {
-    "codigo": "60512",
-    "nombre": "Gargantilla enchapada",
-    "descripcion": "Gargantilla enchapada",
-    "categoria": "Z Enchapado",
-    "medidas": "40+5cm",
-    "imagenes": [
-      "60512 1.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": false,
-    "colores": {
-      "Plateado": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 60512"
   },
   {
     "codigo": "61392",
