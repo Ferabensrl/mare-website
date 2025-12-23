@@ -2743,23 +2743,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B024"
   },
   {
-    "codigo": "B040",
-    "nombre": "Set colitas x2",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B040 1.jpg",
-      "B040 2.jpg",
-      "B040 3.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B040"
-  },
-  {
     "codigo": "B045",
     "nombre": "Set colitas x6",
     "descripcion": "Set colitas",
@@ -2809,24 +2792,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B070"
-  },
-  {
-    "codigo": "B061",
-    "nombre": "Set colitas x2",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B061 1.jpg",
-      "B061 2.jpg",
-      "B061 3.jpg",
-      "B061 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B061"
   },
   {
     "codigo": "B201",
@@ -3394,24 +3359,6 @@
     "whatsappMessage": "Hola, me interesa este producto: B211"
   },
   {
-    "codigo": "B215",
-    "nombre": "Set colitas x2",
-    "descripcion": "Set colitas",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "B215 1.jpg",
-      "B215 2.jpg",
-      "B215 3.jpg",
-      "B215 4.jpg"
-    ],
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: B215"
-  },
-  {
     "codigo": "B162",
     "nombre": "Set colitas x2",
     "descripcion": "Set colitas",
@@ -3745,23 +3692,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: B380"
-  },
-  {
-    "codigo": "G05",
-    "nombre": "Set ondulines 20pcs",
-    "descripcion": "Set de ondulines",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "G05 1.jpg",
-      "G05 2.jpg",
-      "G05 3.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: G05"
   },
   {
     "codigo": "H0018",
@@ -6051,22 +5981,6 @@
     "whatsappMessage": "Hola, me interesa este producto: 312774G"
   },
   {
-    "codigo": "312274",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "312274 1.jpg",
-      "312274 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 312274"
-  },
-  {
     "codigo": "312344",
     "nombre": "Cadena acero y dije enchapado Flor",
     "descripcion": "Gargantilla acero",
@@ -6161,22 +6075,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: 35614M"
-  },
-  {
-    "codigo": "311054P",
-    "nombre": "Cadena acero y dije enchapado Arbol de la vida",
-    "descripcion": "Gargantilla acero",
-    "categoria": "Acero",
-    "medidas": "",
-    "imagenes": [
-      "311054P 1.jpg",
-      "311054P 2.jpg"
-    ],
-    "sinColor": true,
-    "permitirSurtido": false,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: 311054P"
   },
   {
     "codigo": "311054M",
