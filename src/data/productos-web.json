@@ -764,12 +764,10 @@
     ],
     "imagenVariantes": "B6007 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Negro": true,
       "Nude": true,
       "Verde": true,
-      "Lila": true,
       "Rosado": true,
       "Mostaza": true
     },
@@ -883,9 +881,9 @@
     ],
     "imagenVariantes": "FNB2000 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Rosado": true,
+      "Gris": true,
       "Verde Agua": true
     },
     "variantes": {},
@@ -1139,10 +1137,8 @@
     ],
     "imagenVariantes": "H001 VARIANTES.jpg",
     "sinColor": false,
-    "permitirSurtido": true,
+    "permitirSurtido": false,
     "colores": {
-      "Rosado": true,
-      "Gris": true,
       "Verde claro": true,
       "Rojo": true
     },
@@ -1535,7 +1531,7 @@
     "permitirSurtido": true,
     "colores": {
       "Negro": true,
-      "Gris": true,
+      "Lila": true,
       "Verde claro": true,
       "Azul": true
     },
@@ -2075,38 +2071,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25111"
   },
   {
-    "codigo": "FN25753",
-    "nombre": "Pinza 6cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25753 1.jpg"
-    ],
-    "imagenVariantes": "FN25753 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25753"
-  },
-  {
-    "codigo": "FN25758",
-    "nombre": "Pinza 10,5cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25758 1.jpg"
-    ],
-    "imagenVariantes": "FN25758 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25758"
-  },
-  {
     "codigo": "FN25780",
     "nombre": "Pinza 8cm",
     "descripcion": "Pinza",
@@ -2121,22 +2085,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25780"
-  },
-  {
-    "codigo": "FN25751",
-    "nombre": "Pinza 5,5cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25751 1.jpg"
-    ],
-    "imagenVariantes": "FN25751 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25751"
   },
   {
     "codigo": "FN25779",
@@ -2171,22 +2119,6 @@
     "whatsappMessage": "Hola, me interesa este producto: FN25513"
   },
   {
-    "codigo": "FN25773",
-    "nombre": "Pinza 8cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25773 1.jpg"
-    ],
-    "imagenVariantes": "FN25773 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25773"
-  },
-  {
     "codigo": "FN25772",
     "nombre": "Pinza 6cm",
     "descripcion": "Pinza",
@@ -2217,22 +2149,6 @@
     "colores": {},
     "variantes": {},
     "whatsappMessage": "Hola, me interesa este producto: FN25802"
-  },
-  {
-    "codigo": "FN25778",
-    "nombre": "Pinza 8,5cm",
-    "descripcion": "Pinza",
-    "categoria": "Accesorios para pelo",
-    "medidas": "",
-    "imagenes": [
-      "FN25778 1.jpg"
-    ],
-    "imagenVariantes": "FN25778 VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {},
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: FN25778"
   },
   {
     "codigo": "FN25707",
@@ -7246,28 +7162,6 @@
       "C4": true
     },
     "whatsappMessage": "Hola, me interesa este producto: W2126"
-  },
-  {
-    "codigo": "W307-2B",
-    "nombre": "Billetera dama corta",
-    "descripcion": "Billetera dama corta",
-    "categoria": "Billeteras",
-    "medidas": "11,5 x 9 x 2cm",
-    "imagenes": [
-      "W307-2B 1.jpg",
-      "W307-2B 2.jpg",
-      "W307-2B 3.jpg",
-      "W307-2B 4.jpg"
-    ],
-    "imagenVariantes": "W307-2B VARIANTES.jpg",
-    "sinColor": false,
-    "permitirSurtido": true,
-    "colores": {
-      "Lila": true,
-      "Marron Claro": true
-    },
-    "variantes": {},
-    "whatsappMessage": "Hola, me interesa este producto: W307-2B"
   },
   {
     "codigo": "W219",
